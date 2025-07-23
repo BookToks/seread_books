@@ -1,0 +1,10 @@
+But this time, something was different.
+ 
+ A wildly disproportionate fraction of this traffic—more than 70 percent by some reports—was visiting a single location in the sprawling domain. It wasn’t a front-page breaking news story, and it wasn’t commentary from one of the paper’s Pulitzer Prize– winning columnists; it was instead a blog run by a baseball stats geek turned election forecaster named Nate Silver. Less than a year later, ESPN and ABC News lured Silver away from the Times (which tried to retain him by promising a staff of up to a dozen writers) in a major deal that would give Silver’s operation a role in everything from sports to weather to network news segments to, improbably enough, Academy Awards telecasts. Though there’s debate about the methodological rigor of Silver’s hand-tuned models, there are few who deny that in 2012 this thirty-five-year-old data whiz was a winner in our economy.
+ 
+ Another winner is David Heinemeier Hansson, a computer programming star who created the Ruby on Rails website development framework, which currently provides the foundation for some of the Web’s most popular destinations, including Twitter and Hulu. Hansson is a partner in the influential development firm Basecamp (called 37signals until 2014). Hansson doesn’t talk publicly about the magnitude of his profit share from Basecamp or his other revenue sources, but we can assume they’re lucrative given that Hansson splits his time between Chicago, Malibu, and Marbella, Spain, where he dabbles in high-performance race-car driving.
+ 
+ Our third and final example of a clear winner in our economy is John Doerr, a general partner in the famed Silicon Valley venture capital fund Kleiner Perkins Caufield & Byers. Doerr helped fund many of the key companies fueling the current technological revolution, including Twitter, Google, Amazon, Netscape, and Sun Microsystems. The return on these investments has been astronomical: Doerr’s net worth, as of this writing, is more than $3 billion.
+ 
+ Why have Silver, Hansson, and Doerr done so well? There are two types of answers to this question.
+ 

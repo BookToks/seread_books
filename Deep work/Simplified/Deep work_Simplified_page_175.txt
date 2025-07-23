@@ -1,0 +1,5 @@
+Lexical decision games show a bunch of letters on the screen. Some of these letters make real words, and some do not.
+
+The player has to quickly decide if the word is real or fake. They press one key for “real” and another key for “not real.”
+
+These games help measure how much certain words are “active” in the player’s mind. When a word is more active, the player presses the “real word” key faster when they see it.

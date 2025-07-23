@@ -1,0 +1,36 @@
+http://www.reddit.com/r/IAmA/comments/166yeo/iama_blogger_for_fivethirtyeight_at_the_new_york.
+ 
+ • “Why Use Stata.” www.stata.com/why-use-stata/.
+ 
+ The SQL example I gave was from postgreSQL, an open source database system popular in both industry and (especially) academia. I don’t know what specific system Silver uses, but it almost certainly requires some variant of the SQL language used in this example.
+ 
+ Deep Work Helps You Quickly Learn Hard Things “Let your mind become a lens”: from page 95 of Sertillanges, Antonin-Dalmace. The Intellectual Life: Its Spirits, Conditions, Methods. Trans. Mary Ryan. Cork, Ireland: Mercier Press, 1948.
+ 
+ “the development and deepening of the mind”: Ibid., 13.
+ 
+ Details about deliberate practice draw heavily on the following seminal survey paper on the topic: Ericsson, K.A., R.T. Krampe, and C. Tesch-Römer. “The Role of Deliberate Practice in the Acquisition of Expert Performance.” Psychological Review 100.3 (1993): 363–406.
+ 
+ “We deny that these differences [between expert performers and normal adults] are immutable”: Ibid., 13.
+ 
+ “Men of genius themselves”: from page 95 of Sertillanges, The Intellectual Life.
+ 
+ “Diffused attention is almost antithetical to the focused attention required by deliberate practice”: from page 368 of Ericsson, Krampe, and Tesch-Romer. “The Role of Deliberate Practice in the Acquisition of Expert Performance.” Details on the neurobiology of expert performance can be found in: Coyle, The Talent Code.
+ 
+ Coyle also has a nice slideshow about myelination at his website: “Want to Be a Superstar Athlete? Build More Myelin.” The Talent Code. www.thetalentcode.com/myelin.
+ 
+ For more on deliberate practice, the following two books provide a good popular overview: • Colvin, Geoffrey. Talent Is Overrated: What Really Separates World-Class Performers from Everybody Else. New York: Portfolio, 2008.
+ 
+ • Coyle, Daniel. The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How. New York: Bantam, 2009.
+ 
+ Deep Work Helps You Produce at an Elite Level More about Adam Grant, his records, and his (thirty-page) CV can be found at his academic website: https://mgmt.wharton.upenn.edu/profile/1323/.
+ 
+ Grant, Adam. Give and Take: Why Helping Others Drives Our Success. New York: Viking Adult, 2013.
+ 
+ The article on Adam Grant in the New York Times Magazine: Dominus, Susan. “The Saintly Way to Succeed.” New York Times Magazine, March 31, 2013: MM20.
+ 
+ Newport, Cal. How to Become a Straight-A Student: The Unconventional Strategies Used by Real College Students to Score High While Studying Less. New York: Three Rivers Press, 2006.
+ 
+ Leroy, Sophie. “Why Is It So Hard to Do My Work? The Challenge of Attention Residue When Switching Between Work Tasks.” Organizational Behavior and Human Decision Processes 109 (2009): 168–181.
+ 
+ What About Jack Dorsey?
+ 

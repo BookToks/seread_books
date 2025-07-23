@@ -1,0 +1,2 @@
+* There is some debate in the literature as to whether these are the exact same quantity. For our purposes, however, this doesn’t matter. The key observation is that there is a limited resource, necessary to attention, that must be conserved.
+ 

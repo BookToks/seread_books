@@ -1,0 +1,9 @@
+In computer science, having an h-index score over 40 is really hard and shows you’ve had a strong career for a long time. But if your h-index is less than 10 when you’re up for a big job review, you might be in trouble.
+
+Google Scholar is a popular tool for academics to find research papers, and it even calculates your h-index for you. That way, you can see exactly how well you’re doing, many times a week. (For example, when I wrote this, my score was 21.) Knowing this makes it easier for professors to decide how they should work. 
+
+The late physicist Richard Feynman had a different way of working. He said to do great physics, you need long, focused time without interruptions. If you have to do admin work, you won’t have that time. So, he told people he was “irresponsible” on purpose, saying no to things like committees. He avoided tasks that would stop him from doing what really mattered: his physics research.
+
+Feynman probably wasn’t great at answering emails and wouldn’t like working in open offices or using social media. He knew what was important and ignored the rest.
+
+I talk about professors because they are different from most workers who don’t have a clear way to see how well they’re doing. Matthew Crawford, a social critic, said managers often feel confused and stressed because their goals are unclear. Crawford once quit his office job to open a motorcycle repair shop because fixing bikes gave him a clear feeling of success. He could see his hard work paying off when the bike worked again, something he missed in his office job with endless reports and emails.

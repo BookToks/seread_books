@@ -1,0 +1,14 @@
+Fewer official working hours helps squeeze the fat out of the typical workweek. Once everyone has less time to get their stuff done, they respect that time even more. People become stingy with their time and that’s a good thing. They don’t waste it on things that just don’t matter. When you have fewer hours you usually spend them more wisely.
+ 
+ In other words, the reduction in the 37signals workweek disproportionately eliminated shallow as compared to deep work, and because the latter was left largely untouched, the important stuff continued to get done. The shallow stuff that can seem so urgent in the moment turned out to be unexpectedly dispensable.
+ 
+ A natural reaction to this experiment is to wonder what would happen if 37signals had gone one step further. If eliminating hours of shallow work had little impact on the results produced, what would happen if they not only eliminated shallow work, but then replaced this newly recovered time with more deep work? Fortunately for our curiosity, the company soon put this bolder idea to the test as well.
+ 
+ Fried had always been interested in the policies of technology companies like Google that gave their employees 20 percent of their time to work on self-directed projects. While he liked this idea, he felt that carving one day out of an otherwise busy week was not enough to support the type of unbroken deep work that generates true breakthroughs. “I’d take 5 days in a row over 5 days spread out over 5 weeks,” he explained. “So our theory is that we’ll see better results when people have a long stretch of uninterrupted time.” To test this theory, 37signals implemented something radical: The company gave its employees the entire month of June off to work deeply on their own projects. This month would be a period free of any shallow work obligations—no status meetings, no memos, and, blessedly, no PowerPoint. At the end of the month, the company held a “pitch day” in which employees pitched the ideas they’d been working on.
+ 
+ Summarizing the experiment in an Inc. magazine article, Fried dubbed it a success.
+ 
+ The pitch day produced two projects that were soon put into production: a better suite of tools for handling customer support and a data visualization system that helps the company understand how their customers use their products. These projects are predicted to bring substantial value to the company, but they almost certainly would not have been produced in the absence of the unobstructed deep work time provided to the employees. To tease out their potential required dozens of hours of unimpeded effort.
+ 
+ “How can we afford to put our business on hold for a month to ‘mess around’ with new ideas?” Fried asked rhetorically. “How can we afford not to?” 37signals’ experiments highlight an important reality: The shallow work that increasingly dominates the time and attention of knowledge workers is less vital than it often seems in the moment.
+ 

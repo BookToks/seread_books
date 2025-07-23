@@ -1,0 +1,14 @@
+Benn needed to learn a hard skill, and needed to do so fast.
+ 
+ It’s here that Benn ran into the same problem that holds back many knowledge workers from navigating into more explosive career trajectories. Learning something complex like computer programming requires intense uninterrupted concentration on cognitively demanding concepts—the type of concentration that drove Carl Jung to the woods surrounding Lake Zurich. This task, in other words, is an act of deep work.
+ 
+ Most knowledge workers, however, as I argued earlier in this introduction, have lost their ability to perform deep work. Benn was no exception to this trend.
+ 
+ “I was always getting on the Internet and checking my e-mail; I couldn’t stop myself; it was a compulsion,” Benn said, describing himself during the period leading up to his quitting his finance job. To emphasize his difficulty with depth, Benn told me about a project that a supervisor at the finance firm once brought to him. “They wanted me to write a business plan,” he explained. Benn didn’t know how to write a business plan, so he decided he would find and read five different existing plans—comparing and contrasting them to understand what was needed. This was a good idea, but Benn had a problem: “I couldn’t stay focused.” There were days during this period, he now admits, when he spent almost every minute (“98 percent of my time”) surfing the Web.
+ 
+ The business plan project—a chance to distinguish himself early in his career—fell to the wayside.
+ 
+ By the time he quit, Benn was well aware of his difficulties with deep work, so when he dedicated himself to learning how to code, he knew he had to simultaneously teach his mind how to go deep. His method was drastic but effective. “I locked myself in a room with no computer: just textbooks, notecards, and a highlighter.” He would highlight the computer programming textbooks, transfer the ideas to notecards, and then practice them out loud. These periods free from electronic distraction were hard at first, but Benn gave himself no other option: He had to learn this material, and he made sure there was nothing in that room to distract him. Over time, however, he got better at concentrating, eventually getting to a point where he was regularly clocking five or more disconnected hours per day in the room, focused without distraction on learning this hard new skill. “I probably read something like eighteen books on the topic by the time I was done,” he recalls.
+ 
+ After two months locked away studying, Benn attended the notoriously difficult Dev Bootcamp: a hundred-hour-a-week crash course in Web application programming. (While researching the program, Benn found a student with a PhD from Princeton who had described Dev as “the hardest thing I’ve ever done in my life.”) Given both his preparation and his newly honed ability for deep work, Benn excelled.
+ 

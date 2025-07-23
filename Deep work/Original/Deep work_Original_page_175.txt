@@ -1,0 +1,2 @@
+* Lexical decision games flash strings of letters on the screen; some form real words, and some do not. The player has to decide as quickly as possible if the word is real or not, pressing one key to indicate “real” and another to indicate “not real.” These tests allow you to quantify how much certain keywords are “activated” in the player’s mind, because more activation leads the player to hit the “real word” quicker when they see it flash on the screen.
+ 

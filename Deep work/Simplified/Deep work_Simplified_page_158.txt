@@ -1,0 +1,31 @@
+The SQL example I gave was from postgreSQL, which is a free database system used a lot in companies and especially in schools. I don’t know exactly what system Silver uses, but it probably uses some kind of SQL language like the example I showed.
+
+Deep Work Helps You Learn Hard Things Fast. “Let your mind become a lens” is a quote from page 95 of a book called The Intellectual Life by Antonin-Dalmace Sertillanges, translated by Mary Ryan.
+
+“The development and deepening of the mind” is from the same book on page 13.
+
+Information about deliberate practice comes mostly from an important paper by Ericsson, Krampe, and Tesch-Römer called “The Role of Deliberate Practice in the Acquisition of Expert Performance,” published in 1993.
+
+“We deny that these differences [between expert performers and normal adults] are unchangeable” is from that same paper on page 13.
+
+“Men of genius themselves” is from page 95 of Sertillanges’ The Intellectual Life.
+
+“Diffused attention is almost the opposite of the focused attention needed for deliberate practice” is from page 368 of Ericsson, Krampe, and Tesch-Römer’s paper. More info about how the brain works in expert performance is in the book The Talent Code by Daniel Coyle.
+
+Coyle also has a cool slideshow about myelination (how the brain gets better at skills) on his website called “Want to Be a Superstar Athlete? Build More Myelin.”
+
+For more about deliberate practice, two good books are:  
+• Talent Is Overrated by Geoffrey Colvin  
+• The Talent Code by Daniel Coyle
+
+Deep Work Also Helps You Work Like a Pro. You can learn more about Adam Grant, his achievements, and his long resume on his school website.
+
+Adam Grant wrote a book called Give and Take about how helping others leads to success.
+
+There’s also an article about Adam Grant in the New York Times Magazine called “The Saintly Way to Succeed.”
+
+Cal Newport wrote a book called How to Become a Straight-A Student that shares smart study tips from real college students.
+
+Sophie Leroy wrote about why it’s hard to focus when switching between tasks in a paper called “Why Is It So Hard to Do My Work?” published in 2009.
+
+What About Jack Dorsey?

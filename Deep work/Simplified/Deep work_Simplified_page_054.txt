@@ -1,0 +1,11 @@
+Gonzalez talks about computer programming the same way woodworkers talk about their skills, as shown in quotes from Dreyfus and Kelly.
+
+The book The Pragmatic Programmer, which is popular among programmers, connects coding to old-fashioned crafts. It shares a medieval quarry worker’s saying: “We who cut mere stones must always be envisioning cathedrals.” This means that programmers should think about their work as part of a bigger project, where there’s room for creativity and skill. Even though our engineering might seem old-fashioned in 100 years, the care and skill we put in will still be respected.
+
+You don’t have to work outside or with your hands for your job to be considered a craft, like Dreyfus and Kelly describe. Many skilled jobs today—like writing, marketing, consulting, or law—can also be crafts. If you get better at your work and do it with respect and care, you can find meaning in what you do every day, just like a skilled wheelwright.
+
+Some people might think their job can’t be meaningful because it feels boring or ordinary.
+
+But this way of thinking is wrong, and looking at traditional crafts can help fix it. Today, we focus too much on what a job is called. For example, many believe you have to “follow your passion” and pick a special job to be happy. This idea says only a few jobs, like working for a nonprofit or starting a tech company, can be satisfying, and the rest are dull.
+
+Dreyfus and Kelly’s ideas help us avoid this mistake. The craftsmen they talk about didn’t have fancy jobs. For most of history, being a blacksmith or wheelwright wasn’t glamorous. But that doesn’t matter because the meaning comes from the skill and care in the work, not what the work produces. A wooden wheel isn’t special on its own, but making it well is. The same goes for knowledge work—you don’t need a special job, you need a special way of doing your job.

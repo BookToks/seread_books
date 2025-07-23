@@ -1,0 +1,13 @@
+These technologies change really fast, so learning hard things is something you have to keep doing all the time. You need to be able to learn new stuff quickly, again and again.
+
+Being able to learn hard things fast isn’t just important for working with smart machines. It’s also key if you want to be amazing in almost any area—even ones not related to technology. For example, to be a top yoga teacher, you have to get really good at doing tricky physical moves. Or, if you want to be great in a certain medical field, you need to quickly learn the newest research and techniques. In short: If you can’t learn, you won’t do well.
+
+Now think about the second important skill: producing work at a top level. Just knowing the skills isn’t enough to be a superstar. You have to turn your skills into real results that people care about. Many programmers can code well, but David Hansson, a famous example, used his skills to create Ruby on Rails, a project that made him famous. To do this, Hansson had to push himself and make something clearly valuable.
+
+This skill of producing also matters when working with smart machines.
+
+Nate Silver didn’t just learn how to handle big data and do stats. He had to prove he could use those skills to find important information that lots of people wanted to know. At Baseball Prospectus, Silver worked with many stats experts, but he alone worked hard to use those skills to predict elections, which paid off more. This shows another important idea: If you don’t produce, you won’t succeed, no matter how good you are.
+
+Now that we know these two skills are super important in our tech-changed world, the next question is: How do you get better at them? This is the main idea of the book: Both skills depend on your ability to do “deep work.” If you can’t focus deeply, you’ll have a hard time learning hard things or doing great work.
+
+The link between deep work and these skills isn’t easy to see at first. To understand it, we need to look at how learning, focus, and productivity really work. The next parts will explain this, and they’ll help you see why deep work is so important for success.
