@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Deep Work - Book Reader</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <h1>Deep Work: Original Pages</h1>
+  <div id="content"></div>
+
+  <script>
+    const container = document.getElementById('content');
+    for (let i = 1; i <= 189; i++) {
+      const pageNum = String(i).padStart(3, '0');
+      const file = `Deep work/Original/Deep work_Original_page_${pageNum}.txt`;
+
+      const div = document.createElement('div');
+      div.innerHTML = `<h3>Page ${i}</h3><pre id="p${i}">Loading...</pre>`;
+      container.appendChild(div);
+
+      fetch(file)
+        .then(res => res.text())
+        .then(text => {
+          document.getElementById(`p${i}`).innerText = text;
+        })
+        .catch(() => {
+          document.getElementById(`p${i}`).innerText = "Page not found.";
+        });
+    }
+  </script>
+</body>
+</html>
