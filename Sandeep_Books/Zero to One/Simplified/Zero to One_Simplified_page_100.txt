@@ -1,0 +1,18 @@
+Marketing and Advertising Marketing and advertising work for relatively low-priced products that have mass appeal but lack any method of viral distribution. Procter & Gamble can’t afford to pay salespeople to go door-todoor selling laundry detergent. (P&G does employ salespeople to talk to grocery chains and large retail outlets, since one detergent sale made to these buyers might mean 100,000 one-gallon bottles.) To reach its end user, a packaged goods company has to produce television commercials, print coupons in newspapers, and design its product boxes to attract attention.
+ 
+ Advertising can work for startups, too, but only when your customer acquisition costs and customer lifetime value make every other distribution channel uneconomical. Consider e-commerce startup Warby Parker, which designs and sells fashionable prescription eyeglasses online instead of contracting sales out to retail eyewear distributors. Each pair starts at around $100, so assuming the average customer buys a few pairs in her lifetime, the company’s CLV is a few hundred dollars.
+ 
+ That’s too little to justify personal attention on every transaction, but at the other extreme, hundreddollar physical products don’t exactly go viral. By running advertisements and creating quirky TV commercials, Warby is able to get its better, less expensive offerings in front of millions of eyeglasswearing customers. The company states plainly on its website that “TV is a great big megaphone,” and when you can only afford to spend dozens of dollars acquiring a new customer, you need the biggest megaphone you can find.
+ 
+ Every entrepreneur envies a recognizable ad campaign, but startups should resist the temptation to compete with bigger companies in the endless contest to put on the most memorable TV spots or the most elaborate PR stunts. I know this from experience. At PayPal we hired James Doohan, who played Scotty on Star Trek, to be our official spokesman. When we released our first software for the PalmPilot, we invited journalists to an event where they could hear James recite this immortal line: “I’ve been beaming people up my whole career, but this is the first time I’ve ever been able to beam money!” It flopped—the few who actually came to cover the event weren’t impressed. We were all nerds, so we had thought Scotty the Chief Engineer could speak with more authority than, say, Captain Kirk. (Just like a salesman, Kirk was always showboating out in some exotic locale and leaving it up to the engineers to bail him out of his own mistakes.) We were wrong: when Priceline.com cast William Shatner (the actor who played Kirk) in a famous series of TV spots, it worked for them. But by then Priceline was a major player. No early-stage startup can match big companies’ advertising budgets. Captain Kirk truly is in a league of his own.
+ 
+ Viral Marketing A product is viral if its core functionality encourages users to invite their friends to become users too.
+ 
+ This is how Facebook and PayPal both grew quickly: every time someone shares with a friend or makes a payment, they naturally invite more and more people into the network. This isn’t just cheap— it’s fast, too. If every new user leads to more than one additional user, you can achieve a chain reaction of exponential growth. The ideal viral loop should be as quick and frictionless as possible.
+ 
+ Funny YouTube videos or internet memes get millions of views very quickly because they have extremely short cycle times: people see the kitten, feel warm inside, and forward it to their friends in a matter of seconds.
+ 
+
+ 
+(Simplified)
+ 

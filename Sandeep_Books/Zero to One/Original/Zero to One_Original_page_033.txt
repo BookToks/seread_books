@@ -1,0 +1,24 @@
+WAR AND PEACE Professors downplay the cutthroat culture of academia, but managers never tire of comparing business to war. MBA students carry around copies of Clausewitz and Sun Tzu. War metaphors invade our everyday business language: we use headhunters to build up a sales force that will enable us to take a captive market and make a killing. But really it’s competition, not business, that is like war: allegedly necessary, supposedly valiant, but ultimately destructive.
+ 
+ Why do people compete with each other? Marx and Shakespeare provide two models for understanding almost every kind of conflict.
+ 
+ According to Marx, people fight because they are different. The proletariat fights the bourgeoisie because they have completely different ideas and goals (generated, for Marx, by their very different material circumstances). The greater the differences, the greater the conflict.
+ 
+ To Shakespeare, by contrast, all combatants look more or less alike. It’s not at all clear why they should be fighting, since they have nothing to fight about. Consider the opening line from Romeo and Juliet: “Two households, both alike in dignity.” The two houses are alike, yet they hate each other.
+ 
+ They grow even more similar as the feud escalates. Eventually, they lose sight of why they started fighting in the first place.
+ 
+ In the world of business, at least, Shakespeare proves the superior guide. Inside a firm, people become obsessed with their competitors for career advancement. Then the firms themselves become obsessed with their competitors in the marketplace. Amid all the human drama, people lose sight of what matters and focus on their rivals instead.
+ 
+ Let’s test the Shakespearean model in the real world. Imagine a production called Gates and Schmidt, based on Romeo and Juliet. Montague is Microsoft. Capulet is Google. Two great families, run by alpha nerds, sure to clash on account of their sameness.
+ 
+ As with all good tragedy, the conflict seems inevitable only in retrospect. In fact it was entirely avoidable. These families came from very different places. The House of Montague built operating systems and office applications. The House of Capulet wrote a search engine. What was there to fight about?
+ 
+ Lots, apparently. As a startup, each clan had been content to leave the other alone and prosper independently. But as they grew, they began to focus on each other. Montagues obsessed about Capulets obsessed about Montagues. The result? Windows vs. Chrome OS, Bing vs. Google Search, Explorer vs. Chrome, Office vs. Docs, and Surface vs. Nexus.
+ 
+ Just as war cost the Montagues and Capulets their children, it cost Microsoft and Google their dominance: Apple came along and overtook them all. In January 2013, Apple’s market capitalization was $500 billion, while Google and Microsoft combined were worth $467 billion. Just three years before, Microsoft and Google were each more valuable than Apple. War is costly business.
+ 
+ Rivalry causes us to overemphasize old opportunities and slavishly copy what has worked in the past. Consider the recent proliferation of mobile credit card readers. In October 2010, a startup called Square released a small, white, square-shaped product that let anyone with an iPhone swipe and accept credit cards. It was the first good payment processing solution for mobile handsets.
+ 
+ Imitators promptly sprang into action. A Canadian company called NetSecure launched its own card reader in a half-moon shape. Intuit brought a cylindrical reader to the geometric battle. In March 2012, eBay’s PayPal unit launched its own copycat card reader. It was shaped like a triangle—a clear jab at Square, as three sides are simpler than four. One gets the sense that this Shakespearean saga won’t end until the apes run out of shapes.
+ 

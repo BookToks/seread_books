@@ -1,0 +1,12 @@
+Compare the value of the New York Times Company with Twitter. Each employs a few thousand people, and each gives millions of people a way to get news. But when Twitter went public in 2013, it was valued at $24 billion—more than 12 times the Times’s market capitalization —even though the Times earned $133 million in 2012 while Twitter lost money. What explains the huge premium for Twitter?
+ 
+ The answer is cash flow. This sounds bizarre at first, since the Times was profitable while Twitter wasn’t. But a great business is defined by its ability to generate cash flows in the future. Investors expect Twitter will be able to capture monopoly profits over the next decade, while newspapers’ monopoly days are over.
+ 
+ Simply stated, the value of a business today is the sum of all the money it will make in the future.
+ 
+ (To properly value a business, you also have to discount those future cash flows to their present worth, since a given amount of money today is worth more than the same amount in the future.) Comparing discounted cash flows shows the difference between low-growth businesses and highgrowth startups at its starkest. Most of the value of low-growth businesses is in the near term. An Old Economy business (like a newspaper) might hold its value if it can maintain its current cash flows for five or six years. However, any firm with close substitutes will see its profits competed away.
+ 
+ Nightclubs or restaurants are extreme examples: successful ones might collect healthy amounts today, but their cash flows will probably dwindle over the next few years when customers move on to newer and trendier alternatives.
+ 
+ Technology companies follow the opposite trajectory. They often lose money for the first few years: it takes time to build valuable things, and that means delayed revenue. Most of a tech company’s value will come at least 10 to 15 years in the future.
+ 

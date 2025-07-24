@@ -1,0 +1,18 @@
+Good enterprise sales strategy starts small, as it must: a new customer might agree to become your biggest customer, but they’ll rarely be comfortable signing a deal completely out of scale with what you’ve sold before. Once you have a pool of reference customers who are successfully using your product, then you can begin the long and methodical work of hustling toward ever bigger deals.
+ 
+ Personal Sales Most sales are not particularly complex: average deal sizes might range between $10,000 and $100,000, and usually the CEO won’t have to do all the selling himself. The challenge here isn’t about how to make any particular sale, but how to establish a process by which a sales team of modest size can move the product to a wide audience.
+ 
+ In 2008, Box had a good way for companies to store their data safely and accessibly in the cloud.
+ 
+ But people didn’t know they needed such a thing—cloud computing hadn’t caught on yet. That summer, Blake was hired as Box’s third salesperson to help change that. Starting with small groups of users who had the most acute file sharing problems, Box’s sales reps built relationships with more and more users in each client company. In 2009, Blake sold a small Box account to the Stanford Sleep Clinic, where researchers needed an easy, secure way to store experimental data logs. Today the university offers a Stanford-branded Box account to every one of its students and faculty members, and Stanford Hospital runs on Box. If it had started off by trying to sell the president of the university on an enterprise-wide solution, Box would have sold nothing. A complex sales approach would have made Box a forgotten startup failure; instead, personal sales made it a multibillion-dollar business.
+ 
+ Sometimes the product itself is a kind of distribution. ZocDoc is a Founders Fund portfolio company that helps people find and book medical appointments online. The company charges doctors a few hundred dollars per month to be included in its network. With an average deal size of just a few thousand dollars, ZocDoc needs lots of salespeople—so many that they have an internal recruiting team to do nothing but hire more. But making personal sales to doctors doesn’t just bring in revenue; by adding doctors to the network, salespeople make the product more valuable to consumers (and more consumer users increases its appeal to doctors). More than 5 million people already use the service each month, and if it can continue to scale its network to include a majority of practitioners, it will become a fundamental utility for the U.S. health care industry.
+ 
+ Distribution Doldrums In between personal sales (salespeople obviously required) and traditional advertising (no salespeople required) there is a dead zone. Suppose you create a software service that helps convenience store owners track their inventory and manage ordering. For a product priced around $1,000, there might be no good distribution channel to reach the small businesses that might buy it.
+ 
+ Even if you have a clear value proposition, how do you get people to hear it? Advertising would either be too broad (there’s no TV channel that only convenience store owners watch) or too inefficient (on its own, an ad in Convenience Store News probably won’t convince any owner to part with $1,000 a year). The product needs a personal sales effort, but at that price point, you simply don’t have the resources to send an actual person to talk to every prospective customer. This is why so many small and medium-sized businesses don’t use tools that bigger firms take for granted. It’s not that small business proprietors are unusually backward or that good tools don’t exist: distribution is the hidden bottleneck.
+ 
+
+ 
+(Simplified)
+ 

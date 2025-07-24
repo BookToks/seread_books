@@ -1,0 +1,14 @@
+What if we frame Google as a multifaceted technology company instead? This seems reasonable enough; in addition to its search engine, Google makes dozens of other software products, not to mention robotic cars, Android phones, and wearable computers. But 95% of Google’s revenue comes from search advertising; its other products generated just $2.35 billion in 2012, and its consumer tech products a mere fraction of that. Since consumer tech is a $964 billion market globally, Google owns less than 0.24% of it—a far cry from relevance, let alone monopoly. Framing itself as just another tech company allows Google to escape all sorts of unwanted attention.
+ 
+ Competitive Lies Non-monopolists tell the opposite lie: “we’re in a league of our own.” Entrepreneurs are always biased to understate the scale of competition, but that is the biggest mistake a startup can make. The fatal temptation is to describe your market extremely narrowly so that you dominate it by definition.
+ 
+ Suppose you want to start a restaurant that serves British food in Palo Alto. “No one else is doing it,” you might reason. “We’ll own the entire market.” But that’s only true if the relevant market is the market for British food specifically. What if the actual market is the Palo Alto restaurant market in general? And what if all the restaurants in nearby towns are part of the relevant market as well?
+ 
+ These are hard questions, but the bigger problem is that you have an incentive not to ask them at all.
+ 
+ When you hear that most new restaurants fail within one or two years, your instinct will be to come up with a story about how yours is different. You’ll spend time trying to convince people that you are exceptional instead of seriously considering whether that’s true. It would be better to pause and consider whether there are people in Palo Alto who would rather eat British food above all else. It’s very possible they don’t exist.
+ 
+ In 2001, my co-workers at PayPal and I would often get lunch on Castro Street in Mountain View.
+ 
+ We had our pick of restaurants, starting with obvious categories like Indian, sushi, and burgers. There were more options once we settled on a type: North Indian or South Indian, cheaper or fancier, and so on. In contrast to the competitive local restaurant market, PayPal was at that time the only email- based payments company in the world.
+ 
