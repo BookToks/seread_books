@@ -1,16 +1,11 @@
-That starts with asking yourself: what will the world look like 10 and 20 years from now, and how will my business fit in?
- 
- Few cleantech companies had a good answer. As a result, all their obituaries resemble each other.
- 
- A few months before it filed for bankruptcy in 2011, Evergreen Solar explained its decision to close one of its U.S. factories: Solar manufacturers in China have received considerable government and financial support.… Although [our] production costs … are now below originally planned levels and lower than most western manufacturers, they are still much higher than those of our low cost competitors in China.
- 
- But it wasn’t until 2012 that the “blame China” chorus really exploded. Discussing its bankruptcy filing, U.S. Department of Energy–backed Abound Solar blamed “aggressive pricing actions from Chinese solar panel companies” that “made it very difficult for an early stage startup company … to scale in current market conditions.” When solar panel maker Energy Conversion Devices failed in February 2012, it went beyond blaming China in a press release and filed a $950 million lawsuit against three prominent Chinese solar manufacturers—the same companies that Solyndra’s trustees in bankruptcy sued later that year on the grounds of attempted monopolization, conspiracy, and predatory pricing. But was competition from Chinese manufacturers really impossible to predict? Cleantech entrepreneurs would have done well to rephrase the durability question and ask: what will stop China from wiping out my business? Without an answer, the result shouldn’t have come as a surprise.
- 
- Beyond the failure to anticipate competition in manufacturing the same green products, cleantech embraced misguided assumptions about the energy market as a whole. An industry premised on the supposed twilight of fossil fuels was blindsided by the rise of fracking. In 2000, just 1.7% of America’s natural gas came from fracked shale. Five years later, that figure had climbed to 4.1%.
- 
- Nevertheless, nobody in cleantech took this trend seriously: renewables were the only way forward; fossil fuels couldn’t possibly get cheaper or cleaner in the future. But they did. By 2013, shale gas accounted for 34% of America’s natural gas, and gas prices had fallen more than 70% since 2008, devastating most renewable energy business models. Fracking may not be a durable energy solution, either, but it was enough to doom cleantech companies that didn’t see it coming.
- 
+It starts with asking yourself: what will the world look like 10 or 20 years from now, and how will my business fit in?
 
- 
-(Simplified)
- 
+Few cleantech companies had a good answer. Because of that, their stories all ended the same way.
+
+A few months before it went bankrupt in 2011, Evergreen Solar said it had to close one of its U.S. factories. They explained that solar companies in China got a lot of help from their government and money support. Even though Evergreen’s costs were lower than planned and lower than most Western makers, their costs were still higher than the cheap Chinese competitors.
+
+But it wasn’t until 2012 that blaming China really blew up. When Abound Solar, backed by the U.S. Department of Energy, went bankrupt, it blamed “aggressive pricing” from Chinese solar companies that made it hard for a new company to grow. When Energy Conversion Devices failed in 2012, it didn’t just blame China; it sued three big Chinese solar makers for things like trying to control the market and unfair pricing. Solyndra also sued those companies later that year. But was competition from China really a surprise? Cleantech entrepreneurs should have asked: what could stop China from destroying my business? Without an answer, their failure shouldn’t have shocked anyone.
+
+Besides not predicting competition from China, cleantech also made wrong guesses about the energy market. The industry thought fossil fuels were going away, but it didn’t see fracking coming. In 2000, only 1.7% of America’s natural gas came from fracked shale. Five years later, it was 4.1%.
+
+Still, no one in cleantech took this seriously. They believed renewables were the only future and fossil fuels wouldn’t get cheaper or cleaner. But they did. By 2013, shale gas made up 34% of America’s natural gas, and gas prices dropped more than 70% since 2008. This hurt most renewable energy businesses badly. Fracking might not last forever, but it was enough to crush cleantech companies that didn’t see it coming.

@@ -1,26 +1,21 @@
-Once it monopolized the Beanie Baby trade, eBay didn’t jump straight to listing sports cars or industrial surplus: it continued to cater to small-time hobbyists until it became the most reliable marketplace for people trading online no matter what the item.
- 
- Sometimes there are hidden obstacles to scaling—a lesson that eBay has learned in recent years.
- 
- Like all marketplaces, the auction marketplace lent itself to natural monopoly because buyers go where the sellers are and vice versa. But eBay found that the auction model works best for individually distinctive products like coins and stamps. It works less well for commodity products: people don’t want to bid on pencils or Kleenex, so it’s more convenient just to buy them from Amazon. eBay is still a valuable monopoly; it’s just smaller than people in 2004 expected it to be.
- 
- Sequencing markets correctly is underrated, and it takes discipline to expand gradually. The most successful companies make the core progression—to first dominate a specific niche and then scale to adjacent markets—a part of their founding narrative.
- 
- Don’t Disrupt Silicon Valley has become obsessed with “disruption.” Originally, “disruption” was a term of art to describe how a firm can use new technology to introduce a low-end product at low prices, improve the product over time, and eventually overtake even the premium products offered by incumbent companies using older technology. This is roughly what happened when the advent of PCs disrupted the market for mainframe computers: at first PCs seemed irrelevant, then they became dominant.
- 
- Today mobile devices may be doing the same thing to PCs.
- 
- However, disruption has recently transmogrified into a self-congratulatory buzzword for anything posing as trendy and new. This seemingly trivial fad matters because it distorts an entrepreneur’s self-understanding in an inherently competitive way. The concept was coined to describe threats to incumbent companies, so startups’ obsession with disruption means they see themselves through older firms’ eyes. If you think of yourself as an insurgent battling dark forces, it’s easy to become unduly fixated on the obstacles in your path. But if you truly want to make something new, the act of creation is far more important than the old industries that might not like what you create. Indeed, if your company can be summed up by its opposition to already existing firms, it can’t be completely new and it’s probably not going to become a monopoly.
- 
- Disruption also attracts attention: disruptors are people who look for trouble and find it. Disruptive kids get sent to the principal’s office. Disruptive companies often pick fights they can’t win. Think of Napster: the name itself meant trouble. What kinds of things can one “nap”? Music … Kids … and perhaps not much else. Shawn Fanning and Sean Parker, Napster’s then-teenage founders, credibly threatened to disrupt the powerful music recording industry in 1999. The next year, they made the cover of Time magazine. A year and a half after that, they ended up in bankruptcy court.
- 
- PayPal could be seen as disruptive, but we didn’t try to directly challenge any large competitor.
- 
- It’s true that we took some business away from Visa when we popularized internet payments: you might use PayPal to buy something online instead of using your Visa card to buy it in a store. But since we expanded the market for payments overall, we gave Visa far more business than we took.
- 
- The overall dynamic was net positive, unlike Napster’s negative-sum struggle with the U.S. recording industry. As you craft a plan to expand to adjacent markets, don’t disrupt: avoid competition as much as possible.
- 
+eBay started by selling Beanie Babies and didn’t jump straight to selling sports cars or industrial stuff. It kept focusing on small hobby sellers until it became the most trusted place for people to buy and sell things online, no matter what the item was.
 
- 
-(Simplified)
- 
+Sometimes growing bigger has hidden problems—eBay has learned this in recent years.
+
+Like all marketplaces, eBay naturally became a monopoly because buyers go where sellers are, and sellers go where buyers are. But the auction style works best for unique items like coins and stamps. It doesn’t work as well for everyday things like pencils or tissues, because people prefer to buy those quickly from places like Amazon. eBay is still an important monopoly, but it’s not as big as people thought it would be in 2004.
+
+Knowing when and how to grow is really important, and it takes patience to expand slowly. The most successful companies first become the best in one small area, then grow into nearby markets. This is a key part of their story.
+
+Silicon Valley talks a lot about “disruption.” At first, disruption meant using new technology to create cheap products that get better over time and eventually beat older, expensive ones. This happened when PCs replaced mainframe computers: PCs seemed useless at first but then took over.
+
+Now, mobile devices might be doing the same to PCs.
+
+But lately, “disruption” has just become a cool word for anything new and trendy. This matters because it can make entrepreneurs think about themselves in a competitive way that isn’t always helpful. The idea of disruption was meant to describe threats to big companies, so startups focusing too much on it see themselves as fighting old companies. If you think of yourself only as fighting against others, you might get stuck on problems instead of creating something new. If your company is just about opposing others, it’s probably not truly new and won’t become a monopoly.
+
+Disruption also gets attention: disruptive kids get in trouble, and disruptive companies often pick fights they can’t win. For example, Napster was a disruptive music-sharing site started by two teenagers in 1999. They got famous quickly but went bankrupt soon after because they fought the powerful music industry.
+
+PayPal was kind of disruptive, but we didn’t directly fight any big company.
+
+We took some business from Visa by making online payments popular, but since we made more people use payments overall, Visa actually ended up with more business.
+
+This was a positive situation, unlike Napster’s fight with the music industry. When you plan to grow into new markets, try not to disrupt—try to avoid competition as much as you can.

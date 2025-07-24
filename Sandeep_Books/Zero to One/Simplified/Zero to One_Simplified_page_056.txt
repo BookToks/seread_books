@@ -1,12 +1,7 @@
-Researchers experiment with things that just might work instead of refining definite theories about how the body’s systems operate.
- 
- Biologists say they need to work this way because the underlying biology is hard. According to them, IT startups work because we created computers ourselves and designed them to reliably obey our commands. Biotech is difficult because we didn’t design our bodies, and the more we learn about them, the more complex they turn out to be.
- 
- But today it’s possible to wonder whether the genuine difficulty of biology has become an excuse for biotech startups’ indefinite approach to business in general. Most of the people involved expect some things to work eventually, but few want to commit to a specific company with the level of intensity necessary for success. It starts with the professors who often become part-time consultants instead of full-time employees—even for the biotech startups that begin from their own research.
- 
- Then everyone else imitates the professors’ indefinite attitude. It’s easy for libertarians to claim that heavy regulation holds biotech back—and it does—but indefinite optimism may pose an even greater challenge for the future of biotech.
- 
+Researchers try out ideas that might work instead of focusing on exact theories about how the body works.
 
- 
-(Simplified)
- 
+Biologists say they have to do this because biology is really hard. They explain that IT startups work well because we built computers ourselves and designed them to follow our commands. Biotech is harder because we didn’t make our bodies, and the more we learn, the more complicated they seem.
+
+But now, some people wonder if biology’s real difficulty is just an excuse for biotech startups not having a clear plan. Most people involved hope something will work eventually, but few want to fully commit to one company to make it succeed. This starts with professors who often work as part-time helpers instead of full-time staff—even in startups based on their own research.
+
+Then everyone else copies the professors’ unsure attitude. Some say strict rules hold biotech back—and they do—but being too hopeful without a clear plan might be an even bigger problem for biotech’s future.

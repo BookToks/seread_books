@@ -1,26 +1,23 @@
-LIES PEOPLE TELL How much of the world is actually monopolistic? How much is truly competitive? It’s hard to say, because our common conversation about these matters is so confused. To the outside observer, all businesses can seem reasonably alike, so it’s easy to perceive only small differences between them.
- 
- But the reality is much more binary than that. There’s an enormous difference between perfect competition and monopoly, and most businesses are much closer to one extreme than we commonly realize.
- 
- The confusion comes from a universal bias for describing market conditions in self-serving ways: both monopolists and competitors are incentivized to bend the truth.
- 
- Monopoly Lies Monopolists lie to protect themselves. They know that bragging about their great monopoly invites being audited, scrutinized, and attacked. Since they very much want their monopoly profits to continue unmolested, they tend to do whatever they can to conceal their monopoly—usually by exaggerating the power of their (nonexistent) competition.
- 
- Think about how Google talks about its business. It certainly doesn’t claim to be a monopoly. But is it one? Well, it depends: a monopoly in what? Let’s say that Google is primarily a search engine.
- 
- As of May 2014, it owns about 68% of the search market. (Its closest competitors, Microsoft and Yahoo!, have about 19% and 10%, respectively.) If that doesn’t seem dominant enough, consider the fact that the word “google” is now an official entry in the Oxford English Dictionary—as a verb.
- 
- Don’t hold your breath waiting for that to happen to Bing.
- 
- But suppose we say that Google is primarily an advertising company. That changes things. The U.S.
- 
- search engine advertising market is $17 billion annually. Online advertising is $37 billion annually.
- 
- The entire U.S. advertising market is $150 billion. And global advertising is a $495 billion market.
- 
- So even if Google completely monopolized U.S. search engine advertising, it would own just 3.4% of the global advertising market. From this angle, Google looks like a small player in a competitive world.
- 
+LIES PEOPLE TELL
 
- 
-(Simplified)
- 
+How much of the world is really controlled by one company? And how much is actually competitive? It’s hard to know because people often get confused when talking about this stuff. To someone outside, all businesses might look pretty similar, so it’s easy to think they only have small differences.
+
+But the truth is more like two extremes. There’s a big difference between perfect competition and a monopoly, and most businesses are closer to one side than we think.
+
+The confusion happens because people have a habit of describing markets in ways that help themselves. Both monopolies and competitors want to make things sound better for them, so they don’t always tell the full truth.
+
+Monopoly Lies
+
+Companies that have a monopoly lie to protect themselves. They know that if they admit they’re a monopoly, they might get investigated or attacked. Since they want to keep making big profits without problems, they hide their monopoly by making their competition seem stronger than it really is.
+
+Think about how Google talks about its business. It never says it’s a monopoly. But is it one? Well, it depends on what you mean. Let’s say Google is mostly a search engine.
+
+In May 2014, Google owned about 68% of the search market. Its closest rivals, Microsoft and Yahoo!, had about 19% and 10%. If that doesn’t sound like a lot, remember the word “google” is now in the Oxford English Dictionary as a verb.
+
+Don’t expect that to happen with Bing anytime soon.
+
+But if we say Google is mainly an advertising company, it’s different. The U.S. search engine advertising market makes $17 billion a year. Online advertising is $37 billion a year.
+
+The whole U.S. advertising market is $150 billion. And worldwide, advertising is a $495 billion market.
+
+So even if Google owned all U.S. search advertising, it would only have 3.4% of the global advertising market. From this view, Google looks like a small player in a big, competitive world.

@@ -1,14 +1,9 @@
-They learned the hard way that the world is not a laboratory: selling and delivering a product is at least as important as the product itself.
- 
- Just ask Israeli electric vehicle startup Better Place, which from 2007 to 2012 raised and spent more than $800 million to build swappable battery packs and charging stations for electric cars. The company sought to “create a green alternative that would lessen our dependence on highly polluting transportation technologies.” And it did just that—at least by 1,000 cars, the number it sold before filing for bankruptcy. Even selling that many was an achievement, because each of those cars was very hard for customers to buy.
- 
- For starters, it was never clear what you were actually buying. Better Place bought sedans from Renault and refitted them with electric batteries and electric motors. So, were you buying an electric Renault, or were you buying a Better Place? In any case, if you decided to buy one, you had to jump through a series of hoops. First, you needed to seek approval from Better Place. To get that, you had to prove that you lived close enough to a Better Place battery swapping station and promise to follow predictable routes. If you passed that test, you had to sign up for a fueling subscription in order to recharge your car. Only then could you get started learning the new behavior of stopping to swap out battery packs on the road.
- 
- Better Place thought its technology spoke for itself, so they didn’t bother to market it clearly.
- 
- Reflecting on the company’s failure, one frustrated customer asked, “Why wasn’t there a billboard in Tel Aviv showing a picture of a Toyota Prius for 160,000 shekels and a picture of this car, for 160,000 plus fuel for four years?” He still bought one of the cars, but unlike most people, he was a hobbyist who “would do anything to keep driving it.” Unfortunately, he can’t: as the Better Place board of directors stated upon selling the company’s assets for a meager $12 million in 2013, “The technical challenges we overcame successfully, but the other obstacles we were not able to overcome.” THE DURABILITY QUESTION Every entrepreneur should plan to be the last mover in her particular market.
- 
+They found out the hard way that the world isn’t a science experiment: selling and delivering a product is just as important as making the product itself.
 
- 
-(Simplified)
- 
+Just look at the Israeli electric car company Better Place. From 2007 to 2012, they raised and spent over $800 million to build battery packs you could swap out and charging stations for electric cars. The company wanted to create a green option that would reduce our need for dirty transportation. They did sell about 1,000 cars before going bankrupt, which was a big deal because those cars were really hard for people to buy.
+
+First, it wasn’t clear what you were actually buying. Better Place took sedans from Renault and changed them to electric cars. So, were you buying an electric Renault or a Better Place car? If you wanted to buy one, you had to jump through a lot of hoops. You had to get approval from Better Place by proving you lived near a battery swapping station and promised to drive on certain routes. If you passed, you had to sign up for a subscription to recharge your car. Only then could you start learning to swap battery packs on the road.
+
+Better Place thought their technology was so good it didn’t need clear advertising.
+
+Looking back, one unhappy customer asked, “Why wasn’t there a billboard in Tel Aviv showing a Toyota Prius for 160,000 shekels and this car for 160,000 plus fuel for four years?” He still bought one, but he was a fan who “would do anything to keep driving it.” Sadly, he can’t anymore. When Better Place sold its assets for only $12 million in 2013, the board said, “We solved the technical problems, but couldn’t overcome the other challenges.” Every business owner should plan to be the last one standing in their market.

@@ -1,8 +1,5 @@
-The stark differences between man and machine mean that gains from working with computers are much higher than gains from trade with other people. We don’t trade with computers any more than we trade with livestock or lamps. And that’s the point: computers are tools, not rivals.
- 
- The differences are even deeper on the demand side. Unlike people in industrializing countries, computers don’t yearn for more luxurious foods or beachfront villas in Cap Ferrat; all they require is a nominal amount of electricity, which they’re not even smart enough to want. When we design new computer technology to help solve problems, we get all the efficiency gains of a hyperspecialized trading partner without having to compete with it for resources. Properly understood, technology is the one way for us to escape competition in a globalizing world. As computers become more and more powerful, they won’t be substitutes for humans: they’ll be complements.
- 
+The big differences between people and computers mean we get more benefits by working with computers than by trading with other people. We don’t trade with computers like we do with animals or lamps. That’s because computers are tools, not competitors.
 
- 
-(Simplified)
- 
+The differences go even deeper when we look at what they need. Unlike people in developing countries, computers don’t want fancy food or expensive houses. They only need a little electricity, and they don’t even know they need it.
+
+When we create new computer technology to help solve problems, we get all the advantages of a super-skilled partner without having to fight with them for resources. If we understand this right, technology helps us avoid competition in a world that’s becoming more connected. As computers get stronger, they won’t replace humans—they will work together with us.

@@ -1,20 +1,15 @@
-VESTED INTERESTS Startups don’t need to pay high salaries because they can offer something better: part ownership of the company itself. Equity is the one form of compensation that can effectively orient people toward creating value in the future.
- 
- However, for equity to create commitment rather than conflict, you must allocate it very carefully.
- 
- Giving everyone equal shares is usually a mistake: every individual has different talents and responsibilities as well as different opportunity costs, so equal amounts will seem arbitrary and unfair from the start. On the other hand, granting different amounts up front is just as sure to seem unfair. Resentment at this stage can kill a company, but there’s no ownership formula to perfectly avoid it.
- 
- This problem becomes even more acute over time as more people join the company. Early employees usually get the most equity because they take more risk, but some later employees might be even more crucial to a venture’s success. A secretary who joined eBay in 1996 might have made 200 times more than her industry-veteran boss who joined in 1999. The graffiti artist who painted Facebook’s office walls in 2005 got stock that turned out to be worth $200 million, while a talented engineer who joined in 2010 might have made only $2 million. Since it’s impossible to achieve perfect fairness when distributing ownership, founders would do well to keep the details secret.
- 
- Sending out a company-wide email that lists everyone’s ownership stake would be like dropping a nuclear bomb on your office.
- 
- Most people don’t want equity at all. At PayPal, we once hired a consultant who promised to help us negotiate lucrative business development deals. The only thing he ever successfully negotiated was a $5,000 daily cash salary; he refused to accept stock options as payment. Stories of startup chefs becoming millionaires notwithstanding, people often find equity unattractive. It’s not liquid like cash.
- 
- It’s tied to one specific company. And if that company doesn’t succeed, it’s worthless.
- 
- Equity is a powerful tool precisely because of these limitations. Anyone who prefers owning a part of your company to being paid in cash reveals a preference for the long term and a commitment to increasing your company’s value in the future. Equity can’t create perfect incentives, but it’s the best way for a founder to keep everyone in the company broadly aligned.
- 
+Startups don’t have to pay high salaries because they can offer something better: a piece of the company. This is called equity. Equity is a type of payment that can make people want to help the company grow in the future.
 
- 
-(Simplified)
- 
+But to make equity work without causing fights, you have to give it out very carefully.
+
+Giving everyone the same amount is usually a bad idea. People have different skills, jobs, and what they give up to work there, so equal shares feel unfair. But giving different amounts right away can also cause problems. If people feel upset early on, it can ruin the company. There’s no perfect way to share ownership that stops this.
+
+The problem gets worse as more people join. Early workers get more equity because they take bigger risks, but some who join later might be even more important. For example, a secretary at eBay in 1996 might have made 200 times more than her boss who joined in 1999. A graffiti artist who painted Facebook’s walls in 2005 got stock worth $200 million, while a great engineer joining in 2010 might have made only $2 million. Since you can’t make ownership perfectly fair, founders usually keep these details secret.
+
+Sending out an email that shows everyone’s shares would cause a huge mess.
+
+Most people don’t even want equity. At PayPal, we hired a consultant who was supposed to help make deals. He only wanted a $5,000 daily cash salary and refused to take stock options. Even though some startup workers become millionaires, many people don’t like equity. It’s not like cash you can spend right away.
+
+Equity is tied to one company. If that company fails, the equity is worthless.
+
+Equity is powerful because of these limits. People who want equity instead of cash care about the company’s future and want to help it grow. Equity can’t make perfect rewards, but it’s the best way for founders to keep everyone working toward the same goals.

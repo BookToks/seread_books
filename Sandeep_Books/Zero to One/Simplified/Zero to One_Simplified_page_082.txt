@@ -1,16 +1,11 @@
-Therefore he’s incentivized to reward himself through the power of possession rather than the value of ownership.
- 
- Posting good quarterly results will be enough for him to keep his high salary and corporate jet.
- 
- Misalignment can creep in even if he receives stock compensation in the name of “shareholder value.” If that stock comes as a reward for short-term performance, he will find it more lucrative and much easier to cut costs instead of investing in a plan that might create more value for all shareholders far in the future.
- 
- Unlike corporate giants, early-stage startups are small enough that founders usually have both ownership and possession. Most conflicts in a startup erupt between ownership and control—that is, between founders and investors on the board. The potential for conflict increases over time as interests diverge: a board member might want to take a company public as soon as possible to score a win for his venture firm, while the founders would prefer to stay private and grow the business.
- 
- In the boardroom, less is more. The smaller the board, the easier it is for the directors to communicate, to reach consensus, and to exercise effective oversight. However, that very effectiveness means that a small board can forcefully oppose management in any conflict. This is why it’s crucial to choose wisely: every single member of your board matters. Even one problem director will cause you pain, and may even jeopardize your company’s future.
- 
- A board of three is ideal. Your board should never exceed five people, unless your company is publicly held. (Government regulations effectively mandate that public companies have larger boards —the average is nine members.) By far the worst you can do is to make your board extra large. When unsavvy observers see a nonprofit organization with dozens of people on its board, they think: “Look how many great people are committed to this organization! It must be extremely well run.” Actually, a huge board will exercise no effective oversight at all; it merely provides cover for whatever microdictator actually runs the organization. If you want that kind of free rein from your board, blow it up to giant size. If you want an effective board, keep it small.
- 
+So, he’s more likely to reward himself by having control over stuff rather than caring about the real value of owning it.
 
- 
-(Simplified)
- 
+Getting good quarterly results is enough for him to keep his high salary and the company jet.
+
+Even if he gets stock as a reward for “shareholder value,” problems can still happen. If the stock is for short-term success, he’ll prefer to save money now instead of investing in a plan that could help the company grow a lot later.
+
+Startups are small, so founders usually both own and control the company. Most fights happen between owners and those in charge, like founders and investors on the board. Over time, conflicts get worse because their goals change: a board member might want to take the company public quickly to make money, while founders want to keep it private and grow it first.
+
+In meetings, smaller boards work better. With fewer people, it’s easier to talk, agree, and watch over the company. But a small board can also strongly oppose management if there’s a fight. That’s why picking board members carefully is super important. Even one bad member can cause big problems and risk your company.
+
+Having three people on the board is best. Don’t have more than five unless your company is public. Public companies usually have bigger boards because of rules, usually around nine members. The worst thing is having a huge board. When people see a nonprofit with tons of board members, they think it’s well-run. But actually, big boards don’t watch over things well and just let one boss do whatever they want. If you want your board to really work, keep it small.

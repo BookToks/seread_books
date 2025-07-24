@@ -1,20 +1,15 @@
-REATIVE MONOPOLY Competition means no profits for anybody, no meaningful differentiation, and a struggle for survival.
- 
- So why do people believe that competition is healthy? The answer is that competition is not just an economic concept or a simple inconvenience that individuals and companies must deal with in the marketplace. More than anything else, competition is an ideology—the ideology—that pervades our society and distorts our thinking. We preach competition, internalize its necessity, and enact its commandments; and as a result, we trap ourselves within it—even though the more we compete, the less we gain.
- 
- This is a simple truth, but we’ve all been trained to ignore it. Our educational system both drives and reflects our obsession with competition. Grades themselves allow precise measurement of each student’s competitiveness; pupils with the highest marks receive status and credentials. We teach every young person the same subjects in mostly the same ways, irrespective of individual talents and preferences. Students who don’t learn best by sitting still at a desk are made to feel somehow inferior, while children who excel on conventional measures like tests and assignments end up defining their identities in terms of this weirdly contrived academic parallel reality.
- 
- And it gets worse as students ascend to higher levels of the tournament. Elite students climb confidently until they reach a level of competition sufficiently intense to beat their dreams out of them.
- 
- Higher education is the place where people who had big plans in high school get stuck in fierce rivalries with equally smart peers over conventional careers like management consulting and investment banking. For the privilege of being turned into conformists, students (or their families) pay hundreds of thousands of dollars in skyrocketing tuition that continues to outpace inflation. Why are we doing this to ourselves?
- 
- I wish I had asked myself when I was younger. My path was so tracked that in my 8th-grade yearbook, one of my friends predicted—accurately—that four years later I would enter Stanford as a sophomore. And after a conventionally successful undergraduate career, I enrolled at Stanford Law School, where I competed even harder for the standard badges of success.
- 
- The highest prize in a law student’s world is unambiguous: out of tens of thousands of graduates each year, only a few dozen get a Supreme Court clerkship. After clerking on a federal appeals court for a year, I was invited to interview for clerkships with Justices Kennedy and Scalia. My meetings with the Justices went well. I was so close to winning this last competition. If only I got the clerkship, I thought, I would be set for life. But I didn’t. At the time, I was devastated.
- 
- In 2004, after I had built and sold PayPal, I ran into an old friend from law school who had helped me prepare my failed clerkship applications. We hadn’t spoken in nearly a decade. His first question wasn’t “How are you doing?” or “Can you believe it’s been so long?” Instead, he grinned and asked: “So, Peter, aren’t you glad you didn’t get that clerkship?” With the benefit of hindsight, we both knew that winning that ultimate competition would have changed my life for the worse. Had I actually clerked on the Supreme Court, I probably would have spent my entire career taking depositions or drafting other people’s business deals instead of creating anything new. It’s hard to say how much would be different, but the opportunity costs were enormous. All Rhodes Scholars had a great future in their past.
- 
+Competition means no one makes much money, nothing really stands out, and everyone just tries to survive.
 
- 
-(Simplified)
- 
+So why do people think competition is good? It’s not just about money or a problem we have to deal with. Competition is more like a belief system that’s everywhere in our society and messes with how we think. We keep telling ourselves competition is necessary and follow its rules, but the more we compete, the less we actually gain.
+
+This is simple, but we’ve all been taught to ignore it. Schools show how much we care about competition. Grades measure who is better, and students with the highest marks get respect and awards. Everyone learns the same stuff in mostly the same way, no matter what they’re good at or like. Kids who don’t do well sitting quietly in class feel less important, while kids who do well on tests end up seeing themselves only through school success.
+
+It gets worse as students move up. The smartest students keep climbing the ladder until the competition gets so tough that it crushes their dreams.
+
+College is where people with big plans in high school get stuck fighting with other smart students for common jobs like consulting and banking. Students (or their families) pay huge amounts of money for tuition that keeps going up faster than prices on everything else. Why do we put ourselves through this?
+
+I wish I had asked myself that when I was younger. My path was so planned that in 8th grade, a friend predicted I’d enter Stanford as a sophomore. After doing well in college, I went to Stanford Law School, where I competed even harder for the usual signs of success.
+
+The biggest prize for law students is clear: out of thousands who graduate every year, only a few get a Supreme Court clerkship. After working for a year at a federal appeals court, I got to interview for clerkships with Justices Kennedy and Scalia. The meetings went well. I was so close to winning this final competition. I thought if I got the clerkship, I’d be set for life. But I didn’t. I was really upset at the time.
+
+In 2004, after I had built and sold PayPal, I met an old law school friend who helped me with those clerkship applications. We hadn’t talked in almost ten years. His first question wasn’t “How have you been?” or “Can you believe it’s been so long?” Instead, he smiled and asked, “So, Peter, aren’t you glad you didn’t get that clerkship?” Looking back, we both knew winning that competition would have actually made my life worse. If I had clerked on the Supreme Court, I probably would have spent my whole career doing boring legal work instead of creating new things. It’s hard to say how much would be different, but I lost a lot of chances. All Rhodes Scholars had a great past but a limited future.

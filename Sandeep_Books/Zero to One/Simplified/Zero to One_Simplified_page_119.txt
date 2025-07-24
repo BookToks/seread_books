@@ -1,10 +1,7 @@
-THE PEOPLE QUESTION Energy problems are engineering problems, so you would expect to find nerds running cleantech companies. You’d be wrong: the ones that failed were run by shockingly nontechnical teams. These salesman-executives were good at raising capital and securing government subsidies, but they were less good at building products that customers wanted to buy.
- 
- At Founders Fund, we saw this coming. The most obvious clue was sartorial: cleantech executives were running around wearing suits and ties. This was a huge red flag, because real technologists wear T-shirts and jeans. So we instituted a blanket rule: pass on any company whose founders dressed up for pitch meetings. Maybe we still would have avoided these bad investments if we had taken the time to evaluate each company’s technology in detail. But the team insight—never invest in a tech CEO that wears a suit—got us to the truth a lot faster. The best sales is hidden. There’s nothing wrong with a CEO who can sell, but if he actually looks like a salesman, he’s probably bad at sales and worse at tech.
- 
- Solyndra CEO Brian Harrison; Tesla Motors CEO Elon Musk THE DISTRIBUTION QUESTION Cleantech companies effectively courted government and investors, but they often forgot about customers.
- 
+Energy problems need smart engineering, so you’d expect tech experts to run clean energy companies. But that’s not true: the ones that failed were led by people who didn’t really understand the technology. These sales-focused leaders were good at getting money and government help, but bad at making products people actually wanted.
 
- 
-(Simplified)
- 
+At Founders Fund, we noticed this early. One big sign was how these leaders dressed: clean energy bosses wore suits and ties. This was a red flag because real tech people usually wear T-shirts and jeans. So, we made a rule: don’t invest in any company whose founders dressed up for meetings. Maybe we could have avoided bad investments by studying the technology more, but this rule helped us figure it out faster. Good sales are quiet. It’s okay if a CEO can sell, but if they look like a salesman, they’re probably not good at sales or tech.
+
+Solyndra CEO Brian Harrison; Tesla Motors CEO Elon Musk
+
+Clean energy companies were good at getting money and government support, but they often forgot about the customers.

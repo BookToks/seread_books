@@ -1,10 +1,7 @@
-DO ONE THING On the inside, every individual should be sharply distinguished by her work.
- 
- When assigning responsibilities to employees in a startup, you could start by treating it as a simple optimization problem to efficiently match talents with tasks. But even if you could somehow get this perfectly right, any given solution would quickly break down. Partly that’s because startups have to move fast, so individual roles can’t remain static for long. But it’s also because job assignments aren’t just about the relationships between workers and tasks; they’re also about relationships between employees.
- 
- The best thing I did as a manager at PayPal was to make every person in the company responsible for doing just one thing. Every employee’s one thing was unique, and everyone knew I would evaluate him only on that one thing. I had started doing this just to simplify the task of managing people. But then I noticed a deeper result: defining roles reduced conflict. Most fights inside a company happen when colleagues compete for the same responsibilities. Startups face an especially high risk of this since job roles are fluid at the early stages. Eliminating competition makes it easier for everyone to build the kinds of long-term relationships that transcend mere professionalism. More than that, internal peace is what enables a startup to survive at all. When a startup fails, we often imagine it succumbing to predatory rivals in a competitive ecosystem. But every company is also its own ecosystem, and factional strife makes it vulnerable to outside threats. Internal conflict is like an autoimmune disease: the technical cause of death may be pneumonia, but the real cause remains hidden from plain view.
- 
+DO ONE THING Inside a company, every person should have a clear and different job.
 
- 
-(Simplified)
- 
+When you give tasks to people in a startup, you might think it’s just about matching the right skills to the right jobs. But even if you do this perfectly, it won’t last long. Startups move fast, so people’s jobs change a lot. Also, job assignments aren’t just about tasks; they’re about how people work together too.
+
+The best thing I did as a boss at PayPal was to make sure each person was in charge of only one thing. Everyone’s one thing was different, and they knew I would only judge them based on that. I started this to make managing easier, but I saw something else happen: it stopped fights. Most arguments happen when people want to do the same job. Startups have this problem a lot because jobs are always changing. When you stop people from competing, it helps them build strong relationships that go beyond just work.
+
+More importantly, peace inside the company helps a startup survive. When startups fail, we often think it’s because of tough outside competition. But every company is like its own small world, and fights inside make it weak. Internal conflict is like a disease inside the body: the visible cause of death might be something else, but the real problem is hidden inside.

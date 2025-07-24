@@ -1,12 +1,7 @@
-Today, more than 1.5 billion people enjoy instant access to the world’s knowledge using pocket-sized devices. Every one of today’s smartphones has thousands of times more processing power than the computers that guided astronauts to the moon. And if Moore’s law continues apace, tomorrow’s computers will be even more powerful.
- 
- Computers already have enough power to outperform people in activities we used to think of as distinctively human. In 1997, IBM’s Deep Blue defeated world chess champion Garry Kasparov.
- 
- Jeopardy!’s best-ever contestant, Ken Jennings, succumbed to IBM’s Watson in 2011. And Google’s self-driving cars are already on California roads today. Dale Earnhardt Jr. needn’t feel threatened by them, but the Guardian worries (on behalf of the millions of chauffeurs and cabbies in the world) that self-driving cars “could drive the next wave of unemployment.” Everyone expects computers to do more in the future—so much more that some wonder: 30 years from now, will there be anything left for people to do? “Software is eating the world,” venture capitalist Marc Andreessen has announced with a tone of inevitability. VC Andy Kessler sounds almost gleeful when he explains that the best way to create productivity is “to get rid of people.” Forbes captured a more anxious attitude when it asked readers: Will a machine replace you?
- 
- Futurists can seem like they hope the answer is yes. Luddites are so worried about being replaced that they would rather we stop building new technology altogether. Neither side questions the premise that better computers will necessarily replace human workers. But that premise is wrong: computers are complements for humans, not substitutes. The most valuable businesses of coming decades will be built by entrepreneurs who seek to empower people rather than try to make them obsolete.
- 
+Today, over 1.5 billion people can quickly find information using small devices they carry everywhere. Every smartphone now is way more powerful than the computers that helped astronauts go to the moon. And if technology keeps improving like it has, future computers will be even stronger.
 
- 
-(Simplified)
- 
+Computers are already better than humans at some things we used to think only people could do. In 1997, IBM’s Deep Blue beat the world chess champion, Garry Kasparov.
+
+In 2011, IBM’s Watson beat the best Jeopardy! player, Ken Jennings. Google’s self-driving cars are already driving on California streets. Dale Earnhardt Jr. doesn’t need to worry about them, but many taxi drivers are scared because self-driving cars might cause a lot of people to lose their jobs. People expect computers to do even more soon, so much that some wonder if humans will have any jobs left in 30 years. Venture capitalist Marc Andreessen said “software is eating the world,” meaning computers are taking over many tasks. Another expert, Andy Kessler, said the best way to be more productive is “to get rid of people.” Forbes even asked readers if a machine will replace their jobs.
+
+Some futurists seem to want machines to take over. Others, called Luddites, are so scared of losing their jobs that they want to stop new technology from being made. But both groups are wrong to assume that better computers will always replace people. Instead, computers help humans do better work, not take their place. The most successful businesses in the future will be started by people who want to help others, not replace them.

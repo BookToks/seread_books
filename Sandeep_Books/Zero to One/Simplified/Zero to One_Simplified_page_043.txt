@@ -1,20 +1,23 @@
-BUILDING A MONOPOLY Brand, scale, network effects, and technology in some combination define a monopoly; but to get them to work, you need to choose your market carefully and expand deliberately.
- 
- Start Small and Monopolize Every startup is small at the start. Every monopoly dominates a large share of its market. Therefore, every startup should start with a very small market. Always err on the side of starting too small.
- 
- The reason is simple: it’s easier to dominate a small market than a large one. If you think your initial market might be too big, it almost certainly is.
- 
- Small doesn’t mean nonexistent. We made this mistake early on at PayPal. Our first product let people beam money to each other via PalmPilots. It was interesting technology and no one else was doing it. However, the world’s millions of PalmPilot users weren’t concentrated in a particular place, they had little in common, and they used their devices only episodically. Nobody needed our product, so we had no customers.
- 
- With that lesson learned, we set our sights on eBay auctions, where we found our first success. In late 1999, eBay had a few thousand high-volume “PowerSellers,” and after only three months of dedicated effort, we were serving 25% of them. It was much easier to reach a few thousand people who really needed our product than to try to compete for the attention of millions of scattered individuals.
- 
- The perfect target market for a startup is a small group of particular people concentrated together and served by few or no competitors. Any big market is a bad choice, and a big market already served by competing companies is even worse. This is why it’s always a red flag when entrepreneurs talk about getting 1% of a $100 billion market. In practice, a large market will either lack a good starting point or it will be open to competition, so it’s hard to ever reach that 1%. And even if you do succeed in gaining a small foothold, you’ll have to be satisfied with keeping the lights on: cutthroat competition means your profits will be zero.
- 
- Scaling Up Once you create and dominate a niche market, then you should gradually expand into related and slightly broader markets. Amazon shows how it can be done. Jeff Bezos’s founding vision was to dominate all of online retail, but he very deliberately started with books. There were millions of books to catalog, but they all had roughly the same shape, they were easy to ship, and some of the most rarely sold books—those least profitable for any retail store to keep in stock—also drew the most enthusiastic customers. Amazon became the dominant solution for anyone located far from a bookstore or seeking something unusual. Amazon then had two options: expand the number of people who read books, or expand to adjacent markets. They chose the latter, starting with the most similar markets: CDs, videos, and software. Amazon continued to add categories gradually until it had become the world’s general store. The name itself brilliantly encapsulated the company’s scaling strategy. The biodiversity of the Amazon rain forest reflected Amazon’s first goal of cataloging every book in the world, and now it stands for every kind of thing in the world, period.
- 
- eBay also started by dominating small niche markets. When it launched its auction marketplace in 1995, it didn’t need the whole world to adopt it at once; the product worked well for intense interest groups, like Beanie Baby obsessives.
- 
+BUILDING A MONOPOLY
 
- 
-(Simplified)
- 
+A monopoly happens when a company becomes the biggest in its market by using things like a strong brand, a big size, a helpful network, and good technology. But to make this work, you have to pick your market carefully and grow step by step.
+
+Start Small and Monopolize
+
+Every new company starts small. Every monopoly controls a big part of its market. So, new companies should begin with a very small market. It’s better to start too small than too big.
+
+This is because it’s easier to be the best in a small market than in a big one. If you think your market is too big at first, it probably is.
+
+Small doesn’t mean unimportant. We made this mistake at PayPal. Our first product let people send money using PalmPilots. It was cool technology, but not many people needed it. PalmPilot users were spread out and didn’t use their devices much. So, we had no customers.
+
+After learning this, we focused on eBay auctions. That’s where we found success. In 1999, eBay had a few thousand “PowerSellers” who sold a lot. After three months, we helped 25% of them. It was easier to reach a few thousand people who really needed our product than to try to attract millions of random users.
+
+The best market for a startup is a small group of people who are close together and don’t have many competitors. Big markets are not good, and big markets with lots of competitors are even worse. That’s why it’s a bad sign when people say they want 1% of a $100 billion market. Big markets usually don’t have a good starting point, and competition is tough. Even if you get a small part, you might just break even because of the competition.
+
+Scaling Up
+
+Once you fully control a small market, you can slowly grow into nearby and bigger markets. Amazon shows how to do this. Jeff Bezos wanted to own all online shopping, but he started with just books. Books were easy to handle and ship, and some rare books attracted excited customers. Amazon became the best place for people far from bookstores or looking for unusual books.
+
+After that, Amazon had two choices: find more book readers or move into related markets. They chose the second option and added CDs, videos, and software. They kept adding new types of products until they became a huge online store. The name “Amazon” fits their plan perfectly. The Amazon rainforest has many different kinds of plants and animals, just like Amazon wanted to offer every kind of product.
+
+eBay also started small. When it began in 1995, it didn’t need everyone to use it right away. It worked well for groups with strong interests, like people who collected Beanie Babies.

@@ -1,28 +1,22 @@
-Make incremental advances Grand visions inflated the bubble, so they should not be indulged. Anyone who claims to be able to do something great is suspect, and anyone who wants to change the world should be more humble. Small, incremental steps are the only safe path forward.
- 
- 2. Stay lean and flexible All companies must be “lean,” which is code for “unplanned.” You should not know what your business will do; planning is arrogant and inflexible. Instead you should try things out, “iterate,” and treat entrepreneurship as agnostic experimentation.
- 
- 3. Improve on the competition Don’t try to create a new market prematurely. The only way to know you have a real business is to start with an already existing customer, so you should build your company by improving on recognizable products already offered by successful competitors.
- 
- 4. Focus on product, not sales If your product requires advertising or salespeople to sell it, it’s not good enough: technology is primarily about product development, not distribution. Bubble-era advertising was obviously wasteful, so the only sustainable growth is viral growth.
- 
- These lessons have become dogma in the startup world; those who would ignore them are presumed to invite the justified doom visited upon technology in the great crash of 2000. And yet the opposite principles are probably more correct: 1. It is better to risk boldness than triviality.
- 
- 2. A bad plan is better than no plan.
- 
- 3. Competitive markets destroy profits.
- 
- 4. Sales matters just as much as product.
- 
- It’s true that there was a bubble in technology. The late ’90s was a time of hubris: people believed in going from 0 to 1. Too few startups were actually getting there, and many never went beyond talking about it. But people understood that we had no choice but to find ways to do more with less.
- 
- The market high of March 2000 was obviously a peak of insanity; less obvious but more important, it was also a peak of clarity. People looked far into the future, saw how much valuable new technology we would need to get there safely, and judged themselves capable of creating it.
- 
- We still need new technology, and we may even need some 1999-style hubris and exuberance to get it. To build the next generation of companies, we must abandon the dogmas created after the crash.
- 
- That doesn’t mean the opposite ideas are automatically true: you can’t escape the madness of crowds by dogmatically rejecting them. Instead ask yourself: how much of what you know about business is shaped by mistaken reactions to past mistakes? The most contrarian thing of all is not to oppose the crowd but to think for yourself.
- 
+Make small progress step by step. Big, unrealistic dreams caused the bubble to burst, so don’t get caught up in them. If someone says they can do something amazing, be careful, and if they want to change the world, they should be more humble. Taking small, steady steps is the safest way to move forward.
 
- 
-(Simplified)
- 
+2. Stay simple and flexible. All companies need to be “lean,” which means not having a strict plan. You shouldn’t know exactly what your business will do because planning too much can make you stuck. Instead, try different things, learn from them, and treat starting a business like testing out ideas.
+
+3. Make better versions of what’s already out there. Don’t try to create a new market too soon. The best way to know your business works is to start with customers who already exist. Build your company by improving products that successful competitors already offer.
+
+4. Focus on making a good product, not on selling it. If your product needs ads or salespeople to sell, it’s not good enough. Technology is mostly about making great products, not about marketing. Ads during the bubble were a waste of money, so real growth comes from people sharing your product naturally.
+
+These ideas have become rules in the startup world. People who ignore them are thought to fail like many did in the 2000 tech crash. But actually, the opposite ideas might be more true:
+
+1. It’s better to take big risks than to play it safe.  
+2. Having a bad plan is better than no plan at all.  
+3. Competing in crowded markets ruins profits.  
+4. Selling is just as important as making the product.
+
+It’s true there was a tech bubble in the late ’90s. Back then, people were overconfident and believed in quickly making huge changes. Not many startups actually succeeded; many just talked about it. But people knew we had to find ways to do more with less.
+
+The market peak in March 2000 was crazy, but it also showed people believed in a future where new technology would be very important, and they thought they could create it.
+
+We still need new technology today, and maybe we need some of that bold confidence from 1999 to get it. To build the next big companies, we have to stop following the rules made after the crash.
+
+That doesn’t mean the opposite ideas are always right. You can’t just reject popular opinions blindly. Instead, ask yourself how much of what you believe about business is just a reaction to past mistakes. The smartest thing is not to just go against the crowd, but to think for yourself.

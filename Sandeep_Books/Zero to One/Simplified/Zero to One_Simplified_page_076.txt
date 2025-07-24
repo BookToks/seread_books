@@ -1,20 +1,21 @@
-HOW TO FIND SECRETS There are two kinds of secrets: secrets of nature and secrets about people. Natural secrets exist all around us; to find them, one must study some undiscovered aspect of the physical world. Secrets about people are different: they are things that people don’t know about themselves or things they hide because they don’t want others to know. So when thinking about what kind of company to build, there are two distinct questions to ask: What secrets is nature not telling you? What secrets are people not telling you?
- 
- It’s easy to assume that natural secrets are the most important: the people who look for them can sound intimidatingly authoritative. This is why physics PhDs are notoriously difficult to work with— because they know the most fundamental truths, they think they know all truths. But does understanding electromagnetic theory automatically make you a great marriage counselor? Does a gravity theorist know more about your business than you do? At PayPal, I once interviewed a physics PhD for an engineering job. Halfway through my first question, he shouted, “Stop! I already know what you’re going to ask!” But he was wrong. It was the easiest no-hire decision I’ve ever made.
- 
- Secrets about people are relatively underappreciated. Maybe that’s because you don’t need a dozen years of higher education to ask the questions that uncover them: What are people not allowed to talk about? What is forbidden or taboo?
- 
- Sometimes looking for natural secrets and looking for human secrets lead to the same truth.
- 
- Consider the monopoly secret again: competition and capitalism are opposites. If you didn’t already know it, you could discover it the natural, empirical way: do a quantitative study of corporate profits and you’ll see they’re eliminated by competition. But you could also take the human approach and ask: what are people running companies not allowed to say? You would notice that monopolists downplay their monopoly status to avoid scrutiny, while competitive firms strategically exaggerate their uniqueness. The differences between firms only seem small on the surface; in fact, they are enormous.
- 
- The best place to look for secrets is where no one else is looking. Most people think only in terms of what they’ve been taught; schooling itself aims to impart conventional wisdom. So you might ask: are there any fields that matter but haven’t been standardized and institutionalized? Physics, for example, is a real major at all major universities, and it’s set in its ways. The opposite of physics might be astrology, but astrology doesn’t matter. What about something like nutrition? Nutrition matters for everybody, but you can’t major in it at Harvard. Most top scientists go into other fields.
- 
- Most of the big studies were done 30 or 40 years ago, and most are seriously flawed. The food pyramid that told us to eat low fat and enormous amounts of grains was probably more a product of lobbying by Big Food than real science; its chief impact has been to aggravate our obesity epidemic.
- 
- There’s plenty more to learn: we know more about the physics of faraway stars than we know about human nutrition. It won’t be easy, but it’s not obviously impossible: exactly the kind of field that could yield secrets.
- 
+HOW TO FIND SECRETS
 
- 
-(Simplified)
- 
+There are two kinds of secrets: secrets about nature and secrets about people. Natural secrets are all around us. To find them, you have to study parts of the physical world that no one has discovered yet. Secrets about people are different. They are things people don’t know about themselves or things they hide because they don’t want others to find out.
+
+When thinking about what kind of company to start, ask yourself two questions: What secrets is nature hiding from you? What secrets are people hiding?
+
+People often think natural secrets are the most important. The people who look for them can sound very smart and sure of themselves. That’s why physics experts are often hard to work with—they think they know everything because they know the basic truths of the universe. But just because someone understands physics doesn’t mean they’re good at fixing personal problems or running a business.
+
+At PayPal, I once interviewed a physics expert for an engineering job. Halfway through my first question, he shouted, “Stop! I already know what you’re going to ask!” But he was wrong. Saying no to him was the easiest decision I ever made.
+
+Secrets about people don’t get enough attention. Maybe that’s because you don’t need years of school to ask the right questions that find them: What are people not allowed to talk about? What topics are forbidden or taboo?
+
+Sometimes, looking for secrets about nature and about people leads to the same answer.
+
+Think about monopolies: competition and capitalism are actually opposites. You could figure that out by studying company profits and seeing how competition lowers them. Or you could ask: what can company leaders not say out loud? You’d notice monopolies try to hide their power, while competitive companies brag about how special they are. The differences between companies look small at first, but they’re actually huge.
+
+The best place to find secrets is where no one else is looking. Most people only think about what they’ve been taught in school, and school teaches common ideas. So ask yourself: are there any important fields that nobody has made official or serious? Physics is a real subject at big universities and it’s very set in its ways. Astrology is the opposite, but it doesn’t really matter. What about nutrition? Nutrition matters to everyone, but you can’t major in it at Harvard. Most top scientists study other subjects.
+
+Most big nutrition studies were done 30 or 40 years ago, and many have big problems. The food pyramid that told us to eat low fat and lots of grains was probably made more because of food companies than real science. It has actually made obesity worse.
+
+There’s a lot more to learn. We know more about distant stars than about what people should eat. It won’t be easy, but it’s not impossible. This kind of field could have lots of secrets waiting to be found.
