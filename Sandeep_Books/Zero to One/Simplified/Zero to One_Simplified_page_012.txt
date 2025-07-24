@@ -1,8 +1,7 @@
-STARTUP THINKING New technology tends to come from new ventures—startups. From the Founding Fathers in politics to the Royal Society in science to Fairchild Semiconductor’s “traitorous eight” in business, small groups of people bound together by a sense of mission have changed the world for the better. The easiest explanation for this is negative: it’s hard to develop new things in big organizations, and it’s even harder to do it by yourself. Bureaucratic hierarchies move slowly, and entrenched interests shy away from risk. In the most dysfunctional organizations, signaling that work is being done becomes a better strategy for career advancement than actually doing work (if this describes your company, you should quit now). At the other extreme, a lone genius might create a classic work of art or literature, but he could never create an entire industry. Startups operate on the principle that you need to work with other people to get stuff done, but you also need to stay small enough so that you actually can.
- 
- Positively defined, a startup is the largest group of people you can convince of a plan to build a different future. A new company’s most important strength is new thinking: even more important than nimbleness, small size affords space to think. This book is about the questions you must ask and answer to succeed in the business of doing new things: what follows is not a manual or a record of knowledge but an exercise in thinking. Because that is what a startup has to do: question received ideas and rethink business from scratch.
- 
+STARTUP THINKING
 
- 
-(Simplified)
- 
+New technology usually comes from new businesses called startups. From important groups like the Founding Fathers in politics, the Royal Society in science, to Fairchild Semiconductor’s “traitorous eight” in business, small teams with a clear goal have changed the world for the better.
+
+The simple reason is that it’s hard to create new things in big companies, and it’s even harder to do it alone. Big companies are slow and don’t like to take risks. Sometimes, people in bad companies focus more on pretending to work than actually working (if this is true for your company, you should leave now). On the other hand, a single genius might make a great piece of art or writing, but they can’t build a whole industry. Startups work because people team up, but stay small enough to get things done.
+
+A startup is the biggest group of people you can convince to help build a different future. The best thing about a new company is new ideas. Being small gives you room to think. This book is about the questions you need to ask and answer to succeed in making new things. It’s not a guide or a list of facts, but a way to think. Because a startup has to question old ideas and rethink business from the beginning.

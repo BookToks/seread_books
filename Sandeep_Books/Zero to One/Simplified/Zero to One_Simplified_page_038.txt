@@ -1,8 +1,3 @@
-In March 2001, PayPal had yet to make a profit but our revenues were growing 100% year-overyear. When I projected our future cash flows, I found that 75% of the company’s present value would come from profits generated in 2011 and beyond—hard to believe for a company that had been in business for only 27 months. But even that turned out to be an underestimation. Today, PayPal continues to grow at about 15% annually, and the discount rate is lower than a decade ago. It now appears that most of the company’s value will come from 2020 and beyond.
- 
- LinkedIn is another good example of a company whose value exists in the far future. As of early 2014, its market capitalization was $24.5 billion—very high for a company with less than $1 billion in revenue and only $21.6 million in net income for 2012. You might look at these numbers and conclude that investors have gone insane. But this valuation makes sense when you consider LinkedIn’s projected future cash flows.
- 
+In March 2001, PayPal wasn’t making any profit yet, but its income was doubling every year. When I looked at the money we expected to make in the future, I saw that 75% of the company’s value would come from profits made after 2011. This was hard to believe since the company was only a little over two years old. But even that was too low. Today, PayPal still grows about 15% each year, and the interest rates are lower than before. Now it looks like most of the company’s value will come from 2020 and later.
 
- 
-(Simplified)
- 
+LinkedIn is another good example of a company whose real worth is in the future. In early 2014, it was worth $24.5 billion, which is a lot for a company making less than $1 billion and only $21.6 million in profit in 2012. You might think investors are crazy for paying that much. But this price makes more sense when you think about how much money LinkedIn is expected to make later on.

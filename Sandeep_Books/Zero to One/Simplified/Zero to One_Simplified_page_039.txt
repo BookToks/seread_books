@@ -1,10 +1,7 @@
-The overwhelming importance of future profits is counterintuitive even in Silicon Valley. For a company to be valuable it must grow and endure, but many entrepreneurs focus only on short-term growth. They have an excuse: growth is easy to measure, but durability isn’t. Those who succumb to measurement mania obsess about weekly active user statistics, monthly revenue targets, and quarterly earnings reports. However, you can hit those numbers and still overlook deeper, harder-to-measure problems that threaten the durability of your business.
- 
- For example, rapid short-term growth at both Zynga and Groupon distracted managers and investors from long-term challenges. Zynga scored early wins with games like Farmville and claimed to have a “psychometric engine” to rigorously gauge the appeal of new releases. But they ended up with the same problem as every Hollywood studio: how can you reliably produce a constant stream of popular entertainment for a fickle audience? (Nobody knows.) Groupon posted fast growth as hundreds of thousands of local businesses tried their product. But persuading those businesses to become repeat customers was harder than they thought.
- 
- If you focus on near-term growth above all else, you miss the most important question you should be asking: will this business still be around a decade from now? Numbers alone won’t tell you the answer; instead you must think critically about the qualitative characteristics of your business.
- 
+Thinking about future profits is really important, even if it doesn’t seem obvious, even in places like Silicon Valley. For a company to be worth something, it needs to keep growing and last a long time. But many business owners only care about quick growth. They have a reason for this: it’s easy to measure growth, but hard to measure if the business will last.
 
- 
-(Simplified)
- 
+People who focus too much on numbers get obsessed with things like how many users they have every week, how much money they make each month, and quarterly reports. But you can meet those goals and still miss bigger problems that could make your business fail in the long run.
+
+For example, Zynga and Groupon grew really fast, but that made managers and investors ignore bigger challenges. Zynga had hits like Farmville and said they had a way to predict if new games would be popular. But they faced the same problem as movie studios: it’s hard to keep making popular stuff for an audience that changes all the time. Groupon grew quickly because lots of local businesses tried their service, but getting those businesses to keep using it was much tougher than expected.
+
+If you only focus on quick growth, you won’t ask the most important question: will this business still exist in ten years? Numbers won’t give you the answer. Instead, you have to think carefully about what makes your business strong in ways you can’t easily measure.

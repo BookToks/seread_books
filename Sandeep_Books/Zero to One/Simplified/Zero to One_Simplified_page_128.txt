@@ -1,10 +1,5 @@
-F THE SIX PEOPLE Five were just 23 years old—or younger. Four of us had been born outside the United States. Three had escaped here from communist countries: Yu Pan from China, Luke Nosek from Poland, and Max Levchin from Soviet Ukraine. Building bombs was not what kids normally did in those countries at that time.
- 
- The six of us could have been seen as eccentric. My first-ever conversation with Luke was about how he’d just signed up for cryonics, to be frozen upon death in hope of medical resurrection. Max claimed to be without a country and proud of it: his family was put into diplomatic limbo when the USSR collapsed while they were escaping to the U.S. Russ Simmons had escaped from a trailer park to the top math and science magnet school in Illinois. Only Ken Howery fit the stereotype of a privileged American childhood: he was PayPal’s sole Eagle Scout. But Kenny’s peers thought he was crazy to join the rest of us and make just one-third of the salary he had been offered by a big bank. So even he wasn’t entirely normal.
- 
- The PayPal Team in 1999 Are all founders unusual people? Or do we just tend to remember and exaggerate whatever is most unusual about them? More important, which personal traits actually matter in a founder? This chapter is about why it’s more powerful but at the same time more dangerous for a company to be led by a distinctive individual instead of an interchangeable manager.
- 
+Out of the six people, five were only 23 years old or younger. Four of us were born outside the United States. Three had come here from communist countries: Yu Pan from China, Luke Nosek from Poland, and Max Levchin from Soviet Ukraine. Making bombs wasn’t something kids usually did in those places back then.
 
- 
-(Simplified)
- 
+The six of us might have seemed a little strange. My first talk with Luke was about how he signed up for cryonics, which means being frozen after death in hope of coming back to life someday. Max said he didn’t belong to any country and was proud of it because his family got stuck in a weird situation when the USSR broke up while they were moving to the U.S. Russ Simmons had left a trailer park to go to a top math and science school in Illinois. Only Ken Howery had a more typical American childhood—he was PayPal’s only Eagle Scout. But even Ken’s friends thought he was crazy for joining us and taking only a third of the salary he could have gotten at a big bank. So, none of us were really normal.
+
+The PayPal Team in 1999 Were all founders weird in some way? Or do we just remember and make a big deal about whatever made them different? More importantly, what personal qualities really matter in a founder? This chapter talks about why having a unique person lead a company can be super powerful but also risky, instead of having a regular manager who could be replaced.

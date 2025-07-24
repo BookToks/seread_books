@@ -1,10 +1,5 @@
-THE ENGINEERING QUESTION A great technology company should have proprietary technology an order of magnitude better than its nearest substitute. But cleantech companies rarely produced 2x, let alone 10x, improvements.
- 
- Sometimes their offerings were actually worse than the products they sought to replace. Solyndra developed novel, cylindrical solar cells, but to a first approximation, cylindrical cells are only 1/ as π efficient as flat ones—they simply don’t receive as much direct sunlight. The company tried to correct for this deficiency by using mirrors to reflect more sunlight to hit the bottoms of the panels, but it’s hard to recover from a radically inferior starting point.
- 
- Companies must strive for 10x better because merely incremental improvements often end up meaning no improvement at all for the end user. Suppose you develop a new wind turbine that’s 20% more efficient than any existing technology—when you test it in the laboratory. That sounds good at first, but the lab result won’t begin to compensate for the expenses and risks faced by any new product in the real world. And even if your system really is 20% better on net for the customer who buys it, people are so used to exaggerated claims that you’ll be met with skepticism when you try to sell it. Only when your product is 10x better can you offer the customer transparent superiority.
- 
+A great tech company should have technology that is way better than anything else out there. But clean energy companies usually don’t make products that are even twice as good, let alone ten times better.
 
- 
-(Simplified)
- 
+Sometimes their products are actually worse than the ones they want to replace. For example, Solyndra made solar cells shaped like cylinders, but these cells only catch about one-third as much sunlight as flat ones. They tried to fix this by using mirrors to bounce more sunlight onto the panels, but it’s hard to make up for starting with a much worse design.
+
+Companies need to aim for products that are ten times better because small improvements often don’t really help the customer. Imagine you create a new wind turbine that is 20% more efficient in lab tests. That sounds good, but in real life, the costs and risks make it hard for that small gain to matter. Also, people often don’t believe small claims, so you’ll have trouble convincing them to buy it. Only when your product is ten times better can you clearly show customers it’s the best choice.
