@@ -1,16 +1,7 @@
-A proportional flat-rate-tax would involve higher absolutepaymentsbypersonswithhigher incomes for governmental services, which is not clearly inap propriate on grounds of benefits conferred. Yet it would avoid a situation where any large numbers could vote to impose on others taxes that did not also affect their own tax burden.
- 
- The proposal to substitute a flat-rate income tax for the pres ent graduated rate structure will strike many a reader as a radi cal proposal. And so it is in terms of concept. For this very reason, it cannot be too strongly emphasized that it is not radi cal in terms of revenue yield, redistribution of income, or any other relevant criterion. Our present income tax rates range from 20 per cent to 91 per cent, with the rate reaching 50 per cent on the excess of taxable incomes over $18,000 for single taxpayers or $36,000 for married taxpayers filing joint returns.
- 
- Yet a flat rate of 23Yz per cent on taxable income as presently reported and presently defined, that is, above present exemp tions and after all presently allowable deductions, would yield as much revenue as the present highly graduated rate.2 In fact, such a flat rate, even with no change whatsoever in other fea tures of the law, would yield a higher revenue because a larger amount of taxable income would be reported for three reasons: there would be less incentive than now to adopt legal but costly schemesthat reduce the amountoftaxable income reported (so called tax avoidance); there would be less incentive to fail to report income that legally shouldbe reported (tax evasion);the removal of the disincentive effects of the present structure of rateswould produceamoreefficientuseofpresentresourcesand ahigherincome.
- 
- If the yield of the present highly graduated rates is so low, so 2This point is so important that it may be worth giving the figures and calcu lations. The latest year for which figures are available as this is written is the taxable year 1959 in U. S. Internal Revenue Service, Statistics of Income for 1959.
- 
- For thatyear: Aggregate taxable income reported on Individual tax returns $166,540 million Income Tax before tax credit 39,092 million Income tax after tax credit............................................................ 38,645 million A flat rate tax of 23Yz per cent on the aggregate taxable income would have yielded (.235) X $166,540 million == $39,137 million.
- 
- If we assume the same tax credit, the final yield would have been about the same as that actually attained.
- 
+A flat tax where everyone pays the same percentage would mean people with higher incomes pay more money overall for government services. This isn’t unfair because they get benefits too. It would also stop groups from making others pay taxes that don’t affect themselves.
 
- 
-(Simplified)
- 
+Changing to a flat tax instead of the current system with different rates might seem like a big change. And it is an important idea. But it doesn’t mean the government would make less money or that it would change how money is shared between rich and poor in a big way. Right now, income tax rates go from 20% up to 91%, and people pay 50% on income over certain amounts ($18,000 for singles, $36,000 for married couples).
+
+If we had a flat tax of 23.5% on the income people report now, after exemptions and deductions, it would bring in about the same amount of money as the current system. Actually, it might bring in more money because people would have less reason to hide income or use complicated ways to reduce their taxes. Also, with simpler taxes, people might work better and earn more.
+
+Since the current system with very high tax rates doesn’t bring in as much money as you’d expect, here are some numbers to explain: In 1959, the total taxable income reported was $166.54 billion. The income tax collected, after credits, was about $38.6 billion. If there was a flat tax of 23.5%, it would have collected about $39.1 billion. So, with the same tax credits, the money raised would be about the same as what was actually collected.

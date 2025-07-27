@@ -1,14 +1,9 @@
-We now have an exemp tion of $600 per person under the federal income tax (plus a minimum 10 per cent flat deduction). If an individual receives $100 taxable income, i.e., an income of $100 in excess of the exemptionand deductions, he pays a tax. Under the proposal, if his taxableincomeminus$100,i.e.,$100less than the exemption plus deductions, he would pay a negative tax, i.e., receive a subsidy. If the rate of subsidy were, say, 50 per cent, he would receive $50. If he had no income at all, and, for simplicity, no deductions, and the rate were constant, he would receive $300.
- 
- He might receive more than this if he had deductions, for ex ample, for medical expenses, so that his income less deductions, was negative even before subtracting the exemption. The rates of subsidy could, of course, be graduated just as the rates of tax above the exemption are. In this way, itwould be possible to set a floor below which no man's net income (defined now to in clude the subsidy) could fall-in the simple example $300 per person. The precise floor set would depend on what the com munity could afford.
- 
- The advantages of this arrangement are clear. It is directed specifically at the problem of poverty. It gives help in the form most useful to the individual, namely, cash. It is general and could be substituted for the host of special measures now in effect. It makes explicit the cost borne by society. It operates outside the market. Like any other measures to alleviate pov erty,it reduces the incentivesofthose helped to help themselves, but it does not eliminate that incentive entirely, as a system of supplementing incomes up to some fixed minimum would. An extra dollar earned always means more money available for expenditure.
- 
- No doubt there would be problems of administration, but these seem to me a minor disadvantage, if they be a disad vantage at all. The system would fit directly into our current income tax system and could be administered along with it.
- 
- The present tax system covers the bulk of income recipients and the necessity of covering all would have the by-product of improving the operation of the present income tax. More im portant, if enacted as a substitute for the present rag bag of Alleviation ofPoverty 193 measures directed at the same end, the total administrative burden would surely be reduced.
- 
+Right now, people get a $600 exemption under federal income tax, plus a small 10% flat deduction. If someone makes $100 more than the exemption and deductions, they pay tax. But if their income is $100 less than the exemption and deductions, they would get a negative tax, which means they get money back as a subsidy. For example, if the subsidy rate is 50%, they would get $50. If they had no income at all and no deductions, they would get $300.
 
- 
-(Simplified)
- 
+They could get even more money back if they have deductions, like medical expenses, that make their income minus deductions less than zero before subtracting the exemption. The subsidy rates could change gradually, just like tax rates above the exemption do. This way, no one’s total income (including the subsidy) would fall below a certain minimum, like $300 in this example. The exact minimum depends on what the community can afford.
+
+This system has clear benefits. It directly helps with poverty by giving cash, which is the most useful help. It’s simple and could replace many special programs that exist now. It also shows how much society spends on helping people. It works outside the market. Like other poverty help programs, it might make some people less motivated to help themselves, but not completely. Every extra dollar they earn still means more money for them to spend.
+
+There might be some problems managing it, but those seem small if they are problems at all. The system would fit right into the current tax system and could be handled together with it.
+
+The current tax system already covers most people who get income, and covering everyone would also improve how the tax system works. More importantly, if this system replaces the many different poverty programs now, the total work needed to manage it would probably go down.

@@ -1,24 +1,17 @@
-As an operational matter, the program known as old age and survivor's insurance (OASI) consists of a special tax imposed on payrolls, plus paymentsto personswhohave reached aspeci fied age, of amounts determined by the age at which payments begin, family status, and prior earning record.
- 
- As an analytical matter, OASI consists of three separable ele ments: I. The requirement that a wide class of persons must pur chase specified annuities, i.e., compulsory provision for old age.
- 
- 2. The requiren1ent that the annuity mustbe purchasedfrom the government; i.e., nationalization of the provision of the.se annuities.
- 
- 3. A scheme for redistributing income, insofar as the value of the annuities to which people are entitled when they enter the system is not equal to the taxes they will pay.
- 
- Clearly, there is no necessity for these elements to be com bined. Each individual could be required to pay for h.is own annuity; the individual could be permitted to purchase an an..
- 
- nuity from private firms; yet individuals could be required to purchase specified annuities. The government could go into the business of selling annuities without compelling individuals to buy specified annuities and require the business to be self supporting. And clearly the government can and does engage in redistribution without using the device of annuities.
- 
- Let us therefore consider each of these elements in turn to see how far, if at all, each can be justified. It will facilitate our analysis, I believe, if we consider them in reverse order.
- 
- I. Income redistribution. The present OASI program in..
- 
- volves two major kinds ofredistribution; from some OASI ben eficiaries to others; from the general taxpayer to OASI beneficiaries.
- 
- The first kind of redistribution is primarily from those who entered the system relatively young, to those who entered it at an advanced age. The latter are receiving, and will for some time be receiving, a greater amount as benefits than the taxes they paid could have purchased. Under present tax and benefit 184 CAPITALISM AND FREED0 M schedules, on the other hand, those who entered the system at a young age will receive decidedly less.
- 
+The old age and survivor's insurance (OASI) program works like this: there is a special tax taken from people’s paychecks. Then, people who reach a certain age get payments. How much they get depends on when they start receiving payments, their family situation, and how much they earned before.
 
- 
-(Simplified)
- 
+OASI has three main parts: 
+
+1. Lots of people have to buy certain retirement plans, so it’s like a rule to save for old age.
+
+2. These retirement plans must be bought from the government, which means the government controls this system.
+
+3. The program also moves money around, so some people get more than they paid in taxes, and others get less.
+
+These parts don’t have to be together. People could pay for their own retirement plans. They could buy them from private companies instead of the government. The government could sell retirement plans but not make anyone buy them, or it could help move money around without using retirement plans.
+
+Let’s look at these parts one by one, starting with the last one.
+
+1. Income redistribution means the program moves money between people. It moves money from some OASI members to others and from all taxpayers to OASI members.
+
+The first type of money movement is mostly from people who joined the system young to people who joined late. People who joined late get more benefits than they paid for in taxes. But people who joined young get less than what they paid in.

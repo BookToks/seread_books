@@ -1,16 +1,13 @@
-Monopoly has become a much more serious problem in Britain since free trade was abandoned, first after World War I and then more extensively in the early 1930's.
- 
- The effects of tax legislation have been even more indirect yet not less important. A major elementhas been the linkage of the corporate and individual income tax combined with the special treatment of capital gains under the individual income tax. Let us suppose a corporation earns an income of$1 million over and above corporate taxes. Ifitpays the whole million dol lars to its stockholders as dividends, they must include it as part of their taxable income. Suppose they would, on the aver age, have to pay 50 per centofthis additional income as income tax. They would then have available only $500,000 to spend on consumption or to save and invest. If instead the corporation pays no cash dividends to its stockholders, it has the whole million dollars to invest internally. Such reinvestment will tend to raise the capital value of its stock. Stockholders who would have saved the funds if distributed can simply hold the stock and postpone all taxes until they sell the stock. They, as well as otherswho sellat an earlierdate torealizeincomefor consump tion, will pay tax at capital gains rates, which are lower than rates on regular income.
- 
- This tax structureencourages retention ofcorporate earnings.
- 
- Even if the return that can be earned internally is appreciably less than the return that the stockholder himself could earn by investing the funds externally, it may pay to invest internally because of the tax saving. This leads to a waste of capital, to its use for less productive rather than more productive purposes.
- 
- It has been a major reason for the post-World-War-II tendency toward horizontal diversification as firms have sought outlets for their earnings. It is also a great source of strength for estab lished corporations relative to new enterprises. The established corporations can be less productive than new enterprises, yet their stockholders have an incentive to invest in them rather than to have the income paid out so that they can invest it in new enterprises through the capital market.
- 
- Amajorsourceoflabormonopolyhasbeengovernmentassist ance. Licensure provisions, building codes, and the like, dis- Monopoly andSocial Responsibility 131 cussed above have been one source.
- 
+Monopoly has become a much bigger problem in Britain since free trade was stopped, first after World War I and then even more in the early 1930s.
 
- 
-(Simplified)
- 
+The effects of tax laws have been less direct but just as important. One big part is how corporate and individual income taxes are linked, along with special rules for capital gains in individual taxes. Imagine a company makes $1 million after paying corporate taxes. If it gives all that money to its stockholders as dividends, they have to pay about half of it in income tax. So, they only get $500,000 to spend or save.
+
+But if the company doesn’t pay dividends and keeps the money to invest in itself, the stock becomes more valuable. Stockholders can just hold onto their stock and wait to pay taxes later when they sell it. When they do, they pay taxes at lower capital gains rates, which means they save money on taxes.
+
+This tax system makes companies want to keep their earnings instead of paying them out.
+
+Even if the company’s investments earn less than what stockholders could earn on their own, it can still make sense to invest inside the company because of the tax savings. This can waste money by putting it into less useful projects instead of better ones.
+
+Because of this, after World War II, many companies started doing many different things to use their earnings. It also helps big companies stay strong compared to new businesses. Big companies might be less productive, but their stockholders prefer investing in them rather than getting paid dividends and putting money into new businesses.
+
+Another big cause of labor monopoly has been government help. Rules like licenses and building codes have been one way this has happened.

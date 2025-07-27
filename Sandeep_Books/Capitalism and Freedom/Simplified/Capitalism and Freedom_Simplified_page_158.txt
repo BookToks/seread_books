@@ -1,18 +1,13 @@
-Occupational Licensure 145 The third stage is licensing proper. This is an arrangement under which one must obtain a license from a recognized au thority in order to engage in the occupation. The license is more than a formality. It requires some demonstration of com petence or the meeting of some tests ostensibly designed to in sure competence, and anyone who does not have a license is not authorized to practice and is subject to a fine or a jail sentence if he does engage in practice.
- 
- The question I want to consider is this: under what circum stances,if any, canwe justify the oneorthe otherofthese steps?
- 
- There are three differentgroundsonwhich itseemstome regis tration can be justified consistently with liberal principles.
- 
- First, it may assist in the pursuit of other aims. Let me illus trate. Thepoliceare often concerned withactsofviolence. After the event, it is desirable to find out who had access to firearms.
- 
- Before the event, it is desirable to prevent firearms from getting into the hands ofpeoplewho are likely to use themfor criminal purposes. It may assistin thepursuitofthis aim toregister stores selling firearms. Of course, if I may revert to a point made several times in earlier chapters, it is never enough to say that there might be a justification along these lines, in order to con cludethat there isjustification. Itis necessary to setup abalance sheet of the advantages and disadvantages in the light of liberal principles. All I am now saying is that this consideration might in somecases justifyoverridingthegeneral presumption against requiring the registration of people.
- 
- Second,registration is sometimesadevicetofacilitate taxation and nothing more. The questions at issue then become whether the particular tax is an appropriate method to raise revenue for financing government services regarded as necessary, and whether registration facilitates the collection of taxes. It may dosoeitherbecauseatax isimposed onthepersonwhoregisters, orbecausethepersonwhoregistersis used asataxcollector.For example, in collecting a sales tax imposed on various items of consumption, it is necessary to have a register or list of all the places selling goods subject to the tax.
- 
- Third, and this is the onepossible justificationfor registration which is close to our main interest, registration may be a means to protectconsumers againstfraud. In general, liberal principles CAPITALISM AND FREEDOM assign to the state the power to enforce contracts, and fraud involves the violation of a contract.
- 
+Occupational Licensure 145
 
- 
-(Simplified)
- 
+The third stage is actual licensing. This means you have to get a license from an official group to work in a job. The license isn’t just a formality. You have to prove that you are good at the job or pass some tests to show you know what you’re doing. If you don’t have a license, you’re not allowed to work and could be fined or even go to jail if you do.
+
+The question I want to think about is this: when, if ever, can we say these steps are okay?
+
+There are three reasons why registration might be okay, according to liberal ideas.
+
+First, it can help with other goals. For example, the police worry about violence. After something bad happens, it’s good to know who had guns. Before something bad happens, it’s smart to stop guns from getting to people who might use them to do crimes. Registering stores that sell guns might help with this. But just saying this isn’t enough to say registration is okay. We have to weigh the good and bad sides carefully based on liberal ideas. I’m just saying this might sometimes be a good reason to require registration.
+
+Second, registration can help collect taxes and nothing else. The questions here are if the tax is a good way to pay for government services we need, and if registration helps collect the tax. It might, because the tax is on the person who registers or because that person helps collect the tax. For example, when collecting sales tax on things people buy, you need a list of all the stores selling those things.
+
+Third, and this is the reason closest to our main topic, registration might protect customers from fraud. Liberal ideas give the government the power to enforce contracts, and fraud is when someone breaks a contract in a dishonest way.

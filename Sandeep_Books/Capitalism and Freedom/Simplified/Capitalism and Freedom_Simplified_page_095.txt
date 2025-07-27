@@ -1,12 +1,9 @@
-The simple Keynesian analysis implicitly assumes that bor rowing the money does not have any effects on other spending.
- 
- There are two extreme circumstances under which this can occur. First, suppose people are utterly indifferent to whether they hold bonds or money, so that bonds to get the $100 can be sold without having to offer a higher return to the buyer than such bonds were yielding before. (Of course, $100 is so small an amount that it would in practice have a negli gible effect on the required rate of return, but the issue is one of principle whose practical effect can be seen by letting the $100 stand for $100 million or $100 ten-million.) In Keynesian jargon, there is a "liquidity trap" so people buy the bonds with "idle money." If this is not the case, and clearly it cannot be indefinitely, then the government can sell the bonds only by offering a higher rate of return on it. A higher rate will then have to be paid also by other borrowers. This higher rate will in general discourage private spending on the part of would-be borrowers. Here comes the second extreme circumstance under which the simple Keynesian analysis will hold: if poten tial borrowers are so stubborn about spending that no rise in interest rates however steep will cut down their expenditures, or, in Keynesian jargon, if the marginal efficiency schedule of investment is perfectly inelastic with respect to the interest rate.
- 
- I know of no established economist, no matter how much of a Keynesian he may regard himself as being, who would regard either of these extreme assumptions as holding cur rently, or as being capable of holding over any considerable range of borrowing or rise in interest rates, or as having held except under rather special circumstances in the past. Yet many an economist, let alone non-economist, whether regard ing himself as Keynesian or not, accepts as valid the belief that a rise in governmental expenditures relative to tax receipts, even when financed by borrowing, is necessarily expansionist, though as we have seen, this belief implicitly requires one of these extreme circumstancestohold.
- 
- If neither assumption holds, the rise in government expendi tures will be offset by a decline in private expenditures on the Fiscal Policy part either of those who lend funds to the government, or of those who would otherwise have borrowed the funds.
- 
+The simple Keynesian idea assumes that borrowing money doesn’t affect other spending.
 
- 
-(Simplified)
- 
+There are two extreme situations when this might happen. First, imagine people don’t care if they have bonds or money, so the government can sell bonds to get $100 without offering higher returns than before. (In real life, $100 is very small, but think of it as $100 million to understand the idea.) In Keynesian terms, this is called a "liquidity trap," where people buy bonds with "idle money." 
+
+If this isn’t true, which it usually isn’t for long, the government has to offer higher returns to sell bonds. This means other borrowers also have to pay higher interest. Higher rates usually stop people from spending or borrowing money. The second extreme case is if people don’t care about higher interest rates and keep spending no matter what. In Keynesian terms, this means investment doesn’t change even if interest rates go up.
+
+No serious economist believes these extreme cases are true right now or have been true for long. But many people, even economists, think that if the government spends more than it gets from taxes and borrows money to do it, the economy will definitely grow. This idea only works if one of those extreme cases is true.
+
+If neither of these cases is true, then when the government spends more, private spending will go down. This can happen either because people who lend to the government spend less or because people who would have borrowed money spend less.

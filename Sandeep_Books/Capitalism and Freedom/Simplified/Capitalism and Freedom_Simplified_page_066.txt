@@ -1,14 +1,9 @@
-When a vote is taken on whether Mr. Jones can speak on the corner, it cannot allow for the favorable effects of an announced general policy of free speech. It cannot allow for the fact that a society in which peo ple are not free to speak on the corner without special legisla tion will be a society in which the development of new ideas, experimentation, change, and the like will all be hampered in a great variety of ways that are obvious to all, thanks to our good fortune of having lived in a society which did adopt the self-denying ordinance of not considering each case of speech separately.
- 
- Exactly the same considerations apply in the monetary area.
- 
- If each case is considered on its merits, the wrong decision is likely to be made in a large fraction of cases because the deci sion-makers are examining only a limited area and not taking into account the cumulative consequences of the policy as a whole. On the other hand, if a general rule is adopted for a group of cases as a bundle, the existence of that rule has favor able effects on people's attitudes and beliefs and expectations that would not follow even from the discretionary adoption of precisely the same policy on a series of separate occasions.
- 
- If a rule is to be legislated, what rule should it be? The rule that has most frequently been suggested by people of a gener ally liberal persuasion is a price level rule; namely, a legislative directive to the monetary authorities that they maintain a stable price level. I think this is the wrong kind of a rule. It is the wrong kind of a rule because it is in terms of objectives that the monetary authorities do not have the clear and direct power to achieve by their own actions. It consequently raises the problem of dispersing responsibilities and leaving the au thorities too much leeway. There is unquestionably a close con nection between monetary actions and the price level. But the connection is not so close, so invariable, or so direct that the objective of achieving a stable price level is an appropriate guide to the day-to-day activities of the authorities.
- 
- The issue what rule to adopt is one that I have considered at some length elsewhere.3 Accordingly, I will limit myself here 3A Program for l-.lonetary Stability, op. cit., pp. 77-99.
- 
+When people vote on whether Mr. Jones can talk on the street corner, they don’t think about the good things that come from having a general rule that everyone can speak freely. They don’t realize that if people aren’t allowed to speak without special permission, it will stop new ideas, trying new things, and change from happening. This is clear to everyone because we are lucky to live in a society where they decided not to judge each speech separately.
 
- 
-(Simplified)
- 
+The same idea applies to money and how it’s handled.
+
+If each money problem is looked at one by one, the people in charge might make a lot of wrong choices because they only see a small part and don’t think about how all the decisions added together will affect things. But if there is one general rule for many cases, that rule helps people know what to expect and think in a better way than if decisions were made differently each time.
+
+If we have to make a rule, what should it be? Many people who believe in freedom suggest a "price level rule," which means the government should keep prices steady. But I think this is the wrong rule. It’s wrong because the people in charge of money don’t have the clear power to keep prices stable all the time. This causes confusion about who is responsible and lets those people have too much freedom to do whatever they want. Even though money decisions affect prices, the link isn’t close or simple enough to make keeping prices steady a good daily goal for the money managers.
+
+I have thought about what rule to make in detail somewhere else. So, I will only say a little about it here.

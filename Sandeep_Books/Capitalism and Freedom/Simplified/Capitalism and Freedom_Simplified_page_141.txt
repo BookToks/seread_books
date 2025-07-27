@@ -1,20 +1,17 @@
-The specific conditions attached to patents and copyrights- for example, the grant ofpatentprotectionfor sev enteenyearsratherthan someotherperiod- are notamatterof principle. They are matters of expediency to be determined by practical considerations. I am myself inclined to believe that a much shorter period ofpatent protection would be preferable.
- 
- But this is a casual judgment on a subject on which there has been much detailed study and on which much more is needed.
- 
- Hence, it is deserving of little confidence.
- 
- THE SOURCESOFMONOPOLY There are three major sources of monopoly: "technical" con siderations, direct and indirect governmental assistance, and private collusion.
- 
- I. Technical Considerations As pointed out in chapter ii, monopoly arises to some extent because technical considerations make it more efficient or economical to have a single enterprise rather than many. The most obvious example is a telephone system, water system, and the like in an individual community.
- 
- There is unfortunately no good solution for technical monop oly. There is only a choice among three evils: private unregu lated monopoly, private monopoly regulated by the state, and governmentoperation.
- 
- It seems impossible to state as a general proposition that one of these evils is uniformly preferable to another. As stated in chapter ii, the great disadvantage of either governmental regu lation or governmental operation of monopoly is that it is ex ceedingly difficult to reverse. In consequence, I am inclined to urge that the least of the evils is private unregulated monopoly wherever this is tolerable. Dynamic changes are highly likely to undermine it and there is at least some chance that these will be allowed to have their effect. And even in the short run, there is generally a wider range of substitutes than there seems to be at first blush, so private enterprises are fairly narrowly limited in the extent to which it is profitable to keep prices above cost.
- 
- Moreover, as we have seen, the regulatory agencies often tend themselves to fall under the control of the producers and so Monopoly andSocial Responsibility 129 prices may not be any lower with regulation than without regulation.
- 
+The rules about patents and copyrights—like giving patent protection for seventeen years instead of some other time—aren’t based on strict principles. They depend on what works best in real life. I personally think a shorter patent time would be better.
 
- 
-(Simplified)
- 
+But this is just my quick opinion on a topic that many people have studied a lot and still need to study more.
+
+So, my opinion shouldn’t be trusted too much.
+
+There are three main reasons why monopolies happen: technical reasons, government help, and private groups working together.
+
+First, technical reasons. As explained before, sometimes it’s easier or cheaper for just one company to do something instead of many companies. A good example is a telephone system or water supply in a town.
+
+Unfortunately, there is no perfect fix for technical monopolies. Usually, you have to choose between three bad options: a private monopoly with no rules, a private monopoly controlled by the government, or the government running it.
+
+It’s hard to say which one is always better. The big problem with government control or operation is that it’s very hard to undo later. Because of this, I think the least bad option is a private monopoly without heavy rules, if it can be tolerated.
+
+Changes in the market often break up these monopolies, and sometimes those changes are allowed to happen. Also, even when it seems like there are no choices, there usually are some alternatives, so private companies can’t raise prices too much.
+
+Plus, we’ve seen that government regulators often end up working with the companies, so prices may not be any lower with regulation than without it.

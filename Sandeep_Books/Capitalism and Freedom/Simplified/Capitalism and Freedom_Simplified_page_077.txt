@@ -1,20 +1,17 @@
-Hence this mechanism will be used only if the authorities in the country experiencing the deficit are willing to produce a deflation, thereby creating unemployment, in order to resolve its payments problem, or the authorities in the country experiencing the surplus are willing toproduce an inflation.
- 
- 3. Exactly the same effects can be achieved by a change in exchange rates as by a change in domestic prices. For example, suppose that under mechanism 2 the price 'of a particular car in the United States fell by 10 per cent from $2,800 to $2,520.
- 
- If the price of the pound is throughout $2.80; this means that the price in Britain (neglecting freight and other charges) would fall from £1,000 to £900. Exactly the same decline in the British price will occur without any change in the United States price if the price of a pound rises from $2.80 to $3.11.
- 
- Formerly, the Englishman had to spend £1,000 to get $2,800.
- 
- Now he can get $2,800 for only £900. He would not know the difference between this reduction in cost and the corresponding reduction through a fall in the u.S. price without a change in exchange rate.
- 
- In practice, there are several ways in which the change in exchange rates can occur. With the kinds of pegged exchange rates many countries now have, it can occur through devalua tion or appreciation, which is to say, a governmental declara tion that it is changing the price at which it proposes to peg its currency. Alternatively,theexchangerate does notneed to be pegged at all. It can be a market rate changing from day to day, as was the case with the Canadian dollar from 1950 to 1962. If a market rate, it can be a truly free market rate deter mined primarily by private transactions as the Canadian rate apparently was from 1952 to 1961, or it can be manipulated by government speculation as was the situation in Britain from 1931 to 1939, and in Canada from 1950 to 1952 and again from 1961 to 1962.
- 
- Of these various techniques, only the freely floating ex change rate is fully automatic and free from governmental control.
- 
- 4. The adjustments produced by mechanisms 2 and 3 con sist of changes in flows of commodities and services induced International Trade Arrangements by changes either in internal prices or exchange rates.
- 
+So, this system will only work if the leaders in a country with money problems are okay with causing deflation, which can lead to people losing jobs, to fix their payment issues. Or if the leaders in the country with extra money are okay with causing inflation.
 
- 
-(Simplified)
- 
+The same results can happen by changing exchange rates instead of changing prices inside the country. For example, if a car’s price in the U.S. drops from $2,800 to $2,520, that’s like a 10% fall.
+
+If the pound stays at $2.80, then the car’s price in Britain would drop from £1,000 to £900. The same price drop in Britain would happen without changing the U.S. price if the pound’s value goes up from $2.80 to $3.11.
+
+Before, someone in England needed £1,000 to get $2,800.
+
+Now, they only need £900 to get $2,800. They wouldn’t notice any difference if the price drop was because of a lower U.S. price or a change in exchange rate.
+
+There are different ways exchange rates can change. With fixed exchange rates, a government can say it’s changing the value of its currency, called devaluation or appreciation. Or the exchange rate might not be fixed and can change every day, like the Canadian dollar did from 1950 to 1962.
+
+If it’s a market rate, it can be decided by private trade, like the Canadian dollar from 1952 to 1961. Or the government can control it by buying or selling currency, like in Britain from 1931 to 1939 and in Canada at other times.
+
+Out of all these methods, only a free-floating exchange rate is automatic and not controlled by the government.
+
+The changes caused by lowering prices or changing exchange rates lead to changes in how goods and services move between countries.

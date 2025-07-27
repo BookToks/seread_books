@@ -1,12 +1,7 @@
-This difference suggests the existence of underinvest s ment in human capital.
- 
- This underinvestment in human capital presumably reflects an imperfection in the capital market. Investment in human beings cannot be financed on the same terms or with the same ease as investment in physical capital. It is easy to see why. If a fixed money loan is made to finance investment in physical capital, the lender can get some security for his loan in the form of a mortgage or residual claim to the physical asset itself, and he can count on realizing at least part of his investment in case of default by selling the physical asset. If he makes a com parable loan to increase the earning power of a human being, he clearly cannot get any comparable security. In a non-slave state, the individual embodying the investment cannot be bought and sold. Even if he could, the security would not be comparable. The productivity of the physical capital does not in general depend on the co-operativeness of the original bor rower. The productivity of the human capital quite obviously does. A loan to finance the training of an individual who has no security to offer other than his future earnings is therefore a much less attractive proposition than a loan to finance the erection of a building: the security is less, and the cost of sub sequentcollectionofinterestand principalisvery much greater.
- 
- A further complication is introduced by the inappropriate ness of fixed money loans to finance investment in training.
- 
- Such an investment necessarily involves much risk. The aver age expected return may be high, but there is wide variation about the average. Death or physical incapacity is one obvious source of variation but this is probably much less important than differences in ability, energy, and good fortune. Conse quently if fixed money loans were made, and were secured only by expected future earnings, a considerablefraction would never be repaid. In order to make such loans attractive to lenders, the nominal interest rate charged on all loans would 8See G. S. Becker, "Underinvestment in College Education?" American Eco nomicReview, Proceedings L (1960),356-64; T. W. Schultz, "Investment in human Capital," American Economic Review, LXI (1961), 1-17.
- 
+This difference shows that people don’t spend enough on education and skills.
 
- 
-(Simplified)
- 
+This happens because the money system isn’t perfect. It’s harder to get a loan for learning than for buying things like machines or buildings. That’s because when someone borrows money to buy a building, the lender can use the building as a backup if the borrower doesn’t pay back the loan. But if someone borrows money to get trained or educated, the lender can’t use the person as backup since people can’t be owned or sold.
+
+Also, the success of the training depends a lot on the person’s effort and choices, unlike a building which works the same no matter who owns it. So, lending money for education is riskier and harder to collect back compared to lending money for physical things like buildings.
+
+Another problem is that loans with fixed payments don’t work well for education because learning is risky. The average benefit might be high, but it can vary a lot. Things like accidents or just being lucky or unlucky affect how much someone earns in the future. If loans were based only on future earnings, many people might not pay back, so lenders would have to charge very high interest rates to cover the risk.
