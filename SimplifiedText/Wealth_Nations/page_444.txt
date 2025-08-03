@@ -1,0 +1,11 @@
+When a big company wanted to turn gold into coins, they had to pay two percent more than what the gold was actually worth after it was made into coins. This was because the coins were two percent lighter than they should have been. If there had been a two percent fee for making the coins, the coins would still have been worth the same as the standard amount of gold they were supposed to have, even though they were lighter. So, the company would still lose two percent overall, which is the same as what they actually lost.
+
+If the fee for making the coins was five percent and the coins were only two percent lighter, the bank would actually make three percent more on the gold they bought. But since they had to pay a five percent fee to make the coins, they would still end up losing two percent overall, just like before.
+
+If the fee was only one percent and the coins were two percent lighter, the bank would lose just one percent on the gold. But since they also had to pay a one percent fee to make the coins, their total loss would still be two percent, just like in the other cases.
+
+If there was a reasonable fee for making coins and the coins were the right weight, the bank wouldn’t really lose or gain anything overall. They would lose some money from the fee but would make it back from the price of the gold. So, in the end, they would be in the same situation as if there was no fee at all.
+
+When a tax on something is low enough that people don’t try to cheat, the seller doesn’t really pay the tax because they can add it to the price. The last person who buys it ends up paying the tax. Money is a special case because everyone is a seller. People only buy money to sell it again, so there’s no final buyer. If the fee for making coins is low enough that no one tries to make fake coins, everyone pays the fee at first, but they get it back when they sell the coins for a higher price. 
+
+So, a reasonable fee for making coins wouldn’t really change anything in the end.

@@ -1,9 +1,0 @@
-A wave of banks closing would slow down for a bit, then start again when a few big bank failures or other events made people lose trust in banks, causing more bank runs. These were important not just because banks failed, but because of how they affected the total money supply.
-
-In our system, banks don’t keep a dollar in cash for every dollar people deposit. That’s why “deposits” can be confusing. When you put a dollar in the bank, the bank might only keep about 15 or 20 cents in cash and lend out the rest. The person who borrows that money might put it back in a bank, and the process repeats.
-
-This means banks owe more in deposits than they actually have in cash. The total money supply—cash plus deposits—is bigger when more people keep their money in banks. If lots of people try to take their money out at once, the total money supply goes down unless new cash is made and banks can get it. Otherwise, one bank trying to give cash to its customers will pressure other banks by calling in loans, selling investments, or taking out its deposits. Those banks then pressure even more banks, creating a bad cycle.
-
-This cycle can get worse and worse. Banks sell assets cheaply, which can make even good banks fail, causing people to lose trust and start the cycle again.
-
-This is the kind of problem that caused banking panics before the Federal Reserve existed, like in 1907. Back then, banks stopped letting people exchange deposits for cash for a while. This was a tough move and made things worse for a short time, but it helped stop the cycle by keeping one bank’s failure from causing others to fail too.

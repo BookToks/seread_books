@@ -1,9 +1,0 @@
-The simple Keynesian idea assumes that borrowing money doesn’t affect other spending.
-
-There are two extreme situations when this might happen. First, imagine people don’t care if they have bonds or money, so the government can sell bonds to get $100 without offering higher returns than before. (In real life, $100 is very small, but think of it as $100 million to understand the idea.) In Keynesian terms, this is called a "liquidity trap," where people buy bonds with "idle money." 
-
-If this isn’t true, which it usually isn’t for long, the government has to offer higher returns to sell bonds. This means other borrowers also have to pay higher interest. Higher rates usually stop people from spending or borrowing money. The second extreme case is if people don’t care about higher interest rates and keep spending no matter what. In Keynesian terms, this means investment doesn’t change even if interest rates go up.
-
-No serious economist believes these extreme cases are true right now or have been true for long. But many people, even economists, think that if the government spends more than it gets from taxes and borrows money to do it, the economy will definitely grow. This idea only works if one of those extreme cases is true.
-
-If neither of these cases is true, then when the government spends more, private spending will go down. This can happen either because people who lend to the government spend less or because people who would have borrowed money spend less.

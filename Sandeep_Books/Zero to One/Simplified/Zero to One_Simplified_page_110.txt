@@ -1,5 +1,0 @@
-Another popular idea that shows people like to replace things with technology is “big data.” Today’s companies want more and more data, thinking that having more data always means better results.
-
-But big data is often just useless data. Computers can find patterns that people miss, but they don’t understand how to compare different patterns or figure out complicated behaviors. Real useful ideas only come from humans analyzing the data (or some super smart AI that only exists in movies).
-
-We get excited about big data because we think technology is amazing. We admire small things computers do on their own but don’t notice big successes that happen when humans and computers work together. Watson, Deep Blue, and better machine learning are cool. But the best companies in the future won’t ask what computers can do alone. Instead, they’ll ask: how can computers help humans solve hard problems?

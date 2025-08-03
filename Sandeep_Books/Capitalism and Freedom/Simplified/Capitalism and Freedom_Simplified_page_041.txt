@@ -1,7 +1,0 @@
-These situations happen when trading freely is either really expensive or almost impossible. There are two main types: monopoly and other market problems, and neighborhood effects.
-
-Trading is only truly free when there are almost equal choices. A monopoly means there are no other options, so people can’t really choose. Usually, monopolies happen because the government supports them or because groups agree to work together. To fix this, we either need to stop the government from helping monopolies or make sure rules like anti-trust laws are followed. But sometimes, a monopoly happens because it’s just easier or better to have one company. For example, one company might provide all the phone services in a town. These are called "technical" monopolies.
-
-When a monopoly happens naturally because of how things work, there are only three options: a private monopoly, a public monopoly, or public rules to control it. None of these are good, so we have to pick the least bad option. Henry Simons saw how public rules worked in the US and thought public monopoly might be better. Walter Eucken saw public monopoly in German railroads and thought public rules might be better. After learning from both, I think private monopoly might be the least bad choice.
-
-If society never changed, I wouldn’t trust this solution. But since society changes fast, the reasons for a technical monopoly can change too. I think public rules and public monopolies don’t adapt well to change and are harder to get rid of than private monopolies.

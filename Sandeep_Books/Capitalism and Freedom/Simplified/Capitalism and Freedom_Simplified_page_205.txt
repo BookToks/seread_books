@@ -1,9 +1,0 @@
-Right now, people get a $600 exemption under federal income tax, plus a small 10% flat deduction. If someone makes $100 more than the exemption and deductions, they pay tax. But if their income is $100 less than the exemption and deductions, they would get a negative tax, which means they get money back as a subsidy. For example, if the subsidy rate is 50%, they would get $50. If they had no income at all and no deductions, they would get $300.
-
-They could get even more money back if they have deductions, like medical expenses, that make their income minus deductions less than zero before subtracting the exemption. The subsidy rates could change gradually, just like tax rates above the exemption do. This way, no one’s total income (including the subsidy) would fall below a certain minimum, like $300 in this example. The exact minimum depends on what the community can afford.
-
-This system has clear benefits. It directly helps with poverty by giving cash, which is the most useful help. It’s simple and could replace many special programs that exist now. It also shows how much society spends on helping people. It works outside the market. Like other poverty help programs, it might make some people less motivated to help themselves, but not completely. Every extra dollar they earn still means more money for them to spend.
-
-There might be some problems managing it, but those seem small if they are problems at all. The system would fit right into the current tax system and could be handled together with it.
-
-The current tax system already covers most people who get income, and covering everyone would also improve how the tax system works. More importantly, if this system replaces the many different poverty programs now, the total work needed to manage it would probably go down.

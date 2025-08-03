@@ -1,9 +1,0 @@
-Rule #4 Drain the Shallows
-
-In the summer of 2007, the software company 37signals (now called Basecamp) tried something new: they changed their workweek from five days to four. Their workers still got the same amount done with one less day, so the company made this change permanent. Every year from May to October, 37signals employees work only Monday to Thursday, except for customer support, which works all week. Jason Fried, one of the company’s founders, said in a blog post, “People should enjoy the weather in the summer.”
-
-Soon, some people in the business world started to complain. A few months after Fried announced the four-day week, journalist Tara Weiss wrote an article for Forbes called “Why a Four-Day Work Week Doesn’t Work.” She said that trying to fit 40 hours of work into four days might not be a good idea. Many people find working eight hours hard enough, and adding two more hours a day could make them less happy and less productive.
-
-Fried quickly replied. In a blog post called “Forbes Misses the Point of the 4Day Work Week,” he said he agreed that working 40 hours in four days would be stressful. But he explained that’s not what he meant. “The point of the 4-day work week is about doing less work,” he wrote. “It’s not about four 10-hour days… it’s about four normal-ish 8-hour days.”
-
-This might sound confusing. Fried earlier said his workers get as much done in four days as in five. Now he says they work fewer hours. How is that possible? The answer has to do with shallow work. Fried explained that very few people actually work a full 8 hours a day. You’re lucky if you get a few good hours between all the meetings, distractions, web surfing, office drama, and personal stuff that happen during a normal workday.

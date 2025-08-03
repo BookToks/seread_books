@@ -1,9 +1,0 @@
-But this time, something was different.
-
-A huge amount of people—more than 70 percent, according to some reports—were visiting just one place on the big website. It wasn’t a big news story or an article by a famous writer; it was a blog run by Nate Silver, a baseball stats nerd who started predicting elections. Less than a year later, ESPN and ABC News hired Silver away from the Times. They even offered him a team of up to twelve writers. His work ended up being used for sports, weather, news shows, and even the Academy Awards. Some people argue about how good his prediction methods are, but almost everyone agrees that in 2012, this 35-year-old data expert was really successful.
-
-Another winner is David Heinemeier Hansson, a computer programming star who made Ruby on Rails, a tool that helps build websites. Ruby on Rails is used by some of the most popular sites like Twitter and Hulu. Hansson is a partner in a famous company called Basecamp (it used to be called 37signals until 2014). He doesn’t talk much about how much money he makes, but we can guess it’s a lot since he spends time living in Chicago, Malibu, and Marbella, Spain, where he also races fast cars for fun.
-
-Our third example of a big winner is John Doerr, a partner at a famous Silicon Valley venture capital fund called Kleiner Perkins Caufield & Byers. Doerr helped invest in some of the most important tech companies today, like Twitter, Google, Amazon, Netscape, and Sun Microsystems. These investments made him extremely rich—his net worth is over $3 billion right now.
-
-So why have Silver, Hansson, and Doerr done so well? There are two types of answers to this question.
