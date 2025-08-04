@@ -1,0 +1,15 @@
+SUBSTITUTION VS. COMPLEMENTARITY
+
+Fifteen years ago, American workers were worried about losing jobs to cheaper workers in Mexico. That made sense because people can replace each other in jobs. Today, some people think they hear Ross Perot’s “giant sucking sound” again, but this time they blame it on server farms in Texas instead of cheap factories in Tijuana. Americans are scared of technology because they see it as a repeat of past issues with globalization. But the two situations are really different: people compete for jobs and resources, while computers don’t compete for those things.
+
+Globalization Means Substitution
+
+When Perot warned about foreign competition, both George H. W. Bush and Bill Clinton talked a lot about free trade. They believed that since everyone is good at different jobs, the economy works best when people focus on what they do best and trade with each other. In reality, it’s not clear how well free trade has helped many workers. The biggest benefits come when there’s a big difference in skills, but there are a lot of workers around the world who are willing to do simple jobs for very low pay.
+
+People don’t just compete to provide labor; they also want the same resources. While American shoppers enjoy cheap toys and clothes from China, they have to pay more for gasoline because many new Chinese drivers want it too. Whether people are eating shark fins in Shanghai or fish tacos in San Diego, everyone needs food and shelter. And people don’t just want the basics—they will want more as globalization grows. Now that many Chinese farmers can get enough food, they want more variety, like pork instead of just grain. The same goes for rich people everywhere; they all like the same fancy drinks, from Petersburg to Pyongyang.
+
+Technology Means Complementarity
+
+Now, let’s think about competition from computers instead of from human workers. On one side, computers are very different from people, much more than any two people are from each other. Humans and machines are good at different things. People can make plans and decisions in tricky situations, but we aren’t great at handling huge amounts of data. Computers, on the other hand, are really good at processing data but struggle with simple judgments that are easy for humans.
+
+To see how different they are, think about one of Google’s projects where a supercomputer tried to replace humans. In 2012, it made news when it learned to recognize a cat in YouTube videos with 75% accuracy after looking at 10 million pictures. That sounds cool—until you remember that a four-year-old can do it perfectly. When a cheap laptop can beat the smartest mathematicians at some tasks, but even a supercomputer with 16,000 CPUs can’t beat a child at others, it shows that humans and computers are not just different in power—they are really different in what they can do.

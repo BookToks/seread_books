@@ -1,0 +1,15 @@
+In addition to helping find terrorists, analysts using Palantir’s software have been able to guess where insurgents hide bombs in Afghanistan. They have also worked on big insider trading cases, shut down the largest child pornography ring in the world, helped the Centers for Disease Control and Prevention fight foodborne illnesses, and saved banks and the government hundreds of millions of dollars each year by detecting fraud.
+
+This advanced software made these things possible, but the real heroes are the human analysts, lawyers, scientists, and finance experts. Without them, the software wouldn’t be useful at all.
+
+Think about what professionals do today. Lawyers need to explain solutions to tricky problems in different ways, depending on who they’re talking to, like clients or judges. Doctors have to understand medical stuff and explain it in simple terms to patients. Good teachers know their subjects well, but they also need to adapt their teaching to fit different students’ interests and learning styles. Computers can do some of these tasks, but they can’t do them all together effectively.
+
+Better technology in law, medicine, and education won’t replace professionals; it will help them do even more.
+
+LinkedIn has done this for recruiters. When LinkedIn started in 2003, they didn’t ask recruiters what problems they had. They didn’t try to create software that would completely replace recruiters either. Recruiting is part detective work and part sales. Recruiters have to look closely at applicants’ backgrounds, understand their motives, and convince the best ones to join their company. It would be impossible to replace all those tasks with a computer. Instead, LinkedIn changed how recruiters do their jobs. Now, over 97% of recruiters use LinkedIn’s powerful search tools to find job candidates, and it also helps millions of professionals manage their personal brands. If LinkedIn had just tried to replace recruiters with technology, they wouldn’t be successful today.
+
+Why do so many people not see the power of working together with technology? It starts in school. Software engineers often work on projects that replace human work because that’s what they learn to do. Academics build their reputations through specialized research, focusing on publishing papers, which means sticking to specific subjects. For computer scientists, this often means breaking down human skills into smaller tasks that computers can learn one at a time.
+
+Look at the popular areas in computer science today. The term “machine learning” makes people think of replacement, and many believe computers can learn to do almost anything if we give them enough data. If you’ve used Netflix or Amazon, you’ve seen how machine learning works. Both companies use algorithms to suggest products based on what you’ve watched or bought. The more data they get, the better the suggestions become.
+
+Google Translate works similarly. It gives rough translations in 80 languages, not because it understands human language, but because it finds patterns by analyzing a huge amount of text.

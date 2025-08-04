@@ -1,0 +1,11 @@
+VENTURE CAPITAL AND HOW IT WORKS
+
+Venture capitalists are people who look for new companies that have the potential to grow and make money. They gather money from rich individuals and organizations, put it together in a fund, and then invest in tech companies they think will become valuable. If they guess right, they get a share of the profits—usually around 20%. A venture fund makes money when the companies it has invested in become more valuable and either go public or get bought by bigger companies. These funds usually last about 10 years because it takes time for successful companies to grow and make big moves.
+
+However, most companies that get venture funding don’t end up going public or getting bought; many fail, often pretty quickly. Because of these early failures, a venture fund usually loses money at first. Venture capitalists hope that the value of their fund will go up a lot after a few years when the successful companies start to grow quickly.
+
+The big question is when this growth will happen. For many funds, the answer is never. Most startups fail, and many funds fail along with them. Every venture capitalist knows they need to find the companies that will succeed. But even experienced investors only partly understand this situation. They know that companies are different, but they often don’t realize just how different they can be.
+
+The mistake they make is thinking that the returns from venture investing will follow a normal pattern: bad companies will fail, average ones will stay the same, and good ones will double or quadruple their value. Based on this idea, investors create a diverse portfolio and hope that the successful companies will balance out the failures. But this “spray and pray” method usually leads to a portfolio full of failures, with no big wins.
+
+This happens because the returns from venture investing don’t follow a normal pattern. Instead, they follow a power law: a small number of companies end up doing way better than all the others. If you focus too much on spreading your investments around instead of really going after the few companies that could become super valuable, you might miss out on those rare success stories altogether.

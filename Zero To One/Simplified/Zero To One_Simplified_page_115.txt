@@ -1,0 +1,7 @@
+THE ENGINEERING QUESTION
+
+A top tech company should have technology that is way better than anything else out there. But cleantech companies usually don’t make improvements that are 2 times better, let alone 10 times better. Sometimes, their products are even worse than the ones they want to replace.
+
+For example, Solyndra made new, round solar panels, but these round panels are only about 1/π as effective as flat ones because they don’t get as much direct sunlight. The company tried to fix this by using mirrors to reflect more sunlight onto the panels, but starting with a product that’s not as good makes it really hard to succeed.
+
+Companies need to aim for being 10 times better because small improvements often don’t really help the customers at all. Imagine you create a new wind turbine that’s 20% more efficient than the current ones when tested in a lab. That sounds cool, but lab results don’t always match up with what happens in the real world, where there are costs and risks. Even if your turbine is actually 20% better for the customer, people are used to hearing big claims and might not believe you when you try to sell it. Only when your product is 10 times better can you clearly show customers that it’s superior.
