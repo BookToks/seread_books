@@ -1,0 +1,11 @@
+Years of email is way too much for one lifetime. Email is great for people who like to stay super organized. But that’s not me; I prefer to focus on my work. What I do requires a lot of studying and deep concentration without distractions.
+
+Knuth, the author, says he doesn’t want to completely shut himself off from the world. He knows that writing his books means he needs to talk to a lot of people, and he wants to answer their questions and comments. His solution? He gives out a postal address. He says his assistant will go through any letters that come to that address and keep the important ones. If something is really urgent, she will bring it to him right away, and he’ll deal with everything else every three months or so.
+
+Knuth uses what I call the “monastic philosophy” of deep work scheduling. This idea is all about focusing on serious work by cutting out less important tasks. People who follow this philosophy usually have a clear goal they care about a lot, and most of their success comes from doing that one thing really well. This clear focus helps them avoid getting distracted by less important stuff that can slow down others who have a lot of different responsibilities.
+
+For example, Knuth describes his goal like this: “I try to learn certain areas of computer science really well; then I try to share that knowledge in a way that’s easy for people who don’t have time to study it.” Trying to convince him to use Twitter or email more won’t work because those things don’t help him reach his goal of fully understanding computer science and writing about it clearly.
+
+Another person who believes in deep work is the famous science fiction writer Neal Stephenson. If you check out his author website, you won’t find an email or mailing address. We can understand why from some essays he wrote on his old website back in the early 2000s. In one of those essays, he explains his communication policy like this: 
+
+“People who want to interrupt my focus are kindly asked not to, and I don’t answer emails… to make sure the main point of my communication policy isn’t lost in too many words, I will put it.”

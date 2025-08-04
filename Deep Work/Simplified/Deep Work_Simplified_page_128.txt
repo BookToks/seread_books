@@ -1,0 +1,13 @@
+Having fewer official working hours helps make the workweek more efficient. When people have less time to finish their tasks, they start to value that time more. They become careful with their time, which is a good thing. They don’t waste it on stuff that doesn’t really matter. With fewer hours, people usually use their time more wisely.
+
+Basically, when 37signals cut down their workweek, they got rid of a lot of the easy, less important tasks. This meant that the important work still got done. The less important tasks that seemed urgent at first turned out to be things they could easily skip.
+
+After seeing these results, you might wonder what would happen if 37signals took it a step further. If cutting out the easy tasks didn’t hurt their results, what if they replaced that time with more important work? Luckily, the company decided to try this out too.
+
+Fried was always interested in how tech companies like Google let their employees spend 20% of their time on projects they choose. He liked this idea but thought that taking just one day out of a busy week wasn’t enough for real deep work. He said, “I’d rather have 5 days in a row than spread out over 5 weeks.” He believed that longer, uninterrupted time would lead to better results.
+
+To test this idea, 37signals did something bold: they gave their employees the whole month of June off to focus on their own projects. During this month, there were no shallow work tasks—no meetings, no memos, and thankfully, no PowerPoint presentations. At the end of the month, they had a “pitch day” where employees shared the ideas they worked on.
+
+In an article for Inc. magazine, Fried called the experiment a success. The pitch day led to two new projects that were quickly put into action: a better system for customer support and a way to visualize data that helps the company understand how customers use their products. These projects are expected to be really valuable for the company, but they likely wouldn’t have happened without the focused time given to the employees. It took a lot of uninterrupted effort to develop those ideas.
+
+Fried asked, “How can we afford to pause our business for a month to play around with new ideas?” He answered, “How can we afford not to?”

@@ -1,0 +1,11 @@
+Because technology changes so fast, learning tough stuff is a never-ending process. You have to be able to do it quickly, over and over again. 
+
+Being able to learn hard things quickly isn’t just important for working with smart machines; it’s also crucial if you want to be a superstar in almost any field, even ones that aren’t tech-related. For example, to be an amazing yoga teacher, you need to master a lot of complicated physical skills. In medicine, you need to quickly learn the latest research on important procedures to be really good at what you do. In short, if you can’t learn, you can’t succeed.
+
+Now, let’s talk about the second important skill: producing at a high level. If you want to be a superstar, you need to learn the right skills, but that’s not enough. You also have to turn that potential into real results that people care about. Many developers can code well, but David Hansson, our superstar example, used his skills to create Ruby on Rails, which made him famous. This project pushed him to use his skills to create something valuable and concrete.
+
+This ability to produce also matters for those working with smart machines. Nate Silver didn’t just learn how to handle large data sets and run stats; he had to show he could use those skills to find information that a lot of people wanted. While he worked with many stats experts at Baseball Prospectus, it was Silver who put in the effort to apply his skills to the more profitable field of election forecasting. This shows another important point: If you don’t produce, you won’t succeed, no matter how talented you are.
+
+Now that we’ve talked about two key skills for getting ahead in our tech-driven world, we can ask the next question: How do you develop these skills? This brings us to a main idea of this book: The two skills we just talked about depend on your ability to do deep work. If you haven’t mastered this basic skill, you’ll find it hard to learn tough things or produce at a high level.
+
+The link between these skills and deep work isn’t obvious at first; it needs a closer look at how we learn, focus, and get things done. The upcoming sections will dive deeper into this connection and help you understand it better.

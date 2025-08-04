@@ -1,9 +1,0 @@
-The Wealth of Nations
-
-When we talk about trade between two countries, people often let their personal feelings and interests get in the way. This can make it hard to judge which country is doing better in terms of exports. There are two main ways people usually look at this: custom-house records and exchange rates.
-
-Custom-house records are not very reliable because the values of goods listed can be inaccurate. Exchange rates can also be confusing. For example, if the exchange rate between London and Paris is equal, it means the money owed from London to Paris is balanced out by the money owed from Paris to London. But if people in London have to pay extra to get a bill for Paris, it means London owes more money to Paris than the other way around. This extra cost is because sending money can be risky and expensive.
-
-The usual trade between these two cities should balance out. If neither city buys more than it sells to the other, their debts can cancel each other out. But if one city buys more than it sells, it ends up owing more money. In this case, money has to be sent from the city that owes more. So, the exchange rate can show us how much money is owed between the two places and reflects their trade.
-
-However, just because the exchange rate shows one place has more money owed to it, it doesn’t mean that place is winning in trade. The balance of trade can also be affected by how each country trades with other places. For instance, if English merchants usually pay for goods from cities like Hamburg or Danzig using bills from Holland, then the trade balance between England and Holland won’t just depend on their direct dealings with each other.

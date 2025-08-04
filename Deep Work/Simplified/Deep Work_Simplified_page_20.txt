@@ -1,0 +1,11 @@
+Let’s start with the first skill. First, we need to remember that we’ve gotten used to easy-to-use technology, like Twitter and the iPhone. But these are just products for everyday people, not serious tools. The smart machines that are changing everything are much harder to understand and use.
+
+Take Nate Silver, for example. He’s really good at using complicated technology. But making predictions about elections isn’t as simple as just typing “Who will win more votes?” into a search bar. He keeps a huge database of poll results from thousands of polls and over 250 different pollsters. He uses a program called Stata, which is a popular tool for analyzing data. These tools are not easy to learn. For instance, here’s a command you need to know to work with a database like the one Silver uses:
+
+CREATE VIEW cities AS SELECT name, population, altitude FROM capitals UNION SELECT name, population, altitude FROM non_capitals;
+
+Databases like this use a language called SQL. You have to send commands like the one above to get information from them. Learning how to work with these databases is tricky. The command above creates a “view,” which is like a virtual table that combines data from different tables. Knowing when and how to create these views is a tough skill to master if you want to get good results from real-world databases.
+
+Now, let’s look at the other technology Nate Silver uses: Stata. This is a powerful tool that you can’t just figure out by playing around with it. For example, the latest version of this software has many new features like treatment effects, multilevel GLM, and forecasting. Silver uses this complex software to build detailed models with many parts, using custom settings and calculations.
+
+The main point is that smart machines are complicated and hard to master. To be someone who can work well with these machines, you need to practice and get better at handling difficult things.
