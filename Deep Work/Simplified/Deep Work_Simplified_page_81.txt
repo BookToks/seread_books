@@ -1,13 +1,17 @@
-**Discipline #1: Focus on the Wildly Important**  
-The authors of *The 4 Disciplines of Execution* say, “The more you try to do, the less you actually accomplish.” They explain that you should focus on a few really important goals. This makes it easier to put your energy into getting real results.  
+**Discipline #1: Focus on the Wildly Important**
 
-If you want to do deep work, you should pick a small number of big goals to work on during that time. Just saying “work more deeply” isn’t very exciting. But having a clear goal that can lead to real benefits will keep you motivated. In a 2014 article called “The Art of Focus,” David Brooks talked about how having big goals can help you focus better. He said, “If you want to win the war for attention, don’t try to say ‘no’ to the little distractions; try to say ‘yes’ to what you really want, and let that push everything else away.”  
+The authors of *The 4 Disciplines of Execution* say, “The more you try to do, the less you actually get done.” They explain that you should focus on a few really important goals. Keeping it simple helps everyone put their energy into achieving real results.
 
-For example, when I started using the 4DX method, I set a big goal of publishing five high-quality research papers in the next year. This was a tough goal because it was more than I had done before, and there were real rewards for achieving it (like getting tenure). These factors helped keep me motivated.  
+If you want to do deep work, you should pick a small number of big goals to work on during that time. Just saying “work harder” isn’t very exciting. But having a clear goal that can lead to real benefits will keep you motivated. In a 2014 article called “The Art of Focus,” David Brooks supported this idea. He said that instead of trying to ignore distractions, you should focus on what you really want and let that passion push away everything else.
 
-**Discipline #2: Act on the Lead Measures**  
-Once you have a wildly important goal, you need to track how well you’re doing. In 4DX, there are two types of measurements: lag measures and lead measures.  
+For example, when I started using the 4DX method, I set a clear goal to publish five high-quality research papers in the next academic year. This was a big goal because it was more than I had published before, and there were real rewards for achieving it (like getting tenure). This combination made me really motivated.
 
-Lag measures show what you’re trying to improve in the end. For example, if your goal is to make customers happier in your bakery, then your lag measure is customer satisfaction scores. The problem with lag measures is that they come too late to change what you’re doing: “By the time you get them, the performance that caused them is already over.”  
+**Discipline #2: Act on the Lead Measures**
 
-Lead measures, on the other hand, “measure the new actions that will help you succeed with the lag measures.” In the bakery example, a good lead measure could be the number of customers who get free samples. This is something you can directly control by giving out more samples. If you increase this number, your lag measures will likely improve too. In other words, lead measures help you focus on actions that can lead to success.
+After you’ve picked your important goal, you need to track your progress. In 4DX, there are two types of measures: lag measures and lead measures.
+
+Lag measures show what you’re trying to improve in the end. For instance, if your goal is to make customers happier at your bakery, the lag measure would be your customer satisfaction scores. The problem with lag measures is that they come too late to change what you’re doing: “By the time you get them, the actions that caused them are already over.”
+
+Lead measures, however, “measure the new actions that will help you succeed with the lag measures.” In the bakery example, a good lead measure could be how many customers get free samples. This is something you can directly control by giving out more samples. If you increase this number, your lag measures will likely improve too. In simple terms, lead measures help you focus on actions that will lead to success.
+
+**PAGE SUMMARY:** The passage discusses two key disciplines for achieving goals. First, focus on a few important goals to boost motivation. Second, track progress using lead measures, which help you change behaviors to improve results, rather than relying on lag measures that show past performance.

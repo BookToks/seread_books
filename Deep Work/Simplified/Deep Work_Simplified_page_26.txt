@@ -1,11 +1,15 @@
-High-Quality Work Produced = (Time Spent) x (Intensity of Focus). 
+using the following rule for getting things done:  
+High-Quality Work = (Time Spent) x (Focus Level)  
+If you believe this rule, then Grant’s habits make sense: By focusing really hard when he works, he gets better results for the time he spends working.  
 
-If you believe this formula, then Grant’s habits make sense. By focusing really hard when he works, he gets better results for the time he spends working. 
+I first learned about this rule when I was writing my second book, How to Become a Straight-A Student, a long time ago. While researching, I talked to about fifty top college students from some of the hardest schools. I noticed that the best students often studied less than those who had slightly lower grades. One reason for this is the rule I mentioned earlier: The top students knew how important focus is for getting things done, so they worked hard to concentrate. This helped them study less time for tests or write papers without lowering the quality of their work.  
 
-I first learned about this idea when I was writing my second book, How to Become a Straight-A Student. During my research, I talked to about fifty top college students from some of the best schools. I noticed that the best students often studied less than those who were just below them in grades. One reason for this is that the top students knew how important focus is for getting things done. They worked hard to concentrate, which helped them study less time for tests or write papers without lowering their grades. 
+Adam Grant’s example shows that this focus rule is not just for college grades; it also applies to other tough tasks. But why is that? A cool explanation comes from Sophie Leroy, a business professor at the University of Minnesota. In a 2009 paper called “Why Is It So Hard to Do My Work?”, Leroy talked about something she named attention residue.  
 
-Adam Grant’s example shows that this focus formula is important not just for college grades but also for other tough tasks. But why is that? Sophie Leroy, a business professor at the University of Minnesota, has an interesting answer. In a paper she wrote in 2009 called “Why Is It So Hard to Do My Work?”, Leroy talked about something she named attention residue. 
+In her paper, she pointed out that other researchers looked at how multitasking—doing many things at once—affects performance. But in today’s work environment, it’s more common for people to switch between different projects one after another. Leroy explains that moving from one meeting to another or starting one project and then quickly going to another is just part of working in organizations.  
 
-She explained that while many people multitask, in offices, it’s more common to switch between different projects one after the other. For example, moving from one meeting to another or starting one project and then quickly going to another is just part of working life. The problem with this way of working is that when you switch from Task A to Task B, your mind doesn’t fully follow. Some of your attention stays stuck on Task A. This leftover attention gets worse if you didn’t focus much on Task A before switching, but even if you finish Task A, your mind stays split for a bit. 
+The problem with this way of working is that when you switch from Task A to Task B, your focus doesn’t instantly follow. A leftover part of your attention stays stuck on the first task. This leftover attention gets worse if you didn’t focus much on Task A before switching, but even if you finish Task A first, your mind stays split for a while.  
 
-Leroy studied how this attention residue affects performance by making people switch tasks in a lab. In one experiment, she started her...
+Leroy studied how this attention residue affects performance by making people switch tasks in a lab. In one experiment, for example, she started her...  
+
+**PAGE SUMMARY:** The passage explains a productivity rule that says high-quality work depends on how much time you spend and how focused you are. It discusses how top students study less by maximizing their focus and introduces the concept of attention residue, which shows how switching tasks can split your attention and hurt performance.

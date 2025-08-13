@@ -1,18 +1,20 @@
 2. Network Effects  
 Network effects happen when a product becomes more useful as more people use it. For example, if all your friends are on Facebook, it makes sense for you to join too. If you choose a different social network, you might seem a bit weird.  
 
-These effects can be really strong, but your product needs to be useful to the first few users, even when the group is small. For instance, back in 1960, a company called Xanadu tried to create a two-way communication network for all computers, kind of like an early version of the internet. After over thirty years of trying, they gave up just when the web was becoming popular. Their technology might have worked if everyone joined at once, but that was never going to happen.  
+Network effects can be really strong, but your product has to be useful to the first users, even if the group is small. For instance, in 1960, a company called Xanadu tried to create a two-way communication network for all computers, kind of like an early version of the internet. After 30 years of trying, Xanadu shut down just as the web was becoming popular. Their tech might have worked well if lots of people used it, but it needed everyone to join at once, which was impossible.  
 
-So, businesses that rely on network effects often start with very small markets. Facebook began with just Harvard students—Mark Zuckerberg's first goal was to get his classmates to sign up, not everyone in the world. This is why successful network businesses are rarely started by people with business degrees: the first markets are so tiny that they often don’t look like real business opportunities.  
+So, businesses that rely on network effects need to start with small markets. Facebook began with just Harvard students. Mark Zuckerberg’s first goal was to get his classmates to sign up, not everyone in the world. That’s why successful network businesses often aren’t started by business experts; the initial markets are so tiny that they don’t even look like real business opportunities.  
 
 3. Economies of Scale  
-A monopoly business gets stronger as it grows bigger. The fixed costs of making a product (like engineering, management, and office space) can be spread out over more sales. Software startups can see big benefits from this because the cost of making one more copy of the product is almost nothing.  
+A monopoly business gets stronger as it grows bigger. The costs of making a product (like engineering, management, and office space) can be spread out over more sales. Software startups can really benefit from this because the cost of making one more copy of the product is almost zero.  
 
-However, many businesses only gain a little advantage as they get larger. Service businesses are especially hard to turn into monopolies. For example, if you own a yoga studio, you can only serve a certain number of customers. You can hire more instructors and open more locations, but your profits will stay pretty low. You’ll never reach a point where a small group of talented people can provide value to millions of clients like software engineers can.  
+However, many businesses don’t gain much as they get bigger. Service businesses are especially hard to turn into monopolies. For example, if you own a yoga studio, you can only serve a limited number of customers. You can hire more instructors and open more locations, but your profits will stay pretty low. You won’t reach a point where a small team can provide value to millions of clients like software engineers can.  
 
-A good startup should be designed for growth from the start. Twitter already has over 250 million users today. It doesn’t need to add too many special features to get more users, and there’s no reason it should ever stop growing.  
+A good startup should be designed to grow a lot from the start. Twitter already has over 250 million users today. It doesn’t need to add too many special features to get more users, and there’s no reason it should ever stop growing.  
 
 4. Branding  
-A company has a monopoly on its own brand, so building a strong brand is a smart way to claim a monopoly. The strongest tech brand today is Apple. The cool designs and carefully chosen materials of products like the iPhone and MacBook, the sleek look of Apple Stores, the smart advertising, the premium pricing, and the lasting influence of Steve Jobs all make people think Apple offers products that are in a class of their own.  
+A company has a monopoly on its own brand, so building a strong brand is a great way to claim a monopoly. The strongest tech brand today is Apple. The cool designs and carefully chosen materials of products like the iPhone and MacBook, the sleek look of Apple Stores, smart advertising, and the image of Steve Jobs all help people see Apple as a brand that offers unique products.  
 
-Many have tried to copy Apple’s success, using paid ads, branded stores, and luxurious designs to create their own strong brands.
+Many have tried to copy Apple’s success with paid ads, branded stores, and luxury products.  
+
+**PAGE SUMMARY:** Network effects make products more useful as more people use them, but they need to start with small markets. Economies of scale help businesses grow stronger as they get bigger, especially in software. Building a strong brand, like Apple, can create a monopoly in the market.

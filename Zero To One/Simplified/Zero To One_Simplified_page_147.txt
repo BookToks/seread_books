@@ -1,6 +1,4 @@
-The pictures in this book were created by Matt Buck, using different sources for inspiration.
-
-Here are some of the images he based his drawings on:
+The pictures in this book were created by Matt Buck, and they are based on these images:
 
 - Unabomber: Jeanne Boylan/FBI sketch
 - Hipster: Matt Buck
@@ -24,3 +22,5 @@ Here are some of the images he based his drawings on:
 - Newsweek magazine cover
 - Steve Jobs, 1984: Norman Seeff
 - Steve Jobs, 2004: Contour by Getty Images
+
+**PAGE SUMMARY:** This page lists the illustrations in the book and credits the artists and sources for each image. It includes famous figures like Elon Musk, Elvis Presley, and Steve Jobs.

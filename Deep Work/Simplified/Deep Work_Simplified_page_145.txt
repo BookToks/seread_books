@@ -1,17 +1,15 @@
-Herbert uses filters to help people and find cool opportunities. But these filters also make it easier for him to manage the messages he gets.
+Herbert uses filters to help him connect with people and find cool opportunities. But these filters also make sure he only gets messages he can easily manage.
 
-Another example is Antonio Centeno, who runs the Real Man Style blog. He has a special way for people to ask him questions. First, he tells them to post their questions in a public place instead of messaging him directly. He thinks it’s a waste of time to answer the same questions over and over in private. If you still want to ask him something, you have to agree to three promises by checking boxes:
+For example, Antonio Centeno runs a popular blog called Real Man Style. He has a special way of handling questions. If you want to ask him something, you have to post it in a public spot first. He thinks it’s a waste of time to answer the same questions over and over in private chats. If you get through that step, you have to agree to three promises by clicking checkboxes:
 
 1. I won’t ask Antonio a style question I could find on Google in 10 minutes.
 2. I won’t spam Antonio with a random request to promote my business.
-3. I’ll do a good deed for someone if Antonio replies within 23 hours.
+3. I’ll do something nice for a stranger if Antonio replies within 23 hours.
 
-You can only see the message box to type your question after you check all three promises.
+You can only type your message after you check all three boxes.
 
-In short, email technology is really powerful, but the way we use it needs to improve. It’s silly to think that all messages, no matter who they’re from or why they’re sent, should go to the same inbox and that we should respond to every single one quickly. Using sender filters is a small but helpful step toward fixing this problem. This idea is especially useful for entrepreneurs and freelancers who get a lot of messages and want to control their time better. I think it would be great if similar rules were used in big companies too, but we’re probably not there yet.
+In short, email technology is changing the game, but the way we use it isn’t great yet. It’s silly to think all messages should be treated the same and that every message needs a quick reply. The sender filter is a helpful step towards fixing this, especially for entrepreneurs and freelancers who get a lot of messages and want to control their time better. It would also be great to see similar rules in big companies, but we’re probably not there yet.
 
 If you can, think about using sender filters to take back some control over your time and focus.
 
-Tip #2: Do More Work When You Send or Reply to Emails
-
-Here’s an example of a typical email: “It was great to meet you last week. I’d love to follow up on some of those...”
+**PAGE SUMMARY:** Herbert and Antonio Centeno use filters to manage messages better. These filters help them focus on important communication and save time. The idea of sender filters is useful for busy people and could improve email communication overall.

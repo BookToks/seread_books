@@ -1,11 +1,16 @@
-decisions about where different work tasks fit on a scale from easy to hard. To figure this out, you can ask a simple question: 
+decisions about where certain tasks fit on a scale from easy to hard. To figure this out, you can ask a simple question: 
 
 How long would it take (in months) to train a smart recent college graduate with no special training in my field to do this task?
 
-Let’s look at some examples to understand this better.
+Let’s look at some examples to see how this works.
 
-**Example #1:** Editing an academic paper is tough. You need to know a lot about the topic to make sure everything is accurate and also understand the wider research to cite it correctly. This kind of knowledge usually takes years of study, especially at the graduate level. So, for this task, it might take around fifty to seventy-five months of training.
+**Analyzing Example #1:**  
+Editing an academic paper is tough. You need to understand the details of the work to make sure everything is described correctly. You also need to know the broader literature to make sure it’s cited right. This requires a lot of knowledge, which takes years of study in school. So, for this task, it might take about fifty to seventy-five months to train someone.
 
-**Example #2:** Making a PowerPoint presentation about your quarterly sales is easier. You need to know how to use PowerPoint, understand the usual format for these presentations, and know what sales data your company tracks. A smart college graduate probably already knows how to use PowerPoint, and learning the format should only take about a week. The main challenge is figuring out the sales metrics and how to turn them into graphs. This isn’t super easy, but it shouldn’t take more than a month of training. So, we can say it would take about two months total.
+**Analyzing Example #2:**  
+The second example isn’t as complicated. Making a PowerPoint presentation about your sales requires three things: knowing how to use PowerPoint, understanding the usual format for these presentations at your company, and knowing what sales data to include and how to show it in graphs. A smart college grad would likely already know how to use PowerPoint, and learning the format shouldn’t take more than a week. The main challenge is understanding the sales metrics and how to present them, which might take about two months of training.
 
-**Example #3:** Meetings can be hard to judge. They might seem boring, but they are often important for your organization. To see how long it would take to train a recent college graduate to take your place in a planning meeting, they would need to understand the project well enough to know its goals and the skills of the team involved.
+**Analyzing Example #3:**  
+Meetings can be hard to judge. They might seem boring, but they are often important for your organization. To see how long it would take to train a recent college grad to take your place in a planning meeting, they would need to understand the project and the skills of the team members involved. 
+
+**PAGE SUMMARY:** This passage explains how to evaluate tasks based on how long it would take to train a new college graduate to do them. It uses examples like editing academic papers, creating PowerPoint presentations, and participating in meetings to show the differences in training time needed for each task.

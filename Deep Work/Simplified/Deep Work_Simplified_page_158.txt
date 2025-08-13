@@ -1,13 +1,23 @@
-The SQL example I mentioned comes from postgreSQL, which is a free database system that many people use, especially in schools. I’m not sure what system Silver uses, but it probably needs some version of SQL like the one I showed.
+The SQL example I mentioned comes from postgreSQL, which is a free database system that many people use, especially in schools. I’m not sure what system Silver uses, but it probably needs some version of SQL like the one in my example.
 
-Deep work can help you learn tough stuff faster. A quote says, “Let your mind become a lens,” which means you should focus deeply on what you’re learning. This idea is from a book by Sertillanges. It talks about how to really develop your mind.
+Deep work can help you learn tough stuff faster. 
 
-When you practice something on purpose, it can help you become an expert. A study by Ericsson and others shows that the differences between experts and regular people can change with practice. They argue that being a genius isn’t just about talent; it’s also about hard work.
+“Let your mind become a lens” is a quote from a book by Antonin-Dalmace Sertillanges called *The Intellectual Life*. It talks about how to really focus and improve your thinking.
 
-Focusing your attention is super important for getting better at something. If you’re distracted, it’s hard to practice effectively. Coyle’s book, "The Talent Code," explains more about how our brains work when we practice. He also has a cool slideshow about building myelin, which helps with learning.
+The idea of practicing on purpose comes from a famous paper by K. Anders Ericsson and his team. They say that the differences between experts and regular people can change with effort.
 
-If you want to know more about practicing deliberately, check out these two books: "Talent Is Overrated" by Colvin and "The Talent Code" by Coyle. They explain how greatness is developed through effort.
+Sertillanges also said, “Men of genius themselves,” which means that even really smart people had to work hard to get there.
 
-Deep work can also help you achieve amazing results. Adam Grant is a well-known expert, and you can find more about him on his academic website. He wrote a book called "Give and Take," which talks about how helping others can lead to your own success. There’s also an article about him in the New York Times Magazine.
+When you’re trying to learn something, being distracted is the opposite of the focus you need for serious practice. More info about how experts perform can be found in Daniel Coyle's book, *The Talent Code*. He also has a cool slideshow about building myelin, which helps your brain work better.
 
-Newport’s book, "How to Become a Straight-A Student," shares tips from real college students on how to study effectively. Lastly, there’s a study by Leroy that explains why it’s hard to focus when switching between tasks.
+If you want to learn more about practicing on purpose, check out these two books: *Talent Is Overrated* by Geoffrey Colvin and *The Talent Code* by Daniel Coyle.
+
+Deep work also helps you produce amazing results. 
+
+You can find more about Adam Grant and his achievements on his academic website. He wrote a book called *Give and Take*, which explains how helping others can lead to your own success. There’s also an article about him in the *New York Times Magazine*.
+
+If you’re looking for tips on studying, Cal Newport’s book *How to Become a Straight-A Student* shares some unconventional strategies. 
+
+Lastly, there’s a study by Sophie Leroy about why it’s hard to focus when switching between tasks.
+
+**PAGE SUMMARY:** The passage discusses the importance of deep work and deliberate practice for learning and achieving success. It references various authors and studies that highlight how focus and effort can lead to expert performance and better results.

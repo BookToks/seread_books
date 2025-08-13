@@ -1,21 +1,15 @@
 Chapter 1
 
-This chapter talks about Nate Silver and how he brings a lot of visitors to the New York Times website. There’s an article by Tracy and Marc that explains this. It was published on November 6, 2012.
+This chapter talks about Nate Silver, who is really good at predicting election results and gets a lot of attention on the New York Times website. There’s an article by Marc Tracy from November 6, 2012, that explains how Nate brings in tons of traffic for the Times. 
 
-Nate Silver also made a deal with ESPN and ABC News. Mike Allen wrote about it on July 22, 2013.
+Nate also made a deal with ESPN and ABC News, which is covered in a Politico article by Mike Allen from July 22, 2013. Some people have raised questions about how Nate does his predictions. For example, Sean M. Davis wrote an article on November 1, 2012, asking if Nate's methods are reliable. There’s also a piece by Gary Marcus and Ernest Davis in The New Yorker from January 25, 2013, discussing what Nate might be getting wrong.
 
-Some people have raised concerns about how Nate Silver does his work. Sean M. Davis wrote about it on November 1, 2012. Gary Marcus and Ernest Davis also shared their thoughts in an article from January 25, 2013.
+The chapter also mentions David Heinemeier Hansson and shares some info from his website and an article about his company, 37signals. You can find more about John Doerr and his business deals on Forbes. His net worth was listed as $3.3 billion on April 10, 2014.
 
-David Heinemeier Hansson is mentioned in several places. You can find information about him on his website and in an article by Oliver Lindberg about 37signals. There’s also a Wikipedia page about OAK Racing.
+The chapter includes quotes about how technology is changing everything, from a book by Erik Brynjolfsson and Andrew McAfee. They talk about how we need to get better at working with smart machines. Tyler Cowen also mentions that the big question is whether you can work well with these machines or not. 
 
-For more details on John Doerr and his business deals, you can check out his Forbes profile. His net worth was reported to be $3.3 billion in April 2014.
+There’s a point made about how hearing a lot of average singers doesn’t compare to one amazing performance, which comes from Sherwin Rosen's research. The chapter also references Jaron Lanier, who discussed how platforms like Instagram show differences in job opportunities.
 
-The chapter discusses how we are experiencing big changes in technology and the economy. Erik Brynjolfsson and Andrew McAfee wrote about this in their book, highlighting how fast technology is advancing.
+Finally, there are tips on how to be successful like Nate Silver, with advice from Walter Hickey and a Reddit Q&A where Nate answered questions about his work.
 
-They mention that a key question for the future will be whether people can work well with smart machines.
-
-Sherwin Rosen talked about how not every performance is great, and hearing many average singers doesn’t equal one amazing singer.
-
-The chapter also references Jaron Lanier, who discussed Instagram and its impact on job differences.
-
-Lastly, there are tips on how to be successful like Nate Silver, including an article by Walter Hickey that gives nine simple steps.
+**PAGE SUMMARY:** This chapter covers Nate Silver's success in predicting elections, his deals with major networks, and the impact of technology on jobs. It also discusses concerns about his methods and offers advice on becoming successful in the new economy.

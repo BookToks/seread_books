@@ -2,6 +2,8 @@ WHY PEOPLE DON’T SEE THE POWER LAW
 
 Why do professional venture capitalists (VCs) sometimes miss the power law? One reason is that it only becomes obvious over time, and even tech investors often focus too much on what's happening right now. 
 
-Think about a firm that invests in 10 companies that could become super successful—this is already a pretty smart move. At first, these companies will all look pretty similar before they start to grow really fast. 
+Think about a firm that invests in 10 companies that could become super successful—this is already a pretty careful choice. At first, these companies will all seem pretty similar before they start to grow really fast. 
 
-As the years go by, some companies will fail while others start to do well; their values will change a lot, but it might be hard to tell the difference between fast growth and steady growth at first.
+As time goes on, some companies will fail while others start to do well. Their values will start to change a lot, but it won’t be easy to tell the difference between fast growth and steady growth at first.
+
+**PAGE SUMMARY:** Professional VCs often overlook the power law because it becomes clear only over time. Initially, companies may seem similar, but as time passes, some will succeed and others will fail, making growth patterns hard to see.

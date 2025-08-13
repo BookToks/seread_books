@@ -1,9 +1,11 @@
-a part of a bigger issue. Many companies focus on being connected all the time, even if it can make employees feel stressed and less productive. So, why do they keep doing this? 
+At the end of the last chapter, we talked about how being deep into your work helps you get better at it. This leads to a big question: Why do so many companies, like the Boston Consulting Group, keep pushing for constant communication, even if it might make employees less happy and less productive? The answer lies in how people behave at work.
 
-One reason is the Principle of Least Resistance. In simple terms, when people don’t get clear feedback on how their actions affect the company, they tend to choose the easiest option. 
+The Principle of Least Resistance says that in a workplace without clear feedback on how actions affect results, people will choose the easiest options. So, when we ask why companies keep promoting constant communication, the answer is simple: it’s easier.
 
-For example, if you can quickly get answers to your questions at work, it feels easier. But if you didn’t have that quick access, you’d have to plan better and wait for responses, which would make your job harder. Instant messaging has taken this idea to the extreme. Getting a quick reply is great, but it can make you rely on it too much.
+There are two main reasons for this. First, if you can get answers to your questions right away, it makes your life simpler, at least for that moment. If you didn’t have quick responses, you’d need to plan better, stay organized, and wait longer for information, which would make work more stressful. Instant messaging is a perfect example of this. If getting an email reply in an hour is easy, then getting a message back in under a minute feels even better.
 
-Another reason why being constantly connected is easier is that it encourages people to work straight from their inboxes. Responding to emails right away feels productive, even if it means ignoring other important tasks. If emails weren’t the main focus, you’d have to think more about what to do and how long to spend on it, which is tough. For instance, there’s a popular system called Getting Things Done that helps people manage their tasks, but it’s complicated. It’s way simpler to just reply to the latest email.
+The second reason constant communication is easier is that it lets you manage your day by just replying to emails as they come in. This can make you feel productive, even if it’s not the best way to work. If emails weren’t the main focus of your day, you’d have to think more about what tasks to tackle and how long to spend on them. This kind of planning is tough. For example, David Allen’s method for managing tasks is really detailed and can be complicated. It’s way easier to just jump into the latest email thread instead.
 
-I’m using constant connectivity as an example, but it’s just one part of a larger problem in the workplace.
+I’m focusing on constant connectivity as an example, but it’s just one part of a bigger issue.
+
+**PAGE SUMMARY:** The passage discusses why companies promote constant communication despite its downsides. It explains that people prefer easier options at work, like quick responses to emails, which can lead to less thoughtful planning. This behavior can make work feel more productive, even if it's not the best approach.
