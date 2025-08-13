@@ -1,0 +1,11 @@
+Don’t Work Alone
+
+The connection between deep work and teamwork is complicated. It’s important to figure this out because working well with others can actually make your deep work better.
+
+Let’s start by looking at a problem that seems hard to solve. In Part 1 of this book, I criticized Facebook for how it designed its new headquarters. I pointed out that their goal to create the biggest open office space, which will fit twenty-eight hundred workers, is a bad idea for focusing. Both common sense and research show that working in a big room with lots of coworkers can be really distracting, making it hard to think deeply. A 2013 article in Bloomberg Businessweek even suggested we should stop using open-plan offices.
+
+But these open office designs aren’t just random choices. As Maria Konnikova wrote in The New Yorker, the idea behind them was to help people communicate and share ideas. This idea appealed to American businesses that wanted to seem more modern and different. For example, Josh Tyrangiel, the editor of Bloomberg Businessweek, explained that having no offices at their headquarters helps everyone stay focused on the big goals and encourages curiosity among people from different areas. Jack Dorsey also supported the open layout at Square, saying they want people to interact and learn from each other.
+
+Let’s call the idea that letting people meet randomly can lead to smart teamwork and new ideas the theory of serendipitous creativity. When Mark Zuckerberg decided to build the largest office, it’s likely this theory influenced his choice, just like it has for many other companies in Silicon Valley and beyond. Other reasons, like saving money and keeping an eye on employees, also matter, but they’re not as exciting to talk about.
+
+This choice between helping people focus and encouraging random ideas seems to suggest that deep work (which is something you do alone) can’t go hand in hand with creative teamwork (which is something you do with others). However, this idea is not completely right.

@@ -1,23 +1,18 @@
-The famous names at the Institute:
+Hey professor. I’d like to come by sometime to chat about <topic X>. Are you free?
 
-Hey professor. I want to talk about <topic X> sometime. Are you free?
+This message is too vague and makes it hard for the professor to answer quickly. Plus, it doesn’t explain why the meeting would be worth their time. Here’s a better way to write it that’s more likely to get a response: 
 
-This message is too vague and makes it hard for the professor to respond quickly. Plus, it doesn’t explain why the chat is worth their time. Here’s a better version that is more likely to get a reply:
+Hi professor. I’m working on a project similar to <topic X> with my advisor, <professor Y>. Can I stop by during the last fifteen minutes of your office hours on Thursday to share what we’re doing and see if it fits with your current project?
 
-Hey professor. I’m working on a project similar to <topic X> with my advisor, <professor Y>. Can I stop by during the last fifteen minutes of your office hours on Thursday to explain what we’re doing and see if it fits with your current project?
+This version clearly shows why the meeting is a good idea and makes it easier for the professor to respond.
 
-This message clearly shows why the meeting is important and makes it easier for the professor to respond.
+This tip suggests you should try to be like professors when it comes to emails. To help you, here are three rules to decide which emails you should reply to and which you can ignore:
 
-This tip suggests you should be more like a professor when dealing with emails. To help with this, try using these three rules to decide which emails you should reply to and which you can ignore.
+**Professorial Email Sorting:**
+1. Don’t reply if the email is confusing or hard to answer.
+2. Don’t reply if it’s not something you care about.
+3. Don’t reply if nothing good or bad will happen from your response.
 
-Professorial Email Sorting:
+Of course, there are exceptions. For example, if the CEO of your company sends a confusing email, you should reply. But in general, this approach encourages you to be stricter about when you hit “reply.”
 
-Don’t reply to an email if any of these apply:
-
-- It’s unclear or hard to answer.
-- It’s not a question or idea that interests you.
-- There’s nothing good that would come from replying, and nothing bad if you don’t.
-
-Of course, there are exceptions. For example, if a confusing email comes from your company’s CEO, you should respond. But aside from those cases, this approach encourages you to be tougher when deciding whether to hit “reply.”
-
-This tip might feel strange at first because it goes against the usual email rule that you should always reply, no matter how relevant the message is. Some people might get confused or upset, especially if they’re not used to this way of thinking about emails.
+This might feel weird at first because people usually expect you to respond to all emails, no matter how relevant they are. Some people might get confused or upset if you don’t reply, especially if they’re used to the usual email rules.

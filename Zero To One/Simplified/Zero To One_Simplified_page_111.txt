@@ -1,26 +1,6 @@
-EVER-SMARTER COMPUTERS: FRIEND OR FOE?
-The future of computing is necessarily full of unknowns. It’s become conventional to see ever-smarter
-anthropomorphized robot intelligences like Siri and Watson as harbingers of things to come; once
-computers can answer all our questions, perhaps they’ll ask why they should remain subservient to us
-at all.
-The logical endpoint to this substitutionist thinking is called “
-strong AI”: computers that eclipse
-humans on every important dimension. Of course, the Luddites are terrified by the possibility. It even
-makes the futurists a little uneasy; it’s not clear whether strong AI would save humanity or doom it.
-Technology is supposed to 
-increase
- our mastery over nature and 
-reduce
- the role of chance in our
-lives; building smarter-than-human computers could actually bring chance back with a vengeance.
-Strong AI is like a cosmic lottery ticket: if we win, we get utopia; if we lose, Skynet substitutes us out
-of existence.
-But even if strong AI is a real possibility rather than an imponderable mystery, it won’t happen
-anytime soon: replacement by computers is a worry for the 22nd century. Indefinite fears about the far
-future shouldn’t stop us from making definite plans today. Luddites claim that we shouldn’t build the
-computers that might replace people someday; crazed futurists argue that we should. These two
-positions are mutually 
-exclusive but they are not exhaustive: there is room in between for sane people
-to build a vastly better world in the decades ahead. As we find new ways to use computers, they
-won’t just get better at the kinds of things people already do; they’ll help us to do what was
-previously unimaginable.
+EVER-SMARTER COMPUTERS: FRIEND OR FOE?  
+The future of computers is full of surprises. We often think of smart robots like Siri and Watson as signs of what’s coming. But once computers can answer all our questions, they might start wondering why they should listen to us at all.  
+
+This idea leads to something called “strong AI,” which means computers that are better than humans in every important way. Some people are really scared of this idea. Even those who love technology feel a bit worried; it’s hard to tell if strong AI would help us or hurt us. Technology is meant to help us control nature and make our lives easier, but super-smart computers could actually make things more unpredictable. Strong AI is like a huge lottery ticket: if we win, we get a perfect world; if we lose, we might be wiped out like in the movie "Terminator."  
+
+But even if strong AI could happen, it’s not going to be here anytime soon. Worrying about computers taking over is more of a problem for the 22nd century. We shouldn’t let fears about the future stop us from making plans today. Some people say we shouldn’t create computers that might replace humans, while others think we should go for it. These views are very different, but there’s a middle ground where smart people can work together to make a better world in the coming years. As we discover new ways to use computers, they won’t just get better at what we already do; they’ll help us achieve things we never thought possible.

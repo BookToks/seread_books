@@ -1,106 +1,91 @@
-Oracle  
-Outliers (Gladwell)  
-ownership  
-Packard, Dave  
-Page, Larry  
-Palantir,  
-prf.1  
-7.1  
-10.1  
-11.1  
-12.1  
-PalmPilots,  
-2.1  
-5.1  
-11.1  
-Pan, Yu  
-Panama Canal  
-Pareto, Vilfredo  
-Pareto principle  
-Parker, Sean,  
-5.1  
-14.1  
-Part-time employees  
-patents  
-path dependence  
-PayPal,  
-prf.1  
-2.1  
-3.1  
-4.1  
-4.2  
-4.3  
-5.1  
-5.2  
-5.3  
-8.1  
-9.1  
-9.2  
-10.1  
-10.2  
-10.3  
-10.4  
-11.1  
-11.2  
-12.1  
-12.2  
-14.1  
-founders of,  
-14.1  
-future cash flows of  
-investors in  
-“PayPal Mafia”  
-PCs  
-Pearce, Dave  
-penicillin  
-perfect competition,  
-3.1  
-3.2  
-equilibrium of  
-Perkins, Tom  
-perk war  
-Perot, Ross,  
-2.1  
-12.1  
-12.2  
-pessimism  
-Petopia.com  
-Pets.com,  
-4.1  
-4.2  
-PetStore.com  
-pharmaceutical companies  
-philanthropy  
-philosophy, indefinite  
-physics  
-planning,  
-2.1  
-6.1  
-6.2  
-progress without  
-Plato  
-politics,  
-6.1  
-11.1  
-indefinite  
-polling  
-pollsters  
-pollution  
-portfolio, diversified  
-possession  
-power law,  
-7.1  
-7.2  
-7.3  
-of distribution  
-of venture capital  
-Power Sellers (eBay)  
-Presley, Elvis  
-Priceline.com  
-Prince  
-Procter & Gamble  
-profits,  
-2.1  
-3.1  
-3.2  
-3.3
+Oracle is a company that makes software and technology. 
+
+Outliers is a book by Malcolm Gladwell that talks about people who stand out in their fields. 
+
+Ownership means having control over something. 
+
+Dave Packard and Larry Page are famous for their work in tech. 
+
+Palantir is a company that deals with data analysis. 
+
+PalmPilots were early handheld devices that helped people manage information. 
+
+Yu Pan is another name in the tech world. 
+
+The Panama Canal is a big waterway that connects two oceans. 
+
+Vilfredo Pareto was an economist known for the Pareto principle, which says that a small number of things often account for most of the results. 
+
+Sean Parker is known for his role in creating companies like PayPal. 
+
+Part-time employees work less than full-time workers. 
+
+Patents protect inventions and ideas. 
+
+Path dependence means that decisions we make today can affect our future choices. 
+
+PayPal is a popular online payment system. 
+
+The "PayPal Mafia" is a group of people who worked at PayPal and went on to create other successful companies. 
+
+PCs are personal computers that many people use for work and play. 
+
+Dave Pearce is a name associated with various projects. 
+
+Penicillin is a medicine that fights infections. 
+
+Perfect competition is an economic idea where many companies compete equally. 
+
+Equilibrium is a state where supply and demand balance each other. 
+
+Tom Perkins is known for his work in venture capital. 
+
+The perk war refers to competition among companies to offer the best benefits to employees. 
+
+Ross Perot was a businessman and politician. 
+
+Pessimism is a way of thinking that expects bad outcomes. 
+
+Petopia.com and Pets.com were websites related to pets. 
+
+PetStore.com is another online pet store. 
+
+Pharmaceutical companies make medicines. 
+
+Philanthropy is when people give money or time to help others. 
+
+Philosophy is the study of big questions about life. 
+
+Physics is the science that studies matter and energy. 
+
+Planning is important for achieving goals. 
+
+Plato was a famous philosopher from ancient Greece. 
+
+Politics involves making decisions for a group or community. 
+
+Polling is the process of asking people their opinions. 
+
+Pollsters are people who conduct polls. 
+
+Pollution is harmful waste that affects the environment. 
+
+A diversified portfolio is a mix of different investments to reduce risk. 
+
+Possession means owning something. 
+
+The power law is a concept in statistics that describes how some things are much more common than others. 
+
+Venture capital is money invested in new businesses. 
+
+Power Sellers on eBay are top sellers who make a lot of sales. 
+
+Elvis Presley was a famous musician and actor. 
+
+Priceline.com is a website for booking travel. 
+
+Prince was a well-known musician. 
+
+Procter & Gamble is a big company that makes many household products. 
+
+Profits are the money a company makes after paying its costs.

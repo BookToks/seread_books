@@ -1,17 +1,17 @@
 “Hey, do you want to grab coffee?”
 
-Email #2: “We should talk about the research problem we discussed last time I was here. Can you remind me where we left off?”
+Email #2: “Let’s get back to that research problem we talked about last time. Where are we with that?”
 
 Email #3: “I worked on that article we talked about. It’s attached. What do you think?”
 
-These examples are pretty common for people who work with information. They show the kind of messages that fill up our inboxes. But they can also be tricky: how you reply can really affect how much time and focus the conversation takes up.
+These three emails are pretty common for people who work with information. They show the kind of messages that fill up our inboxes. But they can also be tricky: how you reply can really affect how much time and focus the conversation takes from you.
 
-When you get emails like these, your first instinct might be to quickly reply just to get them out of your inbox. A fast reply might feel good at first because it shifts the responsibility back to the sender. But this relief doesn’t last long because the responsibility will just keep coming back, taking up more of your time and energy. 
+When you get emails like these, you might feel the urge to quickly reply just to get them out of your inbox. A fast response might feel good for a moment because it shifts the responsibility back to the sender. But that relief doesn’t last long, as the responsibility keeps coming back to you, taking up your time and focus. So, it’s better to pause before replying and think about this important question: What project is this email about, and what’s the best way to handle it so we can finish it efficiently?
 
-So, I suggest that instead of rushing to reply, take a moment to think about this important question: What project is this email about, and what’s the best way to handle it so we can finish it efficiently?
+Once you’ve thought about this, instead of sending a quick reply, take the time to explain the process you figured out, mention what step you’re on, and highlight what needs to happen next. I call this the process-centric approach to email, and it helps reduce the number of emails you get and the mental stress they cause.
 
-Once you’ve thought about that, instead of a quick reply, send a response that explains the process you figured out, mentions where you are now, and highlights what needs to happen next. I call this the process-centric approach to email, and it helps reduce the number of emails you get and the mental clutter they create.
+To show how this works, here are some process-centric replies to the earlier emails:
 
-To show how this works, here’s a process-centric reply to the first email: “I’d love to grab coffee! Let’s meet at the Starbucks on campus. Here are two days next week when I’m free, with three times for each day. If any of those work for you, just let me know, and I’ll take that as a confirmation. If none of those times work, call me at the number below, and we can figure out a time that does. Looking forward to it!”
+Process-Centric Response to Email #1: “I’d love to grab coffee! Let’s meet at the Starbucks on campus. Here are two days next week when I’m free, with three times for each day. If any of those work for you, let me know, and I’ll take your reply as a confirmation. If not, call me at the number below, and we can figure out a time. Looking forward to it!”
 
-And here’s a process-centric reply to the second email: “I agree we should go back to this problem. Here’s what I suggest…”
+Process-Centric Response to Email #2: “I agree we should get back to this problem. Here’s what I suggest…”

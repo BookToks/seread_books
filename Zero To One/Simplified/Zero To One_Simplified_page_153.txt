@@ -1,97 +1,83 @@
-Interstate Highway System
+Interstate Highway System is a network of roads that connects different states in the U.S. It makes traveling easier and faster for everyone. 
 
-Intuit
+Intuit is a company that creates software to help people manage their money and taxes. 
 
-investment
+Investment is when you put money into something hoping it will grow over time. 
 
-iPad
+The iPad, iPhone, and iPod are popular devices made by Apple. They help people stay connected and entertained. 
 
-iPhone
+Irrational exuberance is when people get overly excited about something, like a new trend or investment, without thinking clearly. 
 
-iPod
+Italy is a country known for its rich history, art, and delicious food. 
 
-irrational exuberance
+IT startups are new companies that focus on technology and innovation. 
 
-Italy
+Ivan and Hurricane refer to events or people that have made an impact in their fields. 
 
-IT startups
+Michael Jackson was a famous musician known for his incredible talent and unique style. 
 
-Ivan, Hurricane
+Japan is a country known for its advanced technology and culture. 
 
-Jackson, Michael
+Ken Jennings and Peter Jennings are known for their work in television, especially on the quiz show Jeopardy! 
 
-Japan
+Steve Jobs was a key figure in creating Apple products and changing the tech industry. 
 
-Jennings, Ken
+Jim Jones and Janis Joplin are notable figures in music history. 
 
-Jennings, Peter
+Justice refers to fairness and the legal system that helps maintain it. 
 
-Jeopardy!
+The U.S. Justice Department works to enforce laws and protect citizens. 
 
-Jobs, Steve
+Ted Kaczynski is known for his criminal activities and his background as a mathematician. 
 
-Jones, Jim
+Jawed Karim and Alex Karp are known for their contributions to technology and startups. 
 
-Joplin, Janis
+Garry Kasparov is a famous chess player known for his skills and strategies. 
 
-justice
+Hurricane Katrina was a devastating storm that affected many lives in the U.S. 
 
-Justice Department, U.S.
+Anthony Kennedy was a Supreme Court Justice who made important decisions. 
 
-Kaczynski, Ted
+Ken Kesey was an author known for his influential works. 
 
-Karim, Jawed
+Andy Kessler is a writer and investor known for his insights on technology. 
 
-Karp, Alex
+Ray Kurzweil is known for his predictions about the future of technology. 
 
-Kasparov, Garry
+The last mover advantage is when a company comes in last but still succeeds by learning from others. 
 
-Katrina, Hurricane
+The lean startup method is a way to create businesses more efficiently. 
 
-Kennedy, Anthony
+Max Levchin is a tech entrepreneur known for his work in startups. 
 
-Kesey, Ken
+Aaron Levie is also a notable figure in the tech world. 
 
-Kessler, Andy
+Lifespan refers to how long someone or something lives. 
 
-Kurzweil, Ray
+Life tables are charts that show the average lifespan of people. 
 
-last mover
+LinkedIn is a social network for professionals to connect and share job opportunities. 
 
-last mover advantage
+Bernard Loiseau was a famous chef known for his culinary skills. 
 
-lean startup
+Long-Term Capital Management (LTCM) was a hedge fund that faced major financial issues. 
 
-Levchin, Max
+The Lord of the Rings is a famous book series by J.R.R. Tolkien. 
 
-Levie, Aaron
+Luck can play a big role in success and opportunities. 
 
-lifespan
+Lucretius was a philosopher known for his ideas about life and nature. 
 
-life tables
+Lyft is a ride-sharing service that helps people get around. 
 
-LinkedIn
+The MacBook is a popular laptop made by Apple. 
 
-Loiseau, Bernard
+Machine learning is a type of technology that helps computers learn from data. 
 
-Long-Term Capital Management (LTCM)
+James Madison was an important figure in American history. 
 
-Lord of the Rings
+Alexis Madrigal is a journalist known for his work in technology. 
 
-luck
+The Manhattan Project was a secret U.S. project during World War II that developed atomic bombs. 
 
-Lucretius
-
-Lyft
-
-MacBook
-
-machine learning
-
-Madison, James
-
-Madrigal, Alexis
-
-Manhattan Project
-
-Manson, Charles
+Charles Manson was a criminal known for leading a cult.

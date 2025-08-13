@@ -1,13 +1,11 @@
-High-Quality Work Produced = (Time Spent) x (Intensity of Focus)
+High-Quality Work Produced = (Time Spent) x (Intensity of Focus). 
 
-If you believe this formula, then Grant’s habits make sense. By focusing really hard when he works, he gets better results in less time.
+If you believe this formula, then Grant’s habits make sense. By focusing really hard when he works, he gets better results for the time he spends working. 
 
-I first came across this idea when I was working on my second book, How to Become a Straight-A Student. During my research, I talked to about fifty top college students from some of the best schools in the country. I noticed that the highest-scoring students often studied less than those just below them in grades. One reason for this is that the best students knew how important focus is for getting things done. They worked hard to stay concentrated, which helped them study less while still getting great results.
+I first learned about this idea when I was writing my second book, How to Become a Straight-A Student. During my research, I talked to about fifty top college students from some of the best schools. I noticed that the best students often studied less than those who were just below them in grades. One reason for this is that the top students knew how important focus is for getting things done. They worked hard to concentrate, which helped them study less time for tests or write papers without lowering their grades. 
 
-Adam Grant's example shows that this focus formula works not just for college grades but also for other tough tasks. But why is that? A professor named Sophie Leroy from the University of Minnesota has an interesting explanation. In a paper she wrote in 2009 called “Why Is It So Hard to Do My Work?”, she talked about something she called attention residue.
+Adam Grant’s example shows that this focus formula is important not just for college grades but also for other tough tasks. But why is that? Sophie Leroy, a business professor at the University of Minnesota, has an interesting answer. In a paper she wrote in 2009 called “Why Is It So Hard to Do My Work?”, Leroy talked about something she named attention residue. 
 
-In her paper, Leroy pointed out that while many people have studied how multitasking affects performance, in today’s work environment, it’s more common for people to switch between different projects one after the other. She explains that moving from one meeting to another or starting one project and then quickly switching to another is just part of working in organizations.
+She explained that while many people multitask, in offices, it’s more common to switch between different projects one after the other. For example, moving from one meeting to another or starting one project and then quickly going to another is just part of working life. The problem with this way of working is that when you switch from Task A to Task B, your mind doesn’t fully follow. Some of your attention stays stuck on Task A. This leftover attention gets worse if you didn’t focus much on Task A before switching, but even if you finish Task A, your mind stays split for a bit. 
 
-The problem with this way of working is that when you switch from Task A to Task B, your mind doesn’t immediately follow. Some of your attention stays stuck on Task A. This leftover attention gets worse if you didn’t focus much on Task A before switching. Even if you finish Task A before moving on, your mind stays divided for a bit.
-
-Leroy studied how this attention residue affects performance by making people switch tasks in a lab. In one experiment, for example, she started her...
+Leroy studied how this attention residue affects performance by making people switch tasks in a lab. In one experiment, she started her...

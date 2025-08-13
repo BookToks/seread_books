@@ -1,92 +1,41 @@
-Confinity  
-Congress, U.S.  
-6.1  
-11.1  
-13.1  
+Confinity is a company that was involved in the early days of online payments. They worked with Congress in the U.S. to help shape laws about money and technology. 
 
-Constitutional Convention  
-consultants  
-consulting  
-thinking differently  
-control  
-common beliefs,  
-8.1  
-8.2  
-bravery  
-credit card scams  
-cults,  
-8.1  
-10.1  
+At the Constitutional Convention, people discussed important ideas about how the government should work. Some experts, called consultants, helped guide these discussions. 
 
-Customer Acquisition Cost (CAC),  
-11.1  
-11.2  
-Customer Lifetime Value (CLV),  
-11.1  
-11.2  
+There are different ways of thinking about problems, like being a contrarian, which means going against what most people believe. Having control over your decisions and being brave is important too. 
 
-Daimler  
-Charles Darwin  
-Deep Blue  
-positive thinking,  
-6.1  
-6.2  
-negative thinking,  
-6.1  
-6.2  
+Credit card fraud is when someone steals your card information to buy things without your permission. Some groups, known as cults, can be harmful and trick people into following them. 
 
-Michael Dell  
-Department of Motor Vehicles (DMV)  
-design  
-DeskJet 500C  
-Leonardo DiCaprio  
-big changes  
-distribution,  
-11.1  
-11.2  
-11.3  
-11.4  
-power law of  
-at Tesla  
+Customer Acquisition Cost (CAC) is how much money a company spends to get a new customer. Customer Lifetime Value (CLV) is how much money a customer will spend over their whole time with a company. 
 
-John Doerr  
-James Doohan  
-Jack Dorsey  
-dot-com crash,  
-4.1  
-4.2  
-dot-com craze,  
-2.1  
-2.2  
-lessons learned from  
-Dow Jones Industrial Average  
-Patricia Dunn  
-Bob Dylan  
-Dale Earnhardt, Jr.  
-East Asian financial crises  
+Companies like Daimler and Dell have made big impacts in their industries. Charles Darwin is known for his ideas about evolution, and Deep Blue was a computer that could play chess really well. 
 
-eBay,  
-4.1  
-5.1  
-5.2  
-5.3  
-9.1  
-10.1  
-11.1  
-economies of scale  
-school system  
-efficient markets  
-Albert Einstein  
-electric cars,  
-13.1  
-13.2  
+Definite optimism is when you believe good things will happen, while definite pessimism is when you expect bad things. 
 
-Larry Ellison  
-email  
-Ralph Waldo Emerson  
-Empire State Building  
-Energy Conversion Devices  
-U.S. Energy Department  
-Energy Innovations  
-Friedrich Engels  
-entitlement spending
+The Department of Motor Vehicles (DMV) is where you go for things like driver's licenses. Design is about how things look and work. The DeskJet 500C is a type of printer. 
+
+Leonardo DiCaprio is a famous actor, and disruption means changing the way things are usually done. Distribution is how products are delivered to customers. 
+
+The power law of distribution means that a few things are really popular while most are not. Tesla is a company that makes electric cars. 
+
+John Doerr and James Doohan are notable figures in their fields. Jack Dorsey is known for creating Twitter. 
+
+The dot-com crash was when many internet companies lost a lot of money, and dot-com mania was the excitement around those companies before the crash. 
+
+The Dow Jones Industrial Average is a way to measure how well the stock market is doing. Patricia Dunn and Bob Dylan are also well-known names. 
+
+Dale Earnhardt, Jr. is a famous race car driver. The East Asian financial crises were tough times for economies in that region. 
+
+eBay is a popular online auction site where you can buy and sell things. Economies of scale mean that bigger companies can make things cheaper. 
+
+The educational system is how schools and learning are organized. Efficient markets mean that prices reflect all available information. 
+
+Albert Einstein was a famous scientist known for his theories. Electric cars are becoming more popular because they are better for the environment. 
+
+Larry Ellison is a tech entrepreneur, and email is a way to send messages online. Ralph Waldo Emerson was a writer and philosopher. 
+
+The Empire State Building is a famous skyscraper in New York City. Energy Conversion Devices and the U.S. Energy Department work on new ways to use energy. 
+
+Energy Innovations focus on creating better energy solutions, and Friedrich Engels was a thinker who discussed social issues. 
+
+Entitlement spending is money the government spends on programs for people who need help.

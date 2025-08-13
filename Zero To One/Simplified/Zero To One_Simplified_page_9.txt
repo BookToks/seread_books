@@ -1,11 +1,7 @@
-ZERO TO ONE: THE FUTURE OF PROGRESS
+When we think about the future, we want to see progress. There are two types of progress: horizontal and vertical. 
 
-When we think about the future, we want it to be better. There are two ways this can happen. 
+Horizontal progress means copying things that already work, like going from 1 to many. This is easy to picture because we see it all the time. Vertical progress, on the other hand, means creating something new, like going from 0 to 1. This is harder to imagine because it involves doing something no one has done before. For example, if you take one typewriter and make 100 of them, that’s horizontal progress. But if you take a typewriter and invent a word processor, that’s vertical progress.
 
-Horizontal progress means copying things that already work—like going from 1 to n. This is easy to picture because we see it all the time. 
+On a bigger scale, horizontal progress is called globalization. This means taking successful ideas from one place and making them work everywhere. China is a great example of this. Their plan for the next 20 years is to become like the United States today. They have been copying things that work in other countries, like old railroads and modern air conditioning. Sometimes they skip steps, like going straight to wireless internet instead of using landlines first, but they are still copying.
 
-Vertical progress means creating new things—going from 0 to 1. This is harder to imagine because it involves doing something that no one has done before. For example, if you take one typewriter and make 100 of them, that’s horizontal progress. But if you take a typewriter and invent a word processor, that’s vertical progress.
-
-On a larger scale, horizontal progress is called globalization. This means taking ideas that work in one place and making them work everywhere. A good example is China. They have a plan to become like the United States today. They are copying everything that has worked in other countries, like 19th-century railroads and 20th-century air conditioning. Sometimes they skip steps, like going straight to wireless internet without using landlines first, but they are still copying.
-
-Vertical progress, or going from 0 to 1, is called technology. In recent years, the fast growth of information technology has made Silicon Valley the center of technology. But technology isn’t just about computers. In fact, any new and better way of doing things can be considered technology.
+Vertical progress, or going from 0 to 1, is all about technology. The fast growth of information technology in recent years has made Silicon Valley the center of tech innovation. But technology isn’t just about computers. In fact, any new and better way of doing things can be considered technology.

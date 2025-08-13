@@ -1,5 +1,3 @@
-Lexical decision games show strings of letters on the screen. Some of these strings are real words, and some are not. 
+Lexical decision games show a bunch of letters on the screen. Some of these letters make real words, while others don’t. The player needs to quickly decide if the word is real or not by pressing one key for “real” and another for “not real.” 
 
-The player has to quickly decide if the word is real or fake by pressing one key for “real” and another for “not real.” 
-
-These tests help measure how much certain words are “activated” in the player’s mind. When a word is more activated, the player can hit the “real word” key faster when they see it on the screen.
+These tests help measure how much certain words are “activated” in the player’s brain. When a word is more activated, the player can hit the “real word” button faster when they see it pop up on the screen.

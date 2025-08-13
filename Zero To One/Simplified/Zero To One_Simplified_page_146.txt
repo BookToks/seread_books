@@ -1,11 +1,9 @@
-Acknowledgments
+Thanks to Jimmy Kaltreider for helping us come up with ideas for this book. 
 
-Thanks to Jimmy Kaltreider for helping us figure out this book.
+Shout out to Rob Morrow, Scott Nolan, and Michael Solana for creating the Stanford class that got us started. 
 
-Shoutout to Rob Morrow, Scott Nolan, and Michael Solana for creating the Stanford class that got us started.
+Big thanks to Chris Parris-Lamb, Tina Constable, David Drake, Talia Krohn, and Jeremiah Hall for expertly helping us get this book published. 
 
-Big thanks to Chris Parris-Lamb, Tina Constable, David Drake, Talia Krohn, and Jeremiah Hall for helping us get published.
+We appreciate everyone at Thiel Capital, Founders Fund, Mithril, and the Thiel Foundation for their hard work and smart thinking. 
 
-Thanks to everyone at Thiel Capital, Founders Fund, Mithril, and the Thiel Foundation for working hard and smart.
-
-Let’s keep going!
+Let’s keep moving forward.
