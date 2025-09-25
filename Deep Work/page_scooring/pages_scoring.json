@@ -1,0 +1,762 @@
+[
+    {
+        "page_number": 1,
+        "scoring": 4
+    },
+    {
+        "page_number": 2,
+        "scoring": 4
+    },
+    {
+        "page_number": 3,
+        "scoring": 3
+    },
+    {
+        "page_number": 4,
+        "scoring": 4
+    },
+    {
+        "page_number": 5,
+        "scoring": 3
+    },
+    {
+        "page_number": 6,
+        "scoring": 5
+    },
+    {
+        "page_number": 7,
+        "scoring": 1
+    },
+    {
+        "page_number": 8,
+        "scoring": 4
+    },
+    {
+        "page_number": 9,
+        "scoring": 4
+    },
+    {
+        "page_number": 10,
+        "scoring": 5
+    },
+    {
+        "page_number": 11,
+        "scoring": 3
+    },
+    {
+        "page_number": 12,
+        "scoring": 4
+    },
+    {
+        "page_number": 13,
+        "scoring": 3
+    },
+    {
+        "page_number": 14,
+        "scoring": 3
+    },
+    {
+        "page_number": 15,
+        "scoring": 5
+    },
+    {
+        "page_number": 16,
+        "scoring": 1
+    },
+    {
+        "page_number": 17,
+        "scoring": 1
+    },
+    {
+        "page_number": 18,
+        "scoring": 1
+    },
+    {
+        "page_number": 19,
+        "scoring": 5
+    },
+    {
+        "page_number": 20,
+        "scoring": 1
+    },
+    {
+        "page_number": 21,
+        "scoring": 4
+    },
+    {
+        "page_number": 22,
+        "scoring": 4
+    },
+    {
+        "page_number": 23,
+        "scoring": 2
+    },
+    {
+        "page_number": 24,
+        "scoring": 2
+    },
+    {
+        "page_number": 25,
+        "scoring": 2
+    },
+    {
+        "page_number": 26,
+        "scoring": 3
+    },
+    {
+        "page_number": 27,
+        "scoring": 3
+    },
+    {
+        "page_number": 28,
+        "scoring": 2
+    },
+    {
+        "page_number": 29,
+        "scoring": 5
+    },
+    {
+        "page_number": 30,
+        "scoring": 5
+    },
+    {
+        "page_number": 31,
+        "scoring": 4
+    },
+    {
+        "page_number": 32,
+        "scoring": 3
+    },
+    {
+        "page_number": 33,
+        "scoring": 5
+    },
+    {
+        "page_number": 34,
+        "scoring": 2
+    },
+    {
+        "page_number": 35,
+        "scoring": 2
+    },
+    {
+        "page_number": 36,
+        "scoring": 2
+    },
+    {
+        "page_number": 37,
+        "scoring": 3
+    },
+    {
+        "page_number": 38,
+        "scoring": 5
+    },
+    {
+        "page_number": 39,
+        "scoring": 2
+    },
+    {
+        "page_number": 40,
+        "scoring": 3
+    },
+    {
+        "page_number": 41,
+        "scoring": 5
+    },
+    {
+        "page_number": 42,
+        "scoring": 3
+    },
+    {
+        "page_number": 43,
+        "scoring": 3
+    },
+    {
+        "page_number": 44,
+        "scoring": 5
+    },
+    {
+        "page_number": 45,
+        "scoring": 2
+    },
+    {
+        "page_number": 46,
+        "scoring": 1
+    },
+    {
+        "page_number": 47,
+        "scoring": 4
+    },
+    {
+        "page_number": 48,
+        "scoring": 5
+    },
+    {
+        "page_number": 49,
+        "scoring": 1
+    },
+    {
+        "page_number": 50,
+        "scoring": 3
+    },
+    {
+        "page_number": 51,
+        "scoring": 4
+    },
+    {
+        "page_number": 52,
+        "scoring": 3
+    },
+    {
+        "page_number": 53,
+        "scoring": 2
+    },
+    {
+        "page_number": 54,
+        "scoring": 5
+    },
+    {
+        "page_number": 55,
+        "scoring": 5
+    },
+    {
+        "page_number": 56,
+        "scoring": 4
+    },
+    {
+        "page_number": 57,
+        "scoring": 5
+    },
+    {
+        "page_number": 58,
+        "scoring": 5
+    },
+    {
+        "page_number": 59,
+        "scoring": 1
+    },
+    {
+        "page_number": 60,
+        "scoring": 1
+    },
+    {
+        "page_number": 61,
+        "scoring": 3
+    },
+    {
+        "page_number": 62,
+        "scoring": 5
+    },
+    {
+        "page_number": 63,
+        "scoring": 1
+    },
+    {
+        "page_number": 64,
+        "scoring": 3
+    },
+    {
+        "page_number": 65,
+        "scoring": 1
+    },
+    {
+        "page_number": 66,
+        "scoring": 1
+    },
+    {
+        "page_number": 67,
+        "scoring": 2
+    },
+    {
+        "page_number": 68,
+        "scoring": 1
+    },
+    {
+        "page_number": 69,
+        "scoring": 1
+    },
+    {
+        "page_number": 70,
+        "scoring": 4
+    },
+    {
+        "page_number": 71,
+        "scoring": 2
+    },
+    {
+        "page_number": 72,
+        "scoring": 1
+    },
+    {
+        "page_number": 73,
+        "scoring": 4
+    },
+    {
+        "page_number": 74,
+        "scoring": 5
+    },
+    {
+        "page_number": 75,
+        "scoring": 4
+    },
+    {
+        "page_number": 76,
+        "scoring": 1
+    },
+    {
+        "page_number": 77,
+        "scoring": 5
+    },
+    {
+        "page_number": 78,
+        "scoring": 2
+    },
+    {
+        "page_number": 79,
+        "scoring": 3
+    },
+    {
+        "page_number": 80,
+        "scoring": 5
+    },
+    {
+        "page_number": 81,
+        "scoring": 5
+    },
+    {
+        "page_number": 82,
+        "scoring": 2
+    },
+    {
+        "page_number": 83,
+        "scoring": 5
+    },
+    {
+        "page_number": 84,
+        "scoring": 4
+    },
+    {
+        "page_number": 85,
+        "scoring": 3
+    },
+    {
+        "page_number": 86,
+        "scoring": 4
+    },
+    {
+        "page_number": 87,
+        "scoring": 1
+    },
+    {
+        "page_number": 88,
+        "scoring": 3
+    },
+    {
+        "page_number": 89,
+        "scoring": 3
+    },
+    {
+        "page_number": 90,
+        "scoring": 2
+    },
+    {
+        "page_number": 91,
+        "scoring": 3
+    },
+    {
+        "page_number": 92,
+        "scoring": 3
+    },
+    {
+        "page_number": 93,
+        "scoring": 4
+    },
+    {
+        "page_number": 94,
+        "scoring": 4
+    },
+    {
+        "page_number": 95,
+        "scoring": 4
+    },
+    {
+        "page_number": 96,
+        "scoring": 1
+    },
+    {
+        "page_number": 97,
+        "scoring": 5
+    },
+    {
+        "page_number": 98,
+        "scoring": 2
+    },
+    {
+        "page_number": 99,
+        "scoring": 2
+    },
+    {
+        "page_number": 100,
+        "scoring": 3
+    },
+    {
+        "page_number": 101,
+        "scoring": 1
+    },
+    {
+        "page_number": 102,
+        "scoring": 2
+    },
+    {
+        "page_number": 103,
+        "scoring": 3
+    },
+    {
+        "page_number": 104,
+        "scoring": 4
+    },
+    {
+        "page_number": 105,
+        "scoring": 4
+    },
+    {
+        "page_number": 106,
+        "scoring": 2
+    },
+    {
+        "page_number": 107,
+        "scoring": 3
+    },
+    {
+        "page_number": 108,
+        "scoring": 2
+    },
+    {
+        "page_number": 109,
+        "scoring": 1
+    },
+    {
+        "page_number": 110,
+        "scoring": 1
+    },
+    {
+        "page_number": 111,
+        "scoring": 1
+    },
+    {
+        "page_number": 112,
+        "scoring": 5
+    },
+    {
+        "page_number": 113,
+        "scoring": 3
+    },
+    {
+        "page_number": 114,
+        "scoring": 1
+    },
+    {
+        "page_number": 115,
+        "scoring": 5
+    },
+    {
+        "page_number": 116,
+        "scoring": 4
+    },
+    {
+        "page_number": 117,
+        "scoring": 1
+    },
+    {
+        "page_number": 118,
+        "scoring": 1
+    },
+    {
+        "page_number": 119,
+        "scoring": 3
+    },
+    {
+        "page_number": 120,
+        "scoring": 2
+    },
+    {
+        "page_number": 121,
+        "scoring": 3
+    },
+    {
+        "page_number": 122,
+        "scoring": 5
+    },
+    {
+        "page_number": 123,
+        "scoring": 3
+    },
+    {
+        "page_number": 124,
+        "scoring": 5
+    },
+    {
+        "page_number": 125,
+        "scoring": 5
+    },
+    {
+        "page_number": 126,
+        "scoring": 2
+    },
+    {
+        "page_number": 127,
+        "scoring": 5
+    },
+    {
+        "page_number": 128,
+        "scoring": 5
+    },
+    {
+        "page_number": 129,
+        "scoring": 3
+    },
+    {
+        "page_number": 130,
+        "scoring": 2
+    },
+    {
+        "page_number": 131,
+        "scoring": 3
+    },
+    {
+        "page_number": 132,
+        "scoring": 1
+    },
+    {
+        "page_number": 133,
+        "scoring": 5
+    },
+    {
+        "page_number": 134,
+        "scoring": 4
+    },
+    {
+        "page_number": 135,
+        "scoring": 4
+    },
+    {
+        "page_number": 136,
+        "scoring": 3
+    },
+    {
+        "page_number": 137,
+        "scoring": 1
+    },
+    {
+        "page_number": 138,
+        "scoring": 2
+    },
+    {
+        "page_number": 139,
+        "scoring": 2
+    },
+    {
+        "page_number": 140,
+        "scoring": 1
+    },
+    {
+        "page_number": 141,
+        "scoring": 4
+    },
+    {
+        "page_number": 142,
+        "scoring": 4
+    },
+    {
+        "page_number": 143,
+        "scoring": 1
+    },
+    {
+        "page_number": 144,
+        "scoring": 4
+    },
+    {
+        "page_number": 145,
+        "scoring": 5
+    },
+    {
+        "page_number": 146,
+        "scoring": 2
+    },
+    {
+        "page_number": 147,
+        "scoring": 4
+    },
+    {
+        "page_number": 148,
+        "scoring": 4
+    },
+    {
+        "page_number": 149,
+        "scoring": 4
+    },
+    {
+        "page_number": 150,
+        "scoring": 2
+    },
+    {
+        "page_number": 151,
+        "scoring": 5
+    },
+    {
+        "page_number": 152,
+        "scoring": 4
+    },
+    {
+        "page_number": 153,
+        "scoring": 1
+    },
+    {
+        "page_number": 154,
+        "scoring": 2
+    },
+    {
+        "page_number": 155,
+        "scoring": 3
+    },
+    {
+        "page_number": 156,
+        "scoring": 5
+    },
+    {
+        "page_number": 157,
+        "scoring": 2
+    },
+    {
+        "page_number": 158,
+        "scoring": 2
+    },
+    {
+        "page_number": 159,
+        "scoring": 4
+    },
+    {
+        "page_number": 160,
+        "scoring": 2
+    },
+    {
+        "page_number": 161,
+        "scoring": 1
+    },
+    {
+        "page_number": 162,
+        "scoring": 4
+    },
+    {
+        "page_number": 163,
+        "scoring": 4
+    },
+    {
+        "page_number": 164,
+        "scoring": 4
+    },
+    {
+        "page_number": 165,
+        "scoring": 3
+    },
+    {
+        "page_number": 166,
+        "scoring": 5
+    },
+    {
+        "page_number": 167,
+        "scoring": 4
+    },
+    {
+        "page_number": 168,
+        "scoring": 5
+    },
+    {
+        "page_number": 169,
+        "scoring": 2
+    },
+    {
+        "page_number": 170,
+        "scoring": 1
+    },
+    {
+        "page_number": 171,
+        "scoring": 5
+    },
+    {
+        "page_number": 172,
+        "scoring": 3
+    },
+    {
+        "page_number": 173,
+        "scoring": 2
+    },
+    {
+        "page_number": 174,
+        "scoring": 2
+    },
+    {
+        "page_number": 175,
+        "scoring": 4
+    },
+    {
+        "page_number": 176,
+        "scoring": 5
+    },
+    {
+        "page_number": 177,
+        "scoring": 5
+    },
+    {
+        "page_number": 178,
+        "scoring": 5
+    },
+    {
+        "page_number": 179,
+        "scoring": 4
+    },
+    {
+        "page_number": 180,
+        "scoring": 1
+    },
+    {
+        "page_number": 181,
+        "scoring": 3
+    },
+    {
+        "page_number": 182,
+        "scoring": 4
+    },
+    {
+        "page_number": 183,
+        "scoring": 3
+    },
+    {
+        "page_number": 184,
+        "scoring": 5
+    },
+    {
+        "page_number": 185,
+        "scoring": 5
+    },
+    {
+        "page_number": 186,
+        "scoring": 2
+    },
+    {
+        "page_number": 187,
+        "scoring": 4
+    },
+    {
+        "page_number": 188,
+        "scoring": 1
+    },
+    {
+        "page_number": 189,
+        "scoring": 5
+    },
+    {
+        "page_number": 190,
+        "scoring": 3
+    }
+]
