@@ -1,0 +1,24 @@
+{
+  "id": "zero_to_one",
+  "title": "Zero to One",
+  "author": "Peter Thiel",
+  "isbn": "978-0804139298",
+  "publication_year": 2014,
+  "total_pages": 160,
+  "description": "Notes on Startups, or How to Build the Future",
+  "category": "Business",
+  "tags": [
+    "business",
+    "startups",
+    "entrepreneurship",
+    "innovation",
+    "technology"
+  ],
+  "reading_time": "4-6 hours",
+  "difficulty_level": "intermediate",
+  "cover_color": "#FF3B30",
+  "pdf_url": "content/original.pdf",
+  "skim_url": "content/skim_summary.json",
+  "pages_directory": "content/pages/",
+  "last_updated": "2025-09-25T16:31:52.014464Z"
+}

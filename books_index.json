@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "deep_work",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "description": "Rules for Focused Success in a Distracted World",
+      "category": "Productivity",
+      "total_pages": 190,
+      "reading_time": "5-7 hours",
+      "cover_color": "#007AFF",
+      "has_skim_data": true,
+      "last_updated": "2025-01-15T10:00:00Z"
+    },
+    {
+      "id": "zero_to_one",
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "description": "Notes on Startups, or How to Build the Future",
+      "category": "Business",
+      "total_pages": 160,
+      "reading_time": "4-6 hours",
+      "cover_color": "#FF3B30",
+      "has_skim_data": true,
+      "last_updated": "2025-01-15T10:00:00Z"
+    }
+  ]
+}
