@@ -47,6 +47,22 @@
       "supported_formats": ["original", "simplified", "gena", "article_style"],
       "default_format": "simplified",
       "last_updated": "2025-09-26T00:00:00Z"
+    },
+    {
+      "id": "thousand_spendid",
+      "title": "thousands pendid sun",
+      "author": "khalid husaini",
+      "description": "Notes on Startups, or How to Build the Future",
+      "category": "Business",
+      "total_pages": 10,
+      "reading_time": "1-2 hours",
+      "cover_color": "#FF3B30",
+      "has_skim_data": true,
+      "has_multiple_formats": true,
+      "available_format_count": 5,
+      "supported_formats": ["genz_style", "simplified", "original", "article_style","main"],
+      "default_format": "simplified",
+      "last_updated": "2025-09-26T00:00:00Z"
     }
   ],
   "repository_info": {
@@ -94,7 +110,19 @@
         "name": "Sandeep Style",
         "description": "This is a sandeep style - Modern, casual language with current references",
         "difficulty": "easy"
-      }
+      },
+      {
+        "id": "genz_style",
+        "name": "Gen-Z Style",
+        "description": "This is a genz style - Modern, casual language with current references",
+        "difficulty": "easy"
+      },
+      {
+        "id": "main",
+        "name": "Main Style",
+        "description": "This is a main style - Modern, casual language with current references",
+        "difficulty": "easy"
+      },
     ],
     "last_updated": "2025-09-26T00:00:00Z"
   }

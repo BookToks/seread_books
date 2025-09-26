@@ -1,0 +1,56 @@
+{
+  "book_id": "thousand_spendid",
+  "total_pages": 10,
+  "pages": [
+    {
+      "page_number": 1,
+      "summary": "The page provides bibliographic information about the book \"A Thousand Splendid Suns\" by Khaled Hosseini.",
+      "importance_score": 1
+    },
+    {
+      "page_number": 2,
+      "summary": "The page features the title and publication details of \"A Thousand Splendid Suns\" by Khaled Hosseini.",
+      "importance_score": 1
+    },
+    {
+      "page_number": 3,
+      "summary": "This book, \"A Thousand Splendid Suns,\" is a work of fiction by Khaled Hosseini that explores themes of family and life in Afghanistan.",
+      "importance_score": 1
+    },
+    {
+      "page_number": 4,
+      "summary": "This book is dedicated to the author's children and the women of Afghanistan.",
+      "importance_score": 2
+    },
+    {
+      "page_number": 5,
+      "summary": "Mariam, a young girl, grapples with her identity as an illegitimate child, feeling the sting of her mother's harsh words and the societal stigma attached to being a \"harami.\"",
+      "importance_score": 5
+    },
+    {
+      "page_number": 6,
+      "summary": "Mariam feels a sense of pride and enchantment when her father Jalil visits, despite her mother's disdain for him and their circumstances.",
+      "importance_score": 4
+    },
+    {
+      "page_number": 7,
+      "summary": "Nana teaches Mariam that in their world, women are often blamed for men's actions and suffer the consequences of male cowardice.",
+      "importance_score": 5
+    },
+    {
+      "page_number": 8,
+      "summary": "Nana reflects on her past and the circumstances surrounding her relationship with Jalil, expressing her disdain for societal judgment and her desire for isolation.",
+      "importance_score": 4
+    },
+    {
+      "page_number": 9,
+      "summary": "Nana reflects on a moment of happiness before her wedding, which was ultimately thwarted by her illness, leading to a life of isolation for Mariam.",
+      "importance_score": 4
+    },
+    {
+      "page_number": 10,
+      "summary": "Mariam grapples with conflicting narratives about her birth and the relationships with her parents, revealing her struggle for identity and understanding.",
+      "importance_score": 4
+    }
+  ]
+}
