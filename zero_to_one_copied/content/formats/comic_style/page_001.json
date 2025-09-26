@@ -1,25 +1,3 @@
 {
-  "page_number": 1,
-  "simplified_text": "",
-  "summary": "Insight context concept theme lesson curiosity context growth lesson lesson wisdom concept context interpretation detail insight meaning perspective theme understanding.",
-  "importance_score": 1,
-  "themes": [
-    "insight",
-    "context",
-    "concept",
-    "theme",
-    "lesson"
-  ],
-  "word_count": 0,
-  "has_images": false,
-  "processing_date": "2025-09-25T21:25:23.283077Z",
-  "format_id": "comic_style",
-  "content": "[SCENE: A thoughtful conversation]\n\nNARRATOR: \"In this chapter, we discover...\"\n\nCHARACTER: \"Insight context concept theme lesson curiosity context growth lesson lesson wisdom concept context interpretation detail insight meaning perspective theme understanding.\"\n\nNARRATOR: \"This insight changes everything about how we think about the topic.\"",
-  "reading_difficulty": "easy",
-  "estimated_read_time_seconds": 45,
-  "format_specific_data": {
-    "visual_style": "dialogue_based",
-    "narrative_boxes": true,
-    "character_speech": true
-  }
+  "text": ""
 }

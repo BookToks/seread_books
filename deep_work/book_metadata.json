@@ -2,17 +2,6 @@
   "id": "deep_work",
   "title": "Deep Work",
   "author": "Cal Newport",
-  "isbn": "978-1455586691",
-  "publication_year": 2016,
-  "total_pages": 190,
-  "description": "Rules for Focused Success in a Distracted World",
-  "category": "Productivity",
-  "tags": ["productivity", "focus", "work", "concentration", "attention", "distraction"],
-  "reading_time": "5-7 hours",
-  "difficulty_level": "intermediate",
-  "cover_color": "#007AFF",
   "pdf_url": "content/original.pdf",
-  "skim_url": "content/skim_summary.json",
-  "pages_directory": "content/pages/",
-  "last_updated": "2025-01-15T10:00:00Z"
+  "skim_url": "content/skim_summary.json"
 }

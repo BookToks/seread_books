@@ -5,62 +5,52 @@
     {
       "page_number": 1,
       "summary": "Experience discussion knowledge curiosity concept understanding meaning story perspective insight book lesson context journey chapter exploration story detail curiosity chapter.",
-      "importance_score": 4,
-      "themes": ["introduction", "curiosity", "learning", "experience"]
+      "importance_score": 4
     },
     {
       "page_number": 2,
       "summary": "Analysis learning learning growth story thought chapter discussion context theme idea experience learning thought story theme idea reflection detail concept.",
-      "importance_score": 4,
-      "themes": ["analysis", "growth", "learning", "reflection"]
+      "importance_score": 4
     },
     {
       "page_number": 3,
       "summary": "Insight book analysis learning insight book discussion mind experience experience chapter perspective insight theme concept thought detail understanding experience book.",
-      "importance_score": 3,
-      "themes": ["insight", "analysis", "understanding", "perspective"]
+      "importance_score": 3
     },
     {
       "page_number": 4,
       "summary": "Meaning reflection knowledge meaning discussion perspective learning discussion experience chapter concept concept mind interpretation theme knowledge story learning knowledge wisdom.",
-      "importance_score": 4,
-      "themes": ["meaning", "knowledge", "wisdom", "interpretation"]
+      "importance_score": 4
     },
     {
       "page_number": 5,
       "summary": "Curiosity wisdom reflection lesson concept curiosity detail chapter reader mind idea knowledge analysis journey growth journey lesson exploration reader thought.",
-      "importance_score": 3,
-      "themes": ["curiosity", "wisdom", "growth", "exploration"]
+      "importance_score": 3
     },
     {
       "page_number": 6,
       "summary": "Lesson thought idea wisdom perspective lesson story chapter book learning detail concept chapter theme reflection meaning analysis interpretation wisdom idea.",
-      "importance_score": 5,
-      "themes": ["lesson", "wisdom", "perspective", "interpretation"]
+      "importance_score": 5
     },
     {
       "page_number": 7,
       "summary": "Thought curiosity concept analysis chapter reflection discussion chapter discussion reflection detail mind detail thought story mind detail meaning learning lesson.",
-      "importance_score": 1,
-      "themes": ["thought", "curiosity", "analysis", "reflection"]
+      "importance_score": 1
     },
     {
       "page_number": 8,
       "summary": "Insight chapter book mind growth concept growth experience perspective mind analysis learning perspective theme meaning wisdom theme chapter journey mind.",
-      "importance_score": 4,
-      "themes": ["insight", "growth", "perspective", "wisdom"]
+      "importance_score": 4
     },
     {
       "page_number": 9,
       "summary": "Idea lesson reflection story idea mind lesson analysis discussion context perspective learning mind experience book reader lesson mind concept perspective.",
-      "importance_score": 4,
-      "themes": ["idea", "lesson", "perspective", "learning"]
+      "importance_score": 4
     },
     {
       "page_number": 10,
       "summary": "Theme journey reader interpretation idea growth detail reader context theme idea detail idea reader context meaning detail wisdom analysis experience.",
-      "importance_score": 5,
-      "themes": ["theme", "journey", "interpretation", "wisdom"]
+      "importance_score": 5
     }
   ],
   "last_updated": "2025-01-15T10:00:00Z"
