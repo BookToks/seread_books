@@ -9,12 +9,12 @@
     },
     {
       "page_number": 2,
-      "summary": "The page presents the title and publication details of the book \"A Thousand Splendid Suns\" by Khaled Hosseini.",
+      "summary": "The page contains the title and publication details of the book \"A Thousand Splendid Suns\" by Khaled Hosseini.",
       "importance_score": 1
     },
     {
       "page_number": 3,
-      "summary": "The page provides publication details and copyright information for Khaled Hosseini's novel \"A Thousand Splendid Suns.\"",
+      "summary": "This page provides publication details and copyright information for Khaled Hosseini's novel \"A Thousand Splendid Suns.\"",
       "importance_score": 1
     },
     {
@@ -24,17 +24,17 @@
     },
     {
       "page_number": 5,
-      "summary": "Mariam, a young girl labeled as a \"harami\" by her mother, grapples with her identity and the stigma of being an illegitimate child.",
-      "importance_score": 5
+      "summary": "Mariam, a young girl, grapples with her identity as an illegitimate child, feeling the sting of her mother's harsh words and the societal stigma attached to being a \"harami.\"",
+      "importance_score": 4
     },
     {
       "page_number": 6,
-      "summary": "Mariam feels a mix of pride and longing for her father Jalil, who shares enchanting stories of their city, despite her mother's disdain for him.",
+      "summary": "Mariam feels a mix of pride and longing for her father Jalil, who shares enchanting stories of their city, despite her mother's bitterness and the reality of her status as an illegitimate child.",
       "importance_score": 4
     },
     {
       "page_number": 7,
-      "summary": "Nana teaches Mariam that in their world, women are often blamed for men's actions and suffer the consequences of male cowardice.",
+      "summary": "Nana teaches Mariam that in their world, women are often unjustly blamed for men's actions.",
       "importance_score": 5
     },
     {
@@ -44,12 +44,12 @@
     },
     {
       "page_number": 9,
-      "summary": "Nana reflects on her brief happiness before Mariam's birth, which was overshadowed by her struggles and the cancellation of her wedding due to her fits.",
+      "summary": "Nana reflects on her brief happiness before Mariam's birth, which was overshadowed by a jinn's possession that led to the cancellation of her wedding.",
       "importance_score": 4
     },
     {
       "page_number": 10,
-      "summary": "Mariam grapples with conflicting narratives about her birth and the relationships with her parents, leading her to question her mother's version of events.",
+      "summary": "Mariam grapples with conflicting narratives about her birth and her parents' feelings towards her, leading to confusion and doubt about her identity.",
       "importance_score": 4
     }
   ]
