@@ -1,0 +1,56 @@
+{
+  "book_id": "thousand_spendid_naya_puri",
+  "total_pages": 10,
+  "pages": [
+    {
+      "page_number": 1,
+      "summary": "The page provides bibliographic details for the book \"A Thousand Splendid Suns\" by Khaled Hosseini.",
+      "importance_score": 2
+    },
+    {
+      "page_number": 2,
+      "summary": "The page presents the title and publication details of the book \"A Thousand Splendid Suns\" by Khaled Hosseini.",
+      "importance_score": 1
+    },
+    {
+      "page_number": 3,
+      "summary": "The page provides publication details and copyright information for Khaled Hosseini's novel \"A Thousand Splendid Suns.\"",
+      "importance_score": 1
+    },
+    {
+      "page_number": 4,
+      "summary": "This book is dedicated to Haris and Farah, and to the women of Afghanistan.",
+      "importance_score": 2
+    },
+    {
+      "page_number": 5,
+      "summary": "Mariam, a young girl labeled as a \"harami\" by her mother, grapples with her identity and the stigma of being an illegitimate child.",
+      "importance_score": 5
+    },
+    {
+      "page_number": 6,
+      "summary": "Mariam feels a mix of pride and longing for her father Jalil, who shares enchanting stories of their city, despite her mother's disdain for him.",
+      "importance_score": 4
+    },
+    {
+      "page_number": 7,
+      "summary": "Nana teaches Mariam that in their world, women are often blamed for men's actions and suffer the consequences of male cowardice.",
+      "importance_score": 5
+    },
+    {
+      "page_number": 8,
+      "summary": "Nana reflects on her past and the circumstances surrounding her relationship with Jalil, expressing her feelings of being treated like a weed and her desire for isolation.",
+      "importance_score": 4
+    },
+    {
+      "page_number": 9,
+      "summary": "Nana reflects on her brief happiness before Mariam's birth, which was overshadowed by her struggles and the cancellation of her wedding due to her fits.",
+      "importance_score": 4
+    },
+    {
+      "page_number": 10,
+      "summary": "Mariam grapples with conflicting narratives about her birth and the relationships with her parents, leading her to question her mother's version of events.",
+      "importance_score": 4
+    }
+  ]
+}
