@@ -10,7 +10,11 @@
       "reading_time": "5-7 hours",
       "cover_color": "#007AFF",
       "has_skim_data": true,
-      "last_updated": "2025-01-15T10:00:00Z"
+      "has_multiple_formats": true,
+      "available_format_count": 5,
+      "supported_formats": ["original", "simplified", "genz", "article_style", "comic_style"],
+      "default_format": "simplified",
+      "last_updated": "2025-09-26T00:00:00Z"
     },
     {
       "id": "zero_to_one",
@@ -22,7 +26,11 @@
       "reading_time": "4-6 hours",
       "cover_color": "#FF3B30",
       "has_skim_data": true,
-      "last_updated": "2025-01-15T10:00:00Z"
+      "has_multiple_formats": true,
+      "available_format_count": 5,
+      "supported_formats": ["original", "simplified", "genz", "article_style", "comic_style"],
+      "default_format": "simplified",
+      "last_updated": "2025-09-26T00:00:00Z"
     },
     {
       "id": "zero_to_one_copied",
@@ -34,7 +42,48 @@
       "reading_time": "4-6 hours",
       "cover_color": "#FF3B30",
       "has_skim_data": true,
-      "last_updated": "2025-09-25T16:31:52Z"
+      "has_multiple_formats": true,
+      "available_format_count": 5,
+      "supported_formats": ["original", "simplified", "genz", "article_style", "comic_style"],
+      "default_format": "simplified",
+      "last_updated": "2025-09-26T00:00:00Z"
     }
-  ]
+  ],
+  "repository_info": {
+    "total_books": 3,
+    "total_formats": 5,
+    "format_types": [
+      {
+        "id": "original",
+        "name": "Original Text",
+        "description": "Original book content with minimal processing",
+        "difficulty": "advanced"
+      },
+      {
+        "id": "simplified",
+        "name": "Simplified English",
+        "description": "Easy-to-read version with simplified vocabulary",
+        "difficulty": "beginner"
+      },
+      {
+        "id": "genz",
+        "name": "Gen-Z Style",
+        "description": "This is a genz style - Modern, casual language with current references",
+        "difficulty": "easy"
+      },
+      {
+        "id": "article_style",
+        "name": "Article Format",
+        "description": "Structured like magazine articles with clear sections",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": "comic_style",
+        "name": "Comic Style",
+        "description": "Visual storytelling with dialogue and narrative boxes",
+        "difficulty": "easy"
+      }
+    ],
+    "last_updated": "2025-09-26T00:00:00Z"
+  }
 }
