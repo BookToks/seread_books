@@ -95,26 +95,10 @@
       "supported_formats": ["comic", "simplified", "infographic", "genz_style"],
       "default_format": "simplified",
       "last_updated": "2025-09-26T00:00:00Z"
-    },
-    {
-      "id": "crime_and_punishment",
-      "title": "Crime and Punishment",
-      "author": "Fyodor Dostoevsky",
-      "description": "A crime and punishment story",
-      "category": "Novel",
-      "total_pages": 767,
-      "reading_time": "10-12 hours",
-      "cover_color": "#FF3B30",
-      "has_skim_data": true,
-      "has_multiple_formats": true,
-      "available_format_count": 5,
-      "supported_formats": ["comic", "simplified", "infographic", "genz_style"],
-      "default_format": "simplified",
-      "last_updated": "2025-09-26T00:00:00Z"
     }
   ],
   "repository_info": {
-    "total_books": 7,
+    "total_books": 6,
     "total_formats": 11,
     "format_types": [
       {
