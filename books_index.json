@@ -111,10 +111,26 @@
       "supported_formats": ["quick_read", "key_ideas", "genz_style"],
       "default_format": "quick_read",
       "last_updated": "2025-09-27T00:00:00Z"
+    },
+    {
+      "id": "Jiddu_Krishnamurt_The_Book_of_Life",
+      "title": "The Book of Life",
+      "author": "Jiddu Krishnamurt",
+      "description": "Daily Meditations with Jiddu Krishnamurti",
+      "category": "Philosophy",
+      "total_pages": 365,
+      "reading_time": "10-14 hours",
+      "cover_color": "#8E44AD",
+      "has_skim_data": true,
+      "has_multiple_formats": true,
+      "available_format_count": 3,
+      "supported_formats": ["quick_read", "key_ideas", "simplified"],
+      "default_format": "simplified",
+      "last_updated": "2025-09-28T00:00:00Z"
     }
   ],
   "repository_info": {
-    "total_books": 7,
+    "total_books": 8,
     "total_formats": 14,
     "format_types": [
       {
@@ -196,6 +212,6 @@
         "difficulty": "beginner"
       }
     ],
-    "last_updated": "2025-09-27T00:00:00Z"
+    "last_updated": "2025-09-28T00:00:00Z"
   }
 }
