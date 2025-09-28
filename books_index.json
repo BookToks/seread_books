@@ -27,7 +27,7 @@
       "cover_color": "#FF3B30",
       "has_skim_data": true,
       "has_multiple_formats": true,
-      "available_format_count": 5,
+      "available_format_count": 6,
       "supported_formats": ["original", "simplified", "genz", "article_style", "comic_style", "sandeep"],
       "default_format": "simplified",
       "last_updated": "2025-09-26T00:00:00Z"
@@ -43,7 +43,7 @@
       "cover_color": "#FF3B30",
       "has_skim_data": true,
       "has_multiple_formats": true,
-      "available_format_count": 5,
+      "available_format_count": 4,
       "supported_formats": ["original", "simplified", "gena", "article_style"],
       "default_format": "simplified",
       "last_updated": "2025-09-26T00:00:00Z"
@@ -75,7 +75,7 @@
       "cover_color": "#FF3B30",
       "has_skim_data": true,
       "has_multiple_formats": true,
-      "available_format_count": 5,
+      "available_format_count": 4,
       "supported_formats": ["genz_style", "simplified", "article_style", "main"],
       "default_format": "simplified",
       "last_updated": "2025-09-26T00:00:00Z"
@@ -91,15 +91,31 @@
       "cover_color": "#FF3B30",
       "has_skim_data": true,
       "has_multiple_formats": true,
-      "available_format_count": 5,
+      "available_format_count": 4,
       "supported_formats": ["comic", "simplified", "infographic", "genz_style"],
       "default_format": "simplified",
       "last_updated": "2025-09-26T00:00:00Z"
+    },
+    {
+      "id": "Essentialism_the_disciplined_pursuit_of_less",
+      "title": "Essentialism: The Disciplined Pursuit of Less",
+      "author": "Greg McKeown",
+      "description": "The Way of the Essentialist—focused living by doing less, better",
+      "category": "Productivity",
+      "total_pages": 236,
+      "reading_time": "6-8 hours",
+      "cover_color": "#34C759",
+      "has_skim_data": true,
+      "has_multiple_formats": true,
+      "available_format_count": 3,
+      "supported_formats": ["quick_read", "key_ideas", "genz_style"],
+      "default_format": "quick_read",
+      "last_updated": "2025-09-27T00:00:00Z"
     }
   ],
   "repository_info": {
-    "total_books": 6,
-    "total_formats": 11,
+    "total_books": 7,
+    "total_formats": 14,
     "format_types": [
       {
         "id": "original",
@@ -166,8 +182,20 @@
         "name": "Infographic Style",
         "description": "This is a infographic style - Modern, casual language with current references",
         "difficulty": "easy"
+      },
+      {
+        "id": "quick_read",
+        "name": "Quick Read",
+        "description": "Fast condensed version for busy readers",
+        "difficulty": "beginner"
+      },
+      {
+        "id": "key_ideas",
+        "name": "Key Ideas",
+        "description": "Highlights of main insights and lessons",
+        "difficulty": "beginner"
       }
     ],
-    "last_updated": "2025-09-26T00:00:00Z"
+    "last_updated": "2025-09-27T00:00:00Z"
   }
 }
